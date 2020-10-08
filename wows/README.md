@@ -1,4 +1,4 @@
-# CSGO Maps
+# World of Warships Maps
 
 Current index:
 
@@ -10,12 +10,10 @@ Current index:
 {
   "map_id": {
     "title": "string",
-    "type": "string(HOSTAGE_RESCUE|BOMB_DEFUSE)",
+    "type": "string(RANKED|CLAN_BATTLE|TOURNAMENT|ALL)",
     "file": "string(URL)"
   }
 }
 ```
 
-## Contributor
 
-[timternet](https://github.com/timternet)

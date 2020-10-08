@@ -1,0 +1,172 @@
+{
+  "archilpelago": {
+    "title": "Archilpelago",
+    "type": "ALL",
+    "file": "resources/archilpelagoHD.PNG"
+  },
+  "czaCB": {
+    "title": "Crash Zone Alpha (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/czaHDClanBattles.PNG"
+  },
+  "czaT": {
+    "title": "Crash Zone Alpha (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/czaHDTournament.PNG"
+  },
+  "greece": {
+    "title": "Greece",
+    "type": "ALL",
+    "file": "resources/greeceHD.PNG"
+  },
+  "haven": {
+    "title": "Haven",
+    "type": "ALL",
+    "file": "resources/havenHD.PNG"
+  },
+  "ioiCB": {
+    "title": "Islands Of Ice (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/ioiHDClanBattles.PNG"
+  },
+  "ioiT": {
+    "title": "Islands Of Ice (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/ioiHDTournament.PNG"
+  },
+  "lofCB": {
+    "title": "Land Of Fire (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/lofHDClanBattles.PNG"
+  },
+  "lofT": {
+    "title": "Land of Fire Tournament",
+    "type": "TOURNAMENT",
+    "file": "resources/lofHDTournament.PNG"
+  },
+  "loopCB": {
+    "title": "Loop (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/loopHDClanBattles.PNG"
+  },
+  "loopT": {
+    "title": "Loop (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/loopHDTournament.PNG"
+  },
+  "mr": {
+    "title": "Mountain Range",
+    "type": "ALL",
+    "file": "resources/mrHD.PNG"
+  },
+  "ndCB": {
+    "title": "New Dawn (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/ndHDClanBattles.PNG"
+  },
+  "ndT": {
+    "title": "New Dawn (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/ndHDTournament.PNG"
+  },
+  "neighboursCB": {
+    "title": "Neighbours (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/neighboursHDClanBattles.PNG"
+  },
+  "neighboursT": {
+    "title": "Neighbours (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/neighboursHDTournament.PNG"
+  },
+  "northCB": {
+    "title": "North (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/northHDClanBattles.PNG"
+  },
+  "northT": {
+    "title": "North (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/northHDTournament.PNG"
+  },
+  "nwCB": {
+    "title": "Northern Waters (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/nwHDClanBattles.PNG"
+  },
+  "nwT": {
+    "title": "Northern Waters (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/nwHDTournament.PNG"
+  },
+  "ocean": {
+    "title": "Ocean",
+    "type": "ALL",
+    "file": "resources/oceanHD.PNG"
+  },
+  "okinawa": {
+    "title": "Okinawa",
+    "type": "ALL",
+    "file": "resources/okinawaHD.PNG"
+  },
+  "ring": {
+    "title": "Ring",
+    "type": "ALL",
+    "file": "resources/ringHD.PNG"
+  },
+  "sgCB": {
+    "title": "Sleeping Giant (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/sgHDClanBattles.PNG"
+  },
+  "sgT": {
+    "title": "Sleeping Giant (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/sgHDTournament.PNG"
+  },
+  "shards": {
+    "title": "Shards",
+    "type": "ALL",
+    "file": "resources/shardsHD.PNG"
+  },
+  "shatter": {
+    "title": "Shatter",
+    "type": "ALL",
+    "file": "resources/shatterHD.PNG"
+  },
+  "sofCB": {
+    "title": "Sea Of Fortune (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/sofHDClanBattles.PNG"
+  },
+  "sofT": {
+    "title": "Sea Of Fortune (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/sofHDTournament.PNG"
+  },
+  "totdCB": {
+    "title": "Tears Of The Desert (CB)",
+    "type": "CLAN_BATTLE",
+    "file": "resources/totdHDClanBattles.PNG"
+  },
+  "totdT": {
+    "title": "Tears Of The Desert (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/totdHDTournament.PNG"
+  },
+  "trapT": {
+    "title": "Trap (T)",
+    "type": "TOURNAMENT",
+    "file": "resources/trapHDTournament.PNG"
+  },
+  "trapR": {
+    "title": "Trap (R)",
+    "type": "RANKED",
+    "file": "resources/trapHDRanked.PNG"
+  },
+  "trident": {
+    "title": "Trident",
+    "type": "ALL",
+    "file": "resources/tridentHD.PNG"
+  }
+}

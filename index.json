@@ -1,7 +1,7 @@
 {
   "wows": {
-    "index": "",
-    "disabled": false
+    "index": "/wows/data.json",
+    "disabled": true
   },
   "wot": {
     "index": "",

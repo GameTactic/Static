@@ -153,5 +153,36 @@
     },
     "isDefault": true,
     "categories": []
+  },
+  {
+    "label": "Ash",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/ash/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Eliza \"Ash\" Cohen is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. She is the leader of Forward Operations in Rainbow.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/ash/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
   }
 ]

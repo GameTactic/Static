@@ -1,1 +1,332 @@
-[{"label":"Breach","icon":{"src":"https://maps.gametactic.eu/r6/icons/breach/icon.png","width":170,"height":263,"format":"png"},"dimensions":{"width":170,"height":263},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Breach","picture":{"src":"https://maps.gametactic.eu/r6/icons/breach/picture.png","width":170,"height":263,"format":"png"},"isDefault":false,"categories":["Attackers"]},{"label":"Claymore","icon":{"src":"https://maps.gametactic.eu/r6/icons/claymore/icon.png","width":265,"height":253,"format":"png"},"dimensions":{"width":265,"height":253},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Claymore","picture":{"src":"https://maps.gametactic.eu/r6/icons/claymore/picture.png","width":265,"height":253,"format":"png"},"isDefault":false,"categories":["Attackers"]},{"label":"Flash","icon":{"src":"https://maps.gametactic.eu/r6/icons/flash/icon.png","width":155,"height":283,"format":"png"},"dimensions":{"width":155,"height":283},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Flash","picture":{"src":"https://maps.gametactic.eu/r6/icons/flash/picture.png","width":155,"height":283,"format":"png"},"isDefault":false,"categories":["Attackers"]},{"label":"Frag","icon":{"src":"https://maps.gametactic.eu/r6/icons/frag/icon.png","width":175,"height":206,"format":"png"},"dimensions":{"width":175,"height":206},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Frag","picture":{"src":"https://maps.gametactic.eu/r6/icons/frag/picture.png","width":175,"height":206,"format":"png"},"isDefault":false,"categories":["Attackers"]},{"label":"Smoke","icon":{"src":"https://maps.gametactic.eu/r6/icons/smoke/icon.png","width":150,"height":269,"format":"png"},"dimensions":{"width":150,"height":269},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Smoke","picture":{"src":"https://maps.gametactic.eu/r6/icons/smoke/picture.png","width":150,"height":269,"format":"png"},"isDefault":false,"categories":["Attackers"]},{"label":"Barbed Wire","icon":{"src":"https://maps.gametactic.eu/r6/icons/barbedwire/icon.png","width":230,"height":206,"format":"png"},"dimensions":{"width":230,"height":206},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Barbed Wire","picture":{"src":"https://maps.gametactic.eu/r6/icons/barbedwire/picture.png","width":230,"height":206,"format":"png"},"isDefault":false,"categories":["Defenders"]},{"label":"Bulletproof Cam","icon":{"src":"https://maps.gametactic.eu/r6/icons/bulletproofcam/icon.png","width":339,"height":231,"format":"png"},"dimensions":{"width":339,"height":231},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Bulletproof Cam","picture":{"src":"https://maps.gametactic.eu/r6/icons/bulletproofcam/picture.png","width":339,"height":231,"format":"png"},"isDefault":false,"categories":["Defenders"]},{"label":"Deployable Shield","icon":{"src":"https://maps.gametactic.eu/r6/icons/deployableshield/icon.png","width":237,"height":268,"format":"png"},"dimensions":{"width":237,"height":268},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Deployable Shield","picture":{"src":"https://maps.gametactic.eu/r6/icons/deployableshield/picture.png","width":237,"height":268,"format":"png"},"isDefault":false,"categories":["Defenders"]},{"label":"Impact","icon":{"src":"https://maps.gametactic.eu/r6/icons/impact/icon.png","width":214,"height":201,"format":"png"},"dimensions":{"width":214,"height":201},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Impact","picture":{"src":"https://maps.gametactic.eu/r6/icons/impact/picture.png","width":214,"height":201,"format":"png"},"isDefault":false,"categories":["Defenders"]},{"label":"Nitro","icon":{"src":"https://maps.gametactic.eu/r6/icons/nitro/icon.png","width":130,"height":280,"format":"png"},"dimensions":{"width":130,"height":280},"permissions":{"skewX":true,"skewY":true,"scaleX":true,"scaleY":true},"temporary":false,"type":"ICON","plugins":[],"caption":"Nitro","picture":{"src":"https://maps.gametactic.eu/r6/icons/nitro/picture.png","width":130,"height":280,"format":"png"},"isDefault":false,"categories":["Defenders"]}]
+[
+  {
+    "label": "Breach",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/breach/icon.png",
+      "width": 170,
+      "height": 263,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 170,
+      "height": 263
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Breach",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/breach/picture.png",
+      "width": 170,
+      "height": 263,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attackers"
+    ]
+  },
+  {
+    "label": "Claymore",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/claymore/icon.png",
+      "width": 265,
+      "height": 253,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 265,
+      "height": 253
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Claymore",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/claymore/picture.png",
+      "width": 265,
+      "height": 253,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attackers"
+    ]
+  },
+  {
+    "label": "Flash",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/flash/icon.png",
+      "width": 155,
+      "height": 283,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 155,
+      "height": 283
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Flash",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/flash/picture.png",
+      "width": 155,
+      "height": 283,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attackers"
+    ]
+  },
+  {
+    "label": "Frag",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/frag/icon.png",
+      "width": 175,
+      "height": 206,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 175,
+      "height": 206
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Frag",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/frag/picture.png",
+      "width": 175,
+      "height": 206,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attackers"
+    ]
+  },
+  {
+    "label": "Smoke",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/smoke/icon.png",
+      "width": 150,
+      "height": 269,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 269
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Smoke",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/smoke/picture.png",
+      "width": 150,
+      "height": 269,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attackers"
+    ]
+  },
+  {
+    "label": "Barbed Wire",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/barbedwire/icon.png",
+      "width": 230,
+      "height": 206,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 230,
+      "height": 206
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Barbed Wire",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/barbedwire/picture.png",
+      "width": 230,
+      "height": 206,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defenders"
+    ]
+  },
+  {
+    "label": "Bulletproof Cam",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/bulletproofcam/icon.png",
+      "width": 339,
+      "height": 231,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 339,
+      "height": 231
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Bulletproof Cam",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/bulletproofcam/picture.png",
+      "width": 339,
+      "height": 231,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defenders"
+    ]
+  },
+  {
+    "label": "Deployable Shield",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/deployableshield/icon.png",
+      "width": 237,
+      "height": 268,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 237,
+      "height": 268
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Deployable Shield",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/deployableshield/picture.png",
+      "width": 237,
+      "height": 268,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defenders"
+    ]
+  },
+  {
+    "label": "Impact",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/impact/icon.png",
+      "width": 214,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 214,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Impact",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/impact/picture.png",
+      "width": 214,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defenders"
+    ]
+  },
+  {
+    "label": "Nitro",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/icons/nitro/icon.png",
+      "width": 130,
+      "height": 280,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 130,
+      "height": 280
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Nitro",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/icons/nitro/picture.png",
+      "width": 130,
+      "height": 280,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defenders"
+    ]
+  }
+]

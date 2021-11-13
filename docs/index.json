@@ -1,1 +1,40 @@
-{"wot":{"maps":"","entities":"","icons":"","disabled":true},"wows":{"maps":"","entities":"","icons":"","disabled":true},"csgo":{"maps":"https://maps.gametactic.eu/csgo/maps/data.json","entities":"https://maps.gametactic.eu/csgo/entities/data.json","icons":"https://maps.gametactic.eu/csgo/entities/data.json","disabled":false},"r6":{"maps":"https://maps.gametactic.eu/r6/maps/data.json","entities":"https://maps.gametactic.eu/r6/entities/data.json","icons":"https://maps.gametactic.eu/r6/entities/data.json","disabled":false}}
+{
+  "wot": {
+    "maps": "",
+    "entities": "",
+    "icons": "",
+    "data": null,
+    "disabled": true
+  },
+  "wows": {
+    "maps": "",
+    "entities": "",
+    "icons": "",
+    "data": null,
+    "disabled": true
+  },
+  "csgo": {
+    "maps": "https://maps.gametactic.eu/csgo/maps/data.json",
+    "entities": "https://maps.gametactic.eu/csgo/entities/data.json",
+    "icons": "https://maps.gametactic.eu/csgo/entities/data.json",
+    "data": {
+      "acronym": "CSGO",
+      "cover": "https://maps.gametactic.eu/csgo/cover.png",
+      "game": "csgo",
+      "name": "Counter-Strike: Global Offensive"
+    },
+    "disabled": false
+  },
+  "r6": {
+    "maps": "https://maps.gametactic.eu/r6/maps/data.json",
+    "entities": "https://maps.gametactic.eu/r6/entities/data.json",
+    "icons": "https://maps.gametactic.eu/r6/entities/data.json",
+    "data": {
+      "acronym": "R6",
+      "cover": "https://maps.gametactic.eu/r6/cover.png",
+      "game": "r6",
+      "name": "Tom Clancy's Rainbow Six Siege"
+    },
+    "disabled": false
+  }
+}

@@ -1,1 +1,439 @@
-[{"name":"Agency","description":"Agency is a hostage rescue map featured in Operation Bravo, Operation Phoenix, Operation Bloodhound, Operation Hydra and was created by Squad and Rick.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/agency/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"875a04ed-76a8-45a9-ae9a-df8cee58b9e4","name":"Agency","image":{"src":"https://maps.gametactic.eu/csgo/maps/agency/agency.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Ancient","description":"Ancient is a bomb defusal map in Counter-Strike: Global Offensive. It was created by Valve and introduced on December 3, 2020 as part of the Broken Fang operation. On May 3, 2021, when Operation Broken Fang concluded, Ancient replaced Train in the Active Duty Map pool while Train went into the Reserve Map pool.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/ancient/cover.jpeg","width":1067,"height":600,"format":"jpeg"},"views":[{"id":"2624e02b-8464-4c12-84dc-209200853d9c","name":"Ancient","image":{"src":"https://maps.gametactic.eu/csgo/maps/ancient/ancient.png","width":1024,"height":1024,"format":"png"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Assault","description":"Assault is a hostage rescue map that is currently used as a Reserve map in Counter-Strike: Global Offensive official matchmaking.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/assault/cover.png","width":1000,"height":563,"format":"png"},"views":[{"id":"a7e5a938-1321-4a9d-9de9-b1242a8c4f50","name":"Assault","image":{"src":"https://maps.gametactic.eu/csgo/maps/assault/assault.png","width":1024,"height":1024,"format":"png"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Cache","description":"Cache is a bomb defusal map featured in Operation Bravo and was created by FMPONE, Volcano and penE. As of March 2019 it is no longer in the Active Duty pool, pending FMPONE's rework. Prior to its removal it saw frequent use in tournaments.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/cache/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"9908c84c-d52d-4214-8f56-0303c7fa1ae5","name":"Cache","image":{"src":"https://maps.gametactic.eu/csgo/maps/cache/cache.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Dust II","description":"Counter-Terrorists: Prevent Terrorists from bombing chemical weapon crates. Team members must defuse any bombs that threaten targeted areas. Terrorists: The Terrorists carrying the C4 must destroy one of the chemical weapon stashes.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/dustii/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"a7b713ed-0464-40f4-ba47-f17867f7fe97","name":"Dust II","image":{"src":"https://maps.gametactic.eu/csgo/maps/dustii/dustii.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Inferno","description":"Terrorists are attempting to blow up two critical gas pipelines through part of a small village. Counter-Terrorists: Prevent the terrorists from destroying the pipelines.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/inferno/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"87016b10-5280-430d-b832-e2b535b99bd6","name":"Inferno","image":{"src":"https://maps.gametactic.eu/csgo/maps/inferno/inferno.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Italy","description":"Italy is a Hostage rescue map featured in the Counter-Strike series. Since its debut, it has appeared in every game and is widely considered a fan-favorite amongst the community.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/italy/cover.png","width":1000,"height":563,"format":"png"},"views":[{"id":"8f4a6a6d-0729-4549-a5fc-37196500cdfe","name":"Italy","image":{"src":"https://maps.gametactic.eu/csgo/maps/italy/italy.png","width":1024,"height":1024,"format":"png"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Militia","description":"Militia is a hostage rescue map that appears in Counter-Strike, Counter-Strike (Xbox), Counter-Strike: Condition Zero, Counter-Strike: Source, and Counter-Strike: Global Offensive.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/militia/cover.png","width":1000,"height":563,"format":"png"},"views":[{"id":"b6abc8a6-6eac-4917-a43e-119d259b5f29","name":"Upper Level","image":{"src":"https://maps.gametactic.eu/csgo/maps/militia/upperlevel.png","width":1024,"height":1024,"format":"png"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]},{"id":"eb08d47c-87e5-4e8e-8b1b-b0d411dac230","name":"Lower Level","image":{"src":"https://maps.gametactic.eu/csgo/maps/militia/lowerlevel.png","width":350,"height":350,"format":"png"},"dimensions":{"width":350,"height":350},"gridGroups":[]}],"game":"csgo"},{"name":"Mirage","description":"Mirage, formerly known as Strike, is a Bomb Defusal map for Counter-Strike: Global Offensive. The map was added to the game on June 6, 2013.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/mirage/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"6f044e96-0d5d-4549-9340-e70d07b1c180","name":"Mirage","image":{"src":"https://maps.gametactic.eu/csgo/maps/mirage/mirage.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Nuke","description":"Nuke, is a Bomb Defusal map featured in Counter-Strike, Counter-Strike: Source, and Counter-Strike: Global Offensive.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/nuke/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"a2ad7483-baf1-4b69-854b-36f44b3640ad","name":"Upper Level","image":{"src":"https://maps.gametactic.eu/csgo/maps/nuke/upperlevel.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]},{"id":"57246184-f0b1-42a9-a338-7192729cf147","name":"Lower Level","image":{"src":"https://maps.gametactic.eu/csgo/maps/nuke/lowerlevel.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Office","description":"Office, known as The Office Complex in Counter-Strike, is an official hostage rescue map, added in Beta 7.0. It has since appeared in every multiplayer Counter-Strike game.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/office/cover.png","width":1000,"height":563,"format":"png"},"views":[{"id":"98b64c73-734c-486b-8b94-6585815338b8","name":"Office","image":{"src":"https://maps.gametactic.eu/csgo/maps/office/office.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Overpass","description":"Overpass is a Bomb Defusal map for Counter-Strike: Global Offensive, released in the Winter Offensive update along with the map Cobblestone.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/overpass/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"fc56f47b-d99f-4c89-a28b-846af18ce746","name":"Overpass","image":{"src":"https://maps.gametactic.eu/csgo/maps/overpass/overpass.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Train","description":"Train is a bomb defusal map featured in Counter-Strike, Counter-Strike: Source, and Counter-Strike: Global Offensive.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/train/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"66a4407e-5c79-46fa-a2f5-fab5a6274b6e","name":"Train","image":{"src":"https://maps.gametactic.eu/csgo/maps/train/train.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"},{"name":"Vertigo","description":"Vertigo is a bomb defusal map featured in Counter-Strike and later added to Counter-Strike: Global Offensive with the October 1, 2012 update.","cover":{"src":"https://maps.gametactic.eu/csgo/maps/vertigo/cover.jpg","width":1067,"height":600,"format":"jpg"},"views":[{"id":"685ce64a-0a54-4b84-b477-57a437f41df7","name":"Upper Level","image":{"src":"https://maps.gametactic.eu/csgo/maps/vertigo/upperlevel.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]},{"id":"5b7a7735-ec43-4a70-ba15-cdb705d19751","name":"Lower Level","image":{"src":"https://maps.gametactic.eu/csgo/maps/vertigo/lowerlevel.jpg","width":1024,"height":1024,"format":"jpg"},"dimensions":{"width":1024,"height":1024},"gridGroups":[]}],"game":"csgo"}]
+[
+  {
+    "name": "Agency",
+    "description": "Agency is a hostage rescue map featured in Operation Bravo, Operation Phoenix, Operation Bloodhound, Operation Hydra and was created by Squad and Rick.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/agency/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "c657397a-2c5a-4d35-a797-e6097239dc68",
+        "name": "Agency",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/agency/agency.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Ancient",
+    "description": "Ancient is a bomb defusal map in Counter-Strike: Global Offensive. It was created by Valve and introduced on December 3, 2020 as part of the Broken Fang operation. On May 3, 2021, when Operation Broken Fang concluded, Ancient replaced Train in the Active Duty Map pool while Train went into the Reserve Map pool.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/ancient/cover.jpeg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpeg"
+    },
+    "views": [
+      {
+        "id": "8e059f8b-7441-4f0c-97a8-96a49d40f041",
+        "name": "Ancient",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/ancient/ancient.png",
+          "width": 1024,
+          "height": 1024,
+          "format": "png"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Assault",
+    "description": "Assault is a hostage rescue map that is currently used as a Reserve map in Counter-Strike: Global Offensive official matchmaking.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/assault/cover.png",
+      "width": 1000,
+      "height": 563,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "0bfc2e42-04ef-4715-b4ea-7c467353cad2",
+        "name": "Assault",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/assault/assault.png",
+          "width": 1024,
+          "height": 1024,
+          "format": "png"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Cache",
+    "description": "Cache is a bomb defusal map featured in Operation Bravo and was created by FMPONE, Volcano and penE. As of March 2019 it is no longer in the Active Duty pool, pending FMPONE's rework. Prior to its removal it saw frequent use in tournaments.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/cache/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "ce1be490-83fa-4257-b1cc-24ed6a749ba3",
+        "name": "Cache",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/cache/cache.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Dust II",
+    "description": "Counter-Terrorists: Prevent Terrorists from bombing chemical weapon crates. Team members must defuse any bombs that threaten targeted areas. Terrorists: The Terrorists carrying the C4 must destroy one of the chemical weapon stashes.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/dustii/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "9236217f-14bf-443b-9d5c-0a0aa1a3d373",
+        "name": "Dust II",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/dustii/dustii.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Inferno",
+    "description": "Terrorists are attempting to blow up two critical gas pipelines through part of a small village. Counter-Terrorists: Prevent the terrorists from destroying the pipelines.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/inferno/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "99437171-f37d-4fa8-b8a9-eb223ca21e1e",
+        "name": "Inferno",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/inferno/inferno.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Italy",
+    "description": "Italy is a Hostage rescue map featured in the Counter-Strike series. Since its debut, it has appeared in every game and is widely considered a fan-favorite amongst the community.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/italy/cover.png",
+      "width": 1000,
+      "height": 563,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "ef095ca5-7974-4e7b-a09f-38aa7b069576",
+        "name": "Italy",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/italy/italy.png",
+          "width": 1024,
+          "height": 1024,
+          "format": "png"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Militia",
+    "description": "Militia is a hostage rescue map that appears in Counter-Strike, Counter-Strike (Xbox), Counter-Strike: Condition Zero, Counter-Strike: Source, and Counter-Strike: Global Offensive.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/militia/cover.png",
+      "width": 1000,
+      "height": 563,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "ede377a8-95d2-4fbc-af21-f27072073c5b",
+        "name": "Upper Level",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/militia/upperlevel.png",
+          "width": 1024,
+          "height": 1024,
+          "format": "png"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      },
+      {
+        "id": "1d54ad3b-7fe5-40df-aa8e-e08c241653e3",
+        "name": "Lower Level",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/militia/lowerlevel.png",
+          "width": 350,
+          "height": 350,
+          "format": "png"
+        },
+        "dimensions": {
+          "width": 350,
+          "height": 350
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Mirage",
+    "description": "Mirage, formerly known as Strike, is a Bomb Defusal map for Counter-Strike: Global Offensive. The map was added to the game on June 6, 2013.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/mirage/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "711bb750-451c-4147-b4d4-359ce31924e4",
+        "name": "Mirage",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/mirage/mirage.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Nuke",
+    "description": "Nuke, is a Bomb Defusal map featured in Counter-Strike, Counter-Strike: Source, and Counter-Strike: Global Offensive.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/nuke/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "a203b3e5-d2f1-4ccd-8717-2d4530d6b594",
+        "name": "Upper Level",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/nuke/upperlevel.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      },
+      {
+        "id": "e2620b2d-8651-49c7-87c7-8f005942d1fb",
+        "name": "Lower Level",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/nuke/lowerlevel.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Office",
+    "description": "Office, known as The Office Complex in Counter-Strike, is an official hostage rescue map, added in Beta 7.0. It has since appeared in every multiplayer Counter-Strike game.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/office/cover.png",
+      "width": 1000,
+      "height": 563,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "151549f9-6f8b-4e6d-9c53-a4ad1756b0af",
+        "name": "Office",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/office/office.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Overpass",
+    "description": "Overpass is a Bomb Defusal map for Counter-Strike: Global Offensive, released in the Winter Offensive update along with the map Cobblestone.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/overpass/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "0a6816ec-efdd-4391-b5e6-5bb2baa8d244",
+        "name": "Overpass",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/overpass/overpass.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Train",
+    "description": "Train is a bomb defusal map featured in Counter-Strike, Counter-Strike: Source, and Counter-Strike: Global Offensive.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/train/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "2a0ef2ec-3d97-4735-b3e9-b156d7eaf1be",
+        "name": "Train",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/train/train.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  },
+  {
+    "name": "Vertigo",
+    "description": "Vertigo is a bomb defusal map featured in Counter-Strike and later added to Counter-Strike: Global Offensive with the October 1, 2012 update.",
+    "cover": {
+      "src": "https://maps.gametactic.eu/csgo/maps/vertigo/cover.jpg",
+      "width": 1067,
+      "height": 600,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "cbf48a97-b401-477b-a2af-6e70f6baaceb",
+        "name": "Upper Level",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/vertigo/upperlevel.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      },
+      {
+        "id": "58c8b692-d999-4512-bb73-b0a486e6bb16",
+        "name": "Lower Level",
+        "image": {
+          "src": "https://maps.gametactic.eu/csgo/maps/vertigo/lowerlevel.jpg",
+          "width": 1024,
+          "height": 1024,
+          "format": "jpg"
+        },
+        "dimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "gridGroups": []
+      }
+    ],
+    "game": "csgo"
+  }
+]

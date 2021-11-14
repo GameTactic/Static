@@ -184,5 +184,36 @@
     },
     "isDefault": true,
     "categories": []
+  },
+  {
+    "label": "Ace",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/ace/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Håvard \"Ace\" Haugland, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Steel Wave expansion alongside Melusi.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/ace/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
   }
 ]

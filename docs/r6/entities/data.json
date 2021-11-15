@@ -20,7 +20,7 @@
     "temporary": false,
     "type": "ENTITY",
     "plugins": [],
-    "caption": "Blue Recruit",
+    "caption": "The Recruit is the default Operator featured in Tom Clancy's Rainbow Six Siege. The Recruit is available in all playlists except Ranked and Unranked.",
     "picture": {
       "src": "https://maps.gametactic.eu/r6/entities/bluerecruit/picture.png",
       "width": 201,
@@ -51,7 +51,7 @@
     "temporary": false,
     "type": "ENTITY",
     "plugins": [],
-    "caption": "Green Recruit",
+    "caption": "The Recruit is the default Operator featured in Tom Clancy's Rainbow Six Siege. The Recruit is available in all playlists except Ranked and Unranked.",
     "picture": {
       "src": "https://maps.gametactic.eu/r6/entities/greenrecruit/picture.png",
       "width": 201,
@@ -82,7 +82,7 @@
     "temporary": false,
     "type": "ENTITY",
     "plugins": [],
-    "caption": "Orange Recruit",
+    "caption": "The Recruit is the default Operator featured in Tom Clancy's Rainbow Six Siege. The Recruit is available in all playlists except Ranked and Unranked.",
     "picture": {
       "src": "https://maps.gametactic.eu/r6/entities/orangerecruit/picture.png",
       "width": 201,
@@ -113,7 +113,7 @@
     "temporary": false,
     "type": "ENTITY",
     "plugins": [],
-    "caption": "Red Recruit",
+    "caption": "The Recruit is the default Operator featured in Tom Clancy's Rainbow Six Siege. The Recruit is available in all playlists except Ranked and Unranked.",
     "picture": {
       "src": "https://maps.gametactic.eu/r6/entities/redrecruit/picture.png",
       "width": 201,
@@ -144,7 +144,7 @@
     "temporary": false,
     "type": "ENTITY",
     "plugins": [],
-    "caption": "Yellow Recruit",
+    "caption": "The Recruit is the default Operator featured in Tom Clancy's Rainbow Six Siege. The Recruit is available in all playlists except Ranked and Unranked.",
     "picture": {
       "src": "https://maps.gametactic.eu/r6/entities/yellowrecruit/picture.png",
       "width": 201,
@@ -186,6 +186,1587 @@
     "categories": []
   },
   {
+    "label": "Bandit",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/bandit/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Dominic \"Bandit\" Brunsmeier is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/bandit/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Blitz",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/blitz/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Elias \"Blitz\" Kötz is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/blitz/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Castle",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/castle/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Miles Campbell, codenamed Castle, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/castle/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Doc",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/doc/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Gustave \"Doc\" Kateb is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/doc/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Fuze",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/fuze/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Shuhrat \"Fuze\" Kessikbayev (Russian: Шухрат Кессикбаев) is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/fuze/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Glaz",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/glaz/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Timur \"Glaz\" Glazkov (Russian: Тимур Глазков) is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/glaz/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Iq",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/iq/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Monika \"IQ\" Weiss is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/iq/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Jager",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/jager/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Marius \"Jäger\" Streicher (pronounced Yay-ger) is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/jager/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Kapkan",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/kapkan/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Maxim \"Kapkan\" Basuda (Russian: Максим Басудa) is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/kapkan/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Montagne",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/montagne/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Gilles \"Montagne\" Touré (pronounced \"Mon-tah-niuhh\" [mɔ̃.taɲ]) is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/montagne/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Mute",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/mute/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Mark R. Chandar, codenamed Mute, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/mute/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Pulse",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/pulse/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Jack \"Pulse\" Estrada is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/pulse/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Rook",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/rook/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Julien \"Rook\" Nizan is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/rook/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Sledge",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/sledge/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Seamus \"Sledge\" Cowden is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/sledge/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Smoke",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/smoke/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "James Porter, codenamed Smoke, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/smoke/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Tachanka",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/tachanka/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Alexsandr Senaviev (Russian: Александр Сенавьев, tr. Aleksandr Senav'yev), codenamed Tachanka (Тачанка) (Tachankin in Russian localisation, Тачанкин), is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/tachanka/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Thatcher",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/thatcher/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Warrant Officer Class 1 Mike Baker, codenamed Thatcher, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/thatcher/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Thermite",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/thermite/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Jordan Trace, codenamed Thermite, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/thermite/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Twitch",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/twitch/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Emmanuelle Pichon, codenamed Twitch, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/twitch/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Blackbeard",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/blackbeard/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Craig \"Blackbeard\" Jenson is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Dust Line expansion alongside Valkyrie.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/blackbeard/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Buck",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/buck/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Sébastien \"Buck\" Côté is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Black Ice expansion alongside Frost.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/buck/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Capitao",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/capitao/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Vicente \"Capitão\" Souza is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Skull Rain expansion alongside Caveira.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/capitao/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Caveria",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/caveria/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Taina \"Caveira\" Pereira is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Skull Rain expansion alongside Capitão.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/caveria/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Echo",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/echo/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Masaru Enatsu (Japanese: 江夏 優, Enatsu Masaru), codenamed Echo, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Red Crow expansion alongside Hibana.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/echo/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Frost",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/frost/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Tina Lin \"Frost\" Tsang is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Black Ice expansion alongside Buck.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/frost/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Hibana",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/hibana/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Yumiko Imagawa (Japanese: 今川 由美子, Imagawa Yumiko), codenamed Hibana, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Red Crow expansion alongside Echo.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/hibana/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Valkyrie",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/valkyrie/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Meghan J. \"Valkyrie\" Castellano is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Dust Line expansion alongside Blackbeard.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/valkyrie/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Dokkkaebi",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/dokkkaebi/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "\nGrace Nam (Hangeul: 남은혜, Nam Eun Hye), codenamed Dokkaebi, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation White Noise expansion alongside Zofia and Vigil.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/dokkkaebi/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Ela",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/ela/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Elżbieta \"Ela\" Bosak is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Blood Orchid expansion alongside Ying and Lesion.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/ela/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Jackal",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/jackal/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Ryad \"Jackal\" Ramírez Al-Hassar is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Velvet Shell expansion alongside Mira.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/jackal/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Lesion",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/lesion/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Liu Tze Long (Chinese: 廖子朗), codenamed Lesion, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Blood Orchid expansion alongside Ying and Ela.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/lesion/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Mira",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/mira/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Dr. Elena María Álvarez, codenamed Mira, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Velvet Shell expansion alongside Jackal. She is the Director of Rainbow's Research and Development Department. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/mira/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Vigil",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/vigil/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Chul Kyung Hwa (Hangeul: 화철경, Hwa Cheol Gyeong), codenamed Vigil is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation White Noise expansion introduced alongside Zofia and Dokkaebi.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/vigil/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Ying",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/ying/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Siu Mei Lin (Chinese: 蕭美蓮), codenamed Ying, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Blood Orchid expansion alongside Lesion and Ela.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/ying/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Zofia",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/zofia/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Zofia Bosak is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation White Noise expansion alongside Dokkaebi and Vigil.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/zofia/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Alibi",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/alibi/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Aria \"Alibi\" de Luca is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Para Bellum expansion alongside Maestro.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/alibi/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Clash",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/clash/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Morowa \"Clash\" Evans is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Grim Sky expansion alongside Maverick.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/clash/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Finka",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/finka/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Lera \"Finka\" Melnikova (Belarusian: Лера Мельнікава) is an Attacking Operator in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Chimera expansion alongside Lion.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/finka/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Kaid",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/kaid/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Jalal El Fassi (Arabic: جلال الفاسي), codenamed Kaid (pronounced \"Kah-ed\"), is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Wind Bastion expansion alongside Nomad.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/kaid/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Lion",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/lion/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Olivier \"Lion\" Flament is an Attacking Operator in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Chimera expansion alongside Finka.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/lion/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Maestro",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/maestro/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Adriano \"Maestro\" Martello is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Para Bellum expansion alongside Alibi.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/maestro/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Maverick",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/maverick/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Erik \"Maverick\" Thorn is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Grim Sky expansion alongside Clash.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/maverick/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Nomad",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/nomad/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Sanaa El Maktoub (Arabic: سناء المكتوب), codename Nomad, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Wind Bastion expansion alongside Kaid.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/nomad/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Amaru",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/amaru/icon.png",
+      "width": 97,
+      "height": 97,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 97,
+      "height": 97
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Azucena Rocío Quispe, codenamed Amaru, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Ember Rise expansion alongside Goyo.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/amaru/picture.png",
+      "width": 97,
+      "height": 97,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Goyo",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/goyo/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "César Ruiz Hernández, codenamed Goyo, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Ember Rise expansion alongside Amaru.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/goyo/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Gridlock",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/gridlock/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Tori Tallyo Fairous, codenamed Gridlock, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Burnt Horizon expansion alongside Mozzie.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/gridlock/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Kali",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/kali/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Jaimini Kalimohan Shah (Hindi: जैमिनी कलिमोहन शाह), codenamed Kali, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Shifting Tides expansion alongside Wamai.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/kali/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Mozzie",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/mozzie/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Max Goose, codenamed Mozzie, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Burnt Horizon expansion alongside Gridlock.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/mozzie/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Nokk",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/nokk/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Karina Gaarddhøje, codenamed Nøkk, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Phantom Sight expansion alongside Warden.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/nokk/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Wamai",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/wamai/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Ngũgĩ Muchoki Furaha, codenamed Wamai, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Shifting Tides expansion alongside Kali.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/wamai/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Warden",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/warden/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Collinn McKinley, codenamed Warden, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege. He was introduced in the Operation Phantom Sight expansion alongside Nøkk.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/warden/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
     "label": "Ace",
     "icon": {
       "src": "https://maps.gametactic.eu/r6/entities/ace/icon.png",
@@ -209,6 +1790,161 @@
     "caption": "Håvard \"Ace\" Haugland, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Steel Wave expansion alongside Melusi.",
     "picture": {
       "src": "https://maps.gametactic.eu/r6/entities/ace/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Aruni",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/aruni/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Apha \"Aruni\" Tawanroong (Thai: อาภา ตะวันรุ่ง), is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Neon Dawn expansion.",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/aruni/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Iana",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/iana/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Nienke \"Iana\" Meijer is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Void Edge expansion alongside Oryx. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/iana/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Melusi",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/melusi/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Thandiwe \"Melusi\" Ndlovu, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Steel Wave expansion alongside Ace. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/melusi/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Oryx",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/oryx/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Saif Al Hadid (Arabic: سيف الحديد), codenamed Oryx, is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Operation Void Edge expansion alongside Iana. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/oryx/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": []
+  },
+  {
+    "label": "Zero",
+    "icon": {
+      "src": "https://maps.gametactic.eu/r6/entities/zero/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "dimensions": {
+      "width": 201,
+      "height": 201
+    },
+    "permissions": {
+      "skewX": true,
+      "skewY": true,
+      "scaleX": true,
+      "scaleY": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Samuel Leo \"Sam\" Fisher, codenamed Zero is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. He is the main protagonist and player character of the Tom Clancy's Splinter Cell Franchise and was introduced in the Operation Shadow Legacy expansion. ",
+    "picture": {
+      "src": "https://maps.gametactic.eu/r6/entities/zero/picture.png",
       "width": 201,
       "height": 201,
       "format": "png"

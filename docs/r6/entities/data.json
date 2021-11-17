@@ -7,15 +7,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -28,7 +23,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Green Recruit",
@@ -38,15 +35,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -59,7 +51,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Orange Recruit",
@@ -69,15 +63,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -90,7 +79,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Red Recruit",
@@ -100,15 +91,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -121,7 +107,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Yellow Recruit",
@@ -131,15 +119,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -152,7 +135,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Ash",
@@ -162,15 +147,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -183,7 +163,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Bandit",
@@ -193,15 +175,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -214,7 +191,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Blitz",
@@ -224,15 +203,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -245,7 +219,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Castle",
@@ -255,15 +231,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -276,7 +247,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Doc",
@@ -286,15 +259,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -307,7 +275,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Fuze",
@@ -317,15 +287,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -338,7 +303,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Glaz",
@@ -348,15 +315,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -369,7 +331,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Iq",
@@ -379,15 +343,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -400,7 +359,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Jager",
@@ -410,15 +371,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -431,7 +387,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Kapkan",
@@ -441,15 +399,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -462,7 +415,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Montagne",
@@ -472,15 +427,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -493,7 +443,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Mute",
@@ -503,15 +455,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -524,7 +471,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Pulse",
@@ -534,15 +483,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -555,7 +499,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Rook",
@@ -565,15 +511,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -586,7 +527,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Sledge",
@@ -596,15 +539,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -617,7 +555,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Smoke",
@@ -627,15 +567,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -648,7 +583,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Tachanka",
@@ -658,15 +595,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -679,7 +611,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Thatcher",
@@ -689,15 +623,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -710,7 +639,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Thermite",
@@ -720,15 +651,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -741,7 +667,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Twitch",
@@ -751,15 +679,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -772,7 +695,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Blackbeard",
@@ -782,15 +707,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -803,7 +723,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Buck",
@@ -813,15 +735,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -834,7 +751,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Capitao",
@@ -844,15 +763,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -865,7 +779,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Caveria",
@@ -875,15 +791,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -896,7 +807,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Echo",
@@ -906,15 +819,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -927,7 +835,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Frost",
@@ -937,15 +847,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -958,7 +863,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Hibana",
@@ -968,15 +875,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -989,7 +891,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Valkyrie",
@@ -999,15 +903,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1020,7 +919,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Dokkkaebi",
@@ -1030,15 +931,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1051,7 +947,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Ela",
@@ -1061,15 +959,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1082,7 +975,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Jackal",
@@ -1092,15 +987,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1113,7 +1003,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Lesion",
@@ -1123,15 +1015,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1144,7 +1031,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Mira",
@@ -1154,15 +1043,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1175,7 +1059,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Vigil",
@@ -1185,15 +1071,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1206,7 +1087,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Ying",
@@ -1216,15 +1099,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1237,7 +1115,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Zofia",
@@ -1247,15 +1127,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1268,7 +1143,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Alibi",
@@ -1278,15 +1155,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1299,7 +1171,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Clash",
@@ -1309,15 +1183,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1330,7 +1199,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Finka",
@@ -1340,15 +1211,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1361,7 +1227,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Kaid",
@@ -1371,15 +1239,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1392,7 +1255,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Lion",
@@ -1402,15 +1267,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1423,7 +1283,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Maestro",
@@ -1433,15 +1295,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1454,7 +1311,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Maverick",
@@ -1464,15 +1323,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1485,7 +1339,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Nomad",
@@ -1495,15 +1351,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1516,7 +1367,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Amaru",
@@ -1526,15 +1379,10 @@
       "height": 97,
       "format": "png"
     },
-    "dimensions": {
-      "width": 97,
-      "height": 97
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1547,7 +1395,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 97,
+    "height": 97
   },
   {
     "label": "Goyo",
@@ -1557,15 +1407,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1578,7 +1423,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Gridlock",
@@ -1588,15 +1435,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1609,7 +1451,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Kali",
@@ -1619,15 +1463,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1640,7 +1479,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Mozzie",
@@ -1650,15 +1491,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1671,7 +1507,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Nokk",
@@ -1681,15 +1519,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1702,7 +1535,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Wamai",
@@ -1712,15 +1547,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1733,7 +1563,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Warden",
@@ -1743,15 +1575,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1764,7 +1591,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Ace",
@@ -1774,15 +1603,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1795,7 +1619,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Aruni",
@@ -1805,15 +1631,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1826,7 +1647,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Iana",
@@ -1836,15 +1659,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1857,7 +1675,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Melusi",
@@ -1867,15 +1687,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1888,7 +1703,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Oryx",
@@ -1898,15 +1715,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1919,7 +1731,9 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   },
   {
     "label": "Zero",
@@ -1929,15 +1743,10 @@
       "height": 201,
       "format": "png"
     },
-    "dimensions": {
-      "width": 201,
-      "height": 201
-    },
     "permissions": {
-      "skewX": true,
-      "skewY": true,
-      "scaleX": true,
-      "scaleY": true
+      "scale": true,
+      "skew": true,
+      "rotate": true
     },
     "temporary": false,
     "type": "ENTITY",
@@ -1950,6 +1759,8 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": []
+    "categories": [],
+    "width": 201,
+    "height": 201
   }
 ]

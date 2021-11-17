@@ -1,17 +1,29 @@
 {
   "wot": {
-    "maps": "",
-    "entities": "",
-    "icons": "",
-    "data": null,
-    "disabled": true
+    "maps": "https://maps.gametactic.eu/wot/maps/data.json",
+    "entities": "https://maps.gametactic.eu/wot/entities/data.json",
+    "icons": "https://maps.gametactic.eu/wot/entities/data.json",
+    "data": {
+      "acronym": "WOT",
+      "cover": "https://maps.gametactic.eu/wot/cover.png",
+      "coverSVG": "https://maps.gametactic.eu/wot/cover.svg",
+      "game": "wot",
+      "name": "World of Tanks"
+    },
+    "disabled": false
   },
   "wows": {
-    "maps": "",
-    "entities": "",
-    "icons": "",
-    "data": null,
-    "disabled": true
+    "maps": "https://maps.gametactic.eu/wows/maps/data.json",
+    "entities": "https://maps.gametactic.eu/wows/entities/data.json",
+    "icons": "https://maps.gametactic.eu/wows/entities/data.json",
+    "data": {
+      "acronym": "WOWS",
+      "cover": "https://maps.gametactic.eu/wows/cover.png",
+      "coverSVG": "https://maps.gametactic.eu/wows/cover.svg",
+      "game": "wows",
+      "name": "World of Warships"
+    },
+    "disabled": false
   },
   "csgo": {
     "maps": "https://maps.gametactic.eu/csgo/maps/data.json",
@@ -20,6 +32,7 @@
     "data": {
       "acronym": "CSGO",
       "cover": "https://maps.gametactic.eu/csgo/cover.png",
+      "coverSVG": "https://maps.gametactic.eu/csgo/cover.svg",
       "game": "csgo",
       "name": "Counter-Strike: Global Offensive"
     },
@@ -32,6 +45,7 @@
     "data": {
       "acronym": "R6",
       "cover": "https://maps.gametactic.eu/r6/cover.png",
+      "coverSVG": "https://maps.gametactic.eu/r6/cover.svg",
       "game": "r6",
       "name": "Tom Clancy's Rainbow Six Siege"
     },

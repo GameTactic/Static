@@ -3,17 +3,17 @@
     "name": "Bank",
     "description": "An iconic encounter for LA SWAT forces, this map depicts an assault on a major bank. The focus is on providing a sense of progression for attackers as they make their way through progressively more fortified areas of the building.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/bank/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/bank/cover.jpg",
       "width": 960,
       "height": 540,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "c111923d-120e-4544-8762-b0723a2cda58",
+        "id": "2723462f-8b41-43e6-a0c9-5805311940a9",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/bank/basement.png",
+          "src": "https://static.gametactic.eu/r6/maps/bank/basement.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -22,10 +22,10 @@
         "height": 1440
       },
       {
-        "id": "23d1a434-fd01-4c3c-8431-b109f4389968",
+        "id": "3984df06-8c31-4b3a-802e-b9361402d82d",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/bank/ground.png",
+          "src": "https://static.gametactic.eu/r6/maps/bank/ground.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -34,10 +34,10 @@
         "height": 1440
       },
       {
-        "id": "79f27288-6ba2-4cf7-9d78-43e717bfed2f",
+        "id": "32110048-1524-4019-be57-2b2b70ee0f4d",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/bank/floor2.png",
+          "src": "https://static.gametactic.eu/r6/maps/bank/floor2.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -46,10 +46,10 @@
         "height": 1440
       },
       {
-        "id": "26c332ba-4f34-46d5-af84-de49890645c7",
+        "id": "7d729b6d-3efd-4e47-99e0-0a88d7fac7b5",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/bank/roof.png",
+          "src": "https://static.gametactic.eu/r6/maps/bank/roof.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -64,17 +64,17 @@
     "name": "Yatch",
     "description": "In the Baffin Bay, a luxury yacht has crashed into an iceberg breaching the hull. Rainbow has been sent to secure the stranded vessel as an unidentified submarine has docked near the vessel.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/yatch/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/yatch/cover.jpg",
       "width": 600,
       "height": 337,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "cf7a778f-b746-4086-b03b-c3fe94653b7f",
+        "id": "f20ce418-cd2a-4c8b-b522-fd5b461a9e71",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/yatch/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/yatch/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -83,10 +83,10 @@
         "height": 900
       },
       {
-        "id": "62070a6e-ad89-4bd4-89f4-0ac605c1f7a2",
+        "id": "285c1bd7-0f5c-463c-b48c-20068ea39908",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/yatch/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/yatch/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -95,10 +95,10 @@
         "height": 900
       },
       {
-        "id": "84cb7b93-72f1-472d-af0f-9a4548c82100",
+        "id": "5cfe81ef-8397-440f-8204-180fbaf6c47e",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/yatch/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/yatch/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -107,10 +107,10 @@
         "height": 900
       },
       {
-        "id": "8e0a06c9-9ede-458a-9e36-a7d04c646a76",
+        "id": "4ba0df2d-0deb-47a2-9d59-a54bf93088e0",
         "name": "Floor 3",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/yatch/floor3.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/yatch/floor3.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -119,10 +119,10 @@
         "height": 900
       },
       {
-        "id": "0573b613-91bb-4923-a83a-cea2258eef92",
+        "id": "3d9cf739-e068-4c82-972e-9ecf768a1214",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/yatch/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/yatch/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -137,17 +137,17 @@
     "name": "Border",
     "description": "Somewhere in Middle East, team Rainbow has been called in to assist local law enforcement regain control of the border. A mix of old and new construction and open air pathways, this is one of the most destructible and open maps in the game",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/border/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/border/cover.jpg",
       "width": 600,
       "height": 337,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "0a9150ca-ef6c-4942-bd59-eb1755589702",
+        "id": "48d95aa5-d422-4389-975f-cfdc2534355b",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/border/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/border/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -156,10 +156,10 @@
         "height": 900
       },
       {
-        "id": "95c2e3dd-beec-4c20-912f-dc75f9d2c0ba",
+        "id": "ad6f99df-8f98-4112-970d-a5a859feb94e",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/border/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/border/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -168,10 +168,10 @@
         "height": 900
       },
       {
-        "id": "29336921-b273-4d86-992d-de83cd45c61a",
+        "id": "1612ad46-3e8e-4996-ae86-cf2f1dddc169",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/border/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/border/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -186,17 +186,17 @@
     "name": "Chalet",
     "description": "A shootout in an “après-ski” chalet in the French alps, this area contrasts the warm, cozy mood of its interiors with the cold, constrained visibility of its exteriors.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/chalet/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/chalet/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "d5b6c66f-f6d9-4e1c-af33-d82908e0b707",
+        "id": "8d3fbd92-d331-4a65-b4bf-d96f27f662a6",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/chalet/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/chalet/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -205,10 +205,10 @@
         "height": 900
       },
       {
-        "id": "ec5762c1-f46e-4f4d-9c3b-b5f99a598f6e",
+        "id": "ea0f2192-e47d-4556-8c92-41d8cd06fc68",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/chalet/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/chalet/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -217,10 +217,10 @@
         "height": 900
       },
       {
-        "id": "ae600ef9-8f70-48dd-b0ba-639c38f082b5",
+        "id": "5912d486-0930-4472-b125-3997a6d1da20",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/chalet/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/chalet/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -229,10 +229,10 @@
         "height": 900
       },
       {
-        "id": "0aca44e7-3515-4dee-8aca-0a740f11fd17",
+        "id": "1d82bbc9-9056-4718-9ec3-9afb3e4ff394",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/chalet/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/chalet/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -247,17 +247,17 @@
     "name": "Clubhouse",
     "description": "This map depicts an assault on a biker gang clubhouse. Featuring a full bar, gaming tables and leather furniture, this mixed interior/exterior layout offers a host of interesting tactical possibilities for both attacker and defender.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/clubhouse/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/clubhouse/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "e97fa21f-b0a7-4961-8c67-dd2c27997260",
+        "id": "95ed09af-b02f-49ec-85b5-b38f62e3d678",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/clubhouse/basement.png",
+          "src": "https://static.gametactic.eu/r6/maps/clubhouse/basement.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -266,10 +266,10 @@
         "height": 1440
       },
       {
-        "id": "df5c5627-e475-49e7-a702-977bd62691af",
+        "id": "54378233-1199-4c2b-963b-83386a081545",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/clubhouse/ground.png",
+          "src": "https://static.gametactic.eu/r6/maps/clubhouse/ground.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -278,10 +278,10 @@
         "height": 1440
       },
       {
-        "id": "d4663b22-35da-4367-86a9-16f23c2713c4",
+        "id": "61456546-9c2d-4329-8c77-aaaf8844fbec",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/clubhouse/floor2.png",
+          "src": "https://static.gametactic.eu/r6/maps/clubhouse/floor2.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -290,10 +290,10 @@
         "height": 1440
       },
       {
-        "id": "683db975-ba65-4c83-917e-8be79d5a6f79",
+        "id": "58851b4a-69b6-46cd-a300-13d7134c105c",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/clubhouse/roof.png",
+          "src": "https://static.gametactic.eu/r6/maps/clubhouse/roof.png",
           "width": 2560,
           "height": 1440,
           "format": "png"
@@ -308,17 +308,17 @@
     "name": "Coastline",
     "description": "Team Rainbow has been called to safeguard the seashore of Ibiza, Spain. Two of G.E.O.'s most resourceful Operators have been selected to provide their unique tactical expertise to the unit. Stationed on Ibiza’s rocky shore, course through Balearic ruins and navigate booming bars to neutralize the threat. Get ready for a surround flow of combat laced with chaotic rushes as you explore a paradise gone wrong",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/coastline/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/coastline/cover.jpg",
       "width": 960,
       "height": 540,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "be8335c2-b71b-4b37-8af9-1aee78606ebe",
+        "id": "46a420c0-2690-40e4-97c5-20bdce7b62b5",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/coastline/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/coastline/floor1.jpg",
           "width": 2560,
           "height": 1440,
           "format": "jpg"
@@ -327,10 +327,10 @@
         "height": 1440
       },
       {
-        "id": "eac2fd5b-b7bb-4bb2-b093-23e24af340e8",
+        "id": "50afcebc-867b-4aa7-9152-ed2bf0f8ae73",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/coastline/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/coastline/floor2.jpg",
           "width": 2560,
           "height": 1440,
           "format": "jpg"
@@ -339,10 +339,10 @@
         "height": 1440
       },
       {
-        "id": "b41f5b1a-9bf1-4f98-bb95-014f28b4f4da",
+        "id": "a34df728-9a0f-4aa4-8a97-a34598a67421",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/coastline/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/coastline/roof.jpg",
           "width": 2560,
           "height": 1440,
           "format": "jpg"
@@ -357,17 +357,17 @@
     "name": "Consulate",
     "description": "A high-risk, highly secured fortified location, this map depicts an assault on a French consulate in Ivory Coast.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/consulate/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/consulate/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "53ee9e98-473a-45d4-af01-ad1adc452491",
+        "id": "b5061c71-fff5-4155-b314-6efa1bca9516",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/consulate/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/consulate/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -376,10 +376,10 @@
         "height": 900
       },
       {
-        "id": "27b9c0a2-3e18-49ed-9ac6-5fe304f411bd",
+        "id": "4bdd5ad0-ec5d-483a-86f6-c43c665afc92",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/consulate/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/consulate/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -388,10 +388,10 @@
         "height": 900
       },
       {
-        "id": "a52dd901-479e-4af3-bbc8-910911b1d61d",
+        "id": "8e9d9763-e966-4ea1-8ef6-11a07161cb7c",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/consulate/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/consulate/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -400,10 +400,10 @@
         "height": 900
       },
       {
-        "id": "c093e9fe-262e-4d54-9eb8-8f431dc389fb",
+        "id": "c8949025-9d6e-4a60-8ceb-3a9bc4f481b5",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/consulate/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/consulate/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -418,17 +418,17 @@
     "name": "Favela",
     "description": "Team Rainbow has been called to pacify and regain control of the Favela. Mixing colorful and narrow streets with high vantage points, this map supports exterior shell destruction which renders it as the most destructible to date.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/favela/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/favela/cover.jpg",
       "width": 960,
       "height": 540,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "7161cc12-3b7f-45c9-95b3-9a04e29c33fd",
+        "id": "7091273b-89d1-4a6c-a985-7db945407ccf",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/favela/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/favela/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -437,10 +437,10 @@
         "height": 900
       },
       {
-        "id": "29db0c91-46a1-405b-8497-53de34f0909e",
+        "id": "e9411484-b550-4799-90d1-8c0b2bdfaade",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/favela/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/favela/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -449,10 +449,10 @@
         "height": 900
       },
       {
-        "id": "59e97148-98cf-4987-ab3d-35856d8af004",
+        "id": "e885935b-ca9c-403a-9f52-f86be5bcdc21",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/favela/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/favela/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -461,10 +461,10 @@
         "height": 900
       },
       {
-        "id": "b88d6c8b-c400-4c3b-b10d-a42b062ecb9d",
+        "id": "2a368f9a-73bb-40f7-8aba-684f484bb793",
         "name": "Floor 3",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/favela/floor3.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/favela/floor3.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -473,10 +473,10 @@
         "height": 900
       },
       {
-        "id": "4905afa5-8e99-4663-8f42-22b2af0496ea",
+        "id": "1cf87bd9-0de0-4729-9655-7c062a84b407",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/favela/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/favela/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -491,17 +491,17 @@
     "name": "Fortress",
     "description": "Appropriately called Fortress, the map is modeled after the distinct architecture of a Moroccan Kasbah, and is designed to offer Operators a variety of tactics.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/fortress/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/fortress/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "7a8a0734-dfe9-4952-8ee0-6695dae73085",
+        "id": "1477b4a6-7b0d-4ecf-b5bc-b73ea02e4ded",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/fortress/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/fortress/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -510,10 +510,10 @@
         "height": 900
       },
       {
-        "id": "f13c9d3a-4b5a-4692-93fa-7b5afbbed700",
+        "id": "8025f1c6-d57d-4a9d-bf99-7170adf4d662",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/fortress/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/fortress/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -522,10 +522,10 @@
         "height": 900
       },
       {
-        "id": "d01df07d-beb6-42ca-ab64-406eecd1df59",
+        "id": "506ef0a1-9bd3-4dad-9a9d-50472df76b78",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/fortress/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/fortress/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -540,17 +540,17 @@
     "name": "Hereford base",
     "description": "The CTU training grounds of the first and most iconic CTU. This is where SAS agents learn their craft and as such it a patchwork of plywood targets, sandbags, barbed wire and other obstacles. One of the most archetypal examples of siege gameplay.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/herefordbase/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/herefordbase/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "3618fc5a-4f5b-450c-a16c-c713ab208b81",
+        "id": "75b5ad71-f53a-4eb4-ac6d-b44d10413ccb",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/herefordbase/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/herefordbase/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -559,10 +559,10 @@
         "height": 900
       },
       {
-        "id": "96cfc6d7-44e0-416f-accd-68c0eeee4660",
+        "id": "90187df5-9afd-4153-9bb6-8cc6f7ca1027",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/herefordbase/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/herefordbase/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -571,10 +571,10 @@
         "height": 900
       },
       {
-        "id": "b55d9165-c6b5-4ebe-b2df-9ae74f11ecfd",
+        "id": "6a7f0fd3-d408-4557-932e-42d3d6d9cf84",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/herefordbase/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/herefordbase/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -583,10 +583,10 @@
         "height": 900
       },
       {
-        "id": "2f2cb870-9001-403a-8aa8-7ce17a67befd",
+        "id": "d4169c0d-bc85-4c82-be78-92b39e4785a4",
         "name": "Floor 3",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/herefordbase/floor3.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/herefordbase/floor3.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -595,10 +595,10 @@
         "height": 900
       },
       {
-        "id": "528ae88c-5f05-4d60-aed7-c885589df108",
+        "id": "547a6e6d-9f04-4df2-be3d-f198796e3ca9",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/herefordbase/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/herefordbase/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -613,17 +613,17 @@
     "name": "House",
     "description": "Playing on themes of familiarity and vulnerability, this encounter takes place in a typical suburban home. It’s a prime example of destructive depth and replayability, and is one of the showcases for classic siege gameplay.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/house/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/house/cover.jpg",
       "width": 300,
       "height": 168,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "32435dab-186a-42b3-99ee-ada139588415",
+        "id": "2d4cceaa-13a5-46f7-8811-8345545e2578",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/house/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/house/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -632,10 +632,10 @@
         "height": 900
       },
       {
-        "id": "dd4948e1-fc49-4b74-abf0-f35443783c91",
+        "id": "4f03e2aa-f203-4e46-ab78-ce6de80cb10b",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/house/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/house/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -644,10 +644,10 @@
         "height": 900
       },
       {
-        "id": "f9f99c38-2d1b-4281-8255-8294083f64be",
+        "id": "cd7c3d72-696d-4dbe-803d-1b691e33f21c",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/house/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/house/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -656,10 +656,10 @@
         "height": 900
       },
       {
-        "id": "95fbbd7f-d706-4f7e-b419-88adf48d3a2a",
+        "id": "307885fd-c03c-440e-9559-0a98409451ef",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/house/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/house/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -674,17 +674,17 @@
     "name": "Kafe Dostoyevsky",
     "description": "This high-class café in central Moscow is the pinnacle of glitz and glamour, and is a natural intervention ground for Spetsnaz forces. The grounds have been seized by terrorists at peak hours on Christmas Eve, and destruction of the rich, chic, classic decor will be a key element of this map.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/kafedostoyevsky/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "59991d22-1520-4e84-97f5-32b1662129ec",
+        "id": "ff9ab6ef-71cd-4059-86f9-00fae6cabfbe",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kafedostoyevsky/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -693,10 +693,10 @@
         "height": 900
       },
       {
-        "id": "b0a810ed-1d51-48ae-8c7b-29e4d155369f",
+        "id": "d6c94e25-aacf-4361-8fa9-fedc9e842e6e",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kafedostoyevsky/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -705,10 +705,10 @@
         "height": 900
       },
       {
-        "id": "cdc5dfa9-97b4-411b-8a47-bc0380d9aa79",
+        "id": "592bdb03-5838-4b6e-a8d3-4da738acd290",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kafedostoyevsky/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -717,10 +717,10 @@
         "height": 900
       },
       {
-        "id": "c36c2f86-d400-4b57-b796-535f9005e23d",
+        "id": "5487ac7a-3fa9-45e3-a19a-3b1cb78c0df0",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kafedostoyevsky/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -735,17 +735,17 @@
     "name": "Kanal",
     "description": "Taking place in the industrial area of Hamburg, Germany, ‘Kanal’ involves multiple buildings with strategic connecting points over canals. It features many interesting strategic possibilities created by the many bridges, buildings and related vantage points of its terrain.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/kanal/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/kanal/cover.jpg",
       "width": 477,
       "height": 268,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "f4b73d76-237f-40d5-aef1-3ea04566bab0",
+        "id": "b073af2e-f317-456b-8fd4-f1dc20d37e58",
         "name": "Groundfloor",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kanal/groundfloor.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kanal/groundfloor.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -754,10 +754,10 @@
         "height": 900
       },
       {
-        "id": "72ca2784-e6f9-4168-a3aa-8be5ef3ce0aa",
+        "id": "1d9fafe7-c16f-4cff-9d34-4b9075961981",
         "name": "Groundfloor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kanal/groundfloor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kanal/groundfloor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -766,10 +766,10 @@
         "height": 900
       },
       {
-        "id": "d81b3c69-5436-4259-90ee-5ca15b840205",
+        "id": "2a477dfa-fa3b-4366-b49b-7690d86019b0",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kanal/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kanal/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -778,10 +778,10 @@
         "height": 900
       },
       {
-        "id": "f7b3e3d7-e4d0-4373-af06-e54d10fd9788",
+        "id": "0f9fdda5-cd91-4da1-b569-7b13a047d95b",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kanal/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kanal/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -790,10 +790,10 @@
         "height": 900
       },
       {
-        "id": "a3758761-ec98-4b53-8586-5b5020d1877f",
+        "id": "51b315c5-ceca-4d07-8e77-bf222f3cafb5",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/kanal/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/kanal/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -808,17 +808,17 @@
     "name": "Oregon",
     "description": "'Oregon' depicts an assault on a fortified survivalist compound. It feels rustic, eclectic and lived-in, and covers a vast, spread out layout requiring adapted tactics to sweep and hold effectively.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/oregon/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/oregon/cover.jpg",
       "width": 968,
       "height": 592,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "855cf7c0-50b2-4491-88c8-8bac847c09cd",
+        "id": "7cedc8c4-d5ac-4c03-938a-51f53e51f42e",
         "name": "Ground",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/oregon/ground.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/oregon/ground.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -827,10 +827,10 @@
         "height": 900
       },
       {
-        "id": "3d8c6056-2d4a-4734-a10f-e98d2efe45be",
+        "id": "0bdfbb3e-7ab8-4c0c-8fa3-c245c1b8571b",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/oregon/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/oregon/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -839,10 +839,10 @@
         "height": 900
       },
       {
-        "id": "a161e678-7a09-4990-a269-42e36fc2c787",
+        "id": "b8b22f69-0230-4293-bf72-fa7df8139a1e",
         "name": "Floor 3",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/oregon/floor3.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/oregon/floor3.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -851,10 +851,10 @@
         "height": 900
       },
       {
-        "id": "333759d0-f2dc-484a-9216-301741146359",
+        "id": "165f9342-306c-44c3-a423-3a9a397ba683",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/oregon/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/oregon/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -863,10 +863,10 @@
         "height": 900
       },
       {
-        "id": "35b26e2b-1021-4f32-8067-72e61ecab809",
+        "id": "a0e8648d-5007-4287-933a-89853e9d5cfd",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/oregon/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/oregon/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -881,17 +881,17 @@
     "name": "Outback",
     "description": "Set in Australia’s Red Heart, this map is an homage to all the dusty service stations and motels that populate the forgotten highways of the continent, places filled with hardworking locals and specialty menu items you’ll find nowhere else.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/outback/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/outback/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "d45ac600-aa62-4e32-8d1d-748b33ff11bd",
+        "id": "13cd1d08-b497-4ba7-901f-80cce8c425b5",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/outback/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/outback/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -900,10 +900,10 @@
         "height": 900
       },
       {
-        "id": "7f3a684d-57ee-4ef4-8c79-0b171329092a",
+        "id": "1ee6ac0e-79cd-4fd5-bccf-80e1416828da",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/outback/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/outback/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -912,10 +912,10 @@
         "height": 900
       },
       {
-        "id": "448e8f19-526f-47af-a574-0c00f9ac7b0d",
+        "id": "8049f0ca-dc5a-4859-b590-ea739c840dca",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/outback/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/outback/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -930,17 +930,17 @@
     "name": "Presidential Plane",
     "description": "One of the most iconic settings for a CTU operation, this presidential plane offers an exotic and unique siege experience. It is claustrophobic, tense and constrained, involving limited breaching opportunities and sight lines.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/presidentialplane/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/presidentialplane/cover.jpg",
       "width": 478,
       "height": 265,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "d7372419-345f-45f2-af6e-ec3456f04641",
+        "id": "e32236ca-2aa4-4ef4-a177-9b85bacd5108",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/presidentialplane/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -949,10 +949,10 @@
         "height": 900
       },
       {
-        "id": "e5974172-641d-4c71-a19b-93e2670b2544",
+        "id": "3c9aa700-938f-46b2-875f-5f26e278e118",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/presidentialplane/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -961,10 +961,10 @@
         "height": 900
       },
       {
-        "id": "f9d49e4d-f419-459f-8b44-d08d5c508aad",
+        "id": "43dda9eb-c575-4038-aade-13b93867ee7a",
         "name": "Floor 3",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/presidentialplane/floor3.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor3.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -973,10 +973,10 @@
         "height": 900
       },
       {
-        "id": "f9c920bd-01d9-4b4f-818b-dc39ad23c438",
+        "id": "5b2d1695-48e6-4d61-9eeb-23b96f674821",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/presidentialplane/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/presidentialplane/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -991,17 +991,17 @@
     "name": "Skyscraper",
     "description": "Perched on top of Skyscraper in Nagoya, Japan, you will explore refined works of Japanese architecture inside a dangerous mansion. Be prepared for vertiginous rappels in the haze of the morning sun, where modernity and tradition meet.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/skyscraper/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/skyscraper/cover.jpg",
       "width": 2640,
       "height": 1616,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "87cae0d0-3f9c-46ba-abe7-991c2b2e2fb4",
+        "id": "fe0e2539-353d-4782-82bd-476ef2c195e4",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/skyscraper/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/skyscraper/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1010,10 +1010,10 @@
         "height": 900
       },
       {
-        "id": "196d5ee7-06db-4832-b24f-eb02aca27626",
+        "id": "2a986d25-a368-4b1c-b987-ba01afd77e5a",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/skyscraper/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/skyscraper/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1022,10 +1022,10 @@
         "height": 900
       },
       {
-        "id": "4dfea6ec-e5f0-4c87-a77d-8bd6d91f2f7f",
+        "id": "b4a2892d-76a0-4cae-95b9-19c5b2f78fe8",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/skyscraper/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/skyscraper/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1040,17 +1040,17 @@
     "name": "Theme Park",
     "description": "Team Rainbow has been called to raid an abandoned theme park on the shores of Hong Kong. Lead a lethal raid in this challenging perimeter. Get ready to discover a colorful and eclectic new map filled with dynamic and fast-paced face-offs.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/themepark/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/themepark/cover.jpg",
       "width": 600,
       "height": 337,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "f234594f-ca7b-43f5-9ed6-3413b40da242",
+        "id": "3cacd365-754c-441b-9290-722f3b1fdbad",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/themepark/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/themepark/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1059,10 +1059,10 @@
         "height": 900
       },
       {
-        "id": "7c327a17-9fc3-4334-b4a0-1ebeb56b869d",
+        "id": "7736bd1d-c815-4cb3-b702-9855dcb08d24",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/themepark/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/themepark/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1071,10 +1071,10 @@
         "height": 900
       },
       {
-        "id": "386a2b5c-43a7-4f70-9c4e-3f6fd4e8d54a",
+        "id": "8af71dde-de71-4670-a7da-4f93aa371d06",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/themepark/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/themepark/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1089,17 +1089,17 @@
     "name": "Tower",
     "description": "Scale the snow-capped Mok Myeok Tower to lead a rescue mission in Seoul, South Korea. The modern communications and observation tower offers fresh vertical vantage points overlooking the entire cityscape, and sets the stage for diverse multilevel tactics.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/tower/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/tower/cover.jpg",
       "width": 477,
       "height": 266,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "d179b75c-1a9e-4ee4-90b4-42df7bd248fb",
+        "id": "709a3569-c415-49fa-a487-70222e594951",
         "name": "Floor 1",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/tower/floor1.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/tower/floor1.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1108,10 +1108,10 @@
         "height": 900
       },
       {
-        "id": "47dd4f53-4cb5-4894-86f1-1b7d3db57391",
+        "id": "ab74bcf0-8838-4ee7-a599-6505d7295c58",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/tower/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/tower/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1120,10 +1120,10 @@
         "height": 900
       },
       {
-        "id": "f3f3b72c-1cd6-4ce8-a946-04785addd365",
+        "id": "ecf4e94a-6902-495f-8bdf-bc50089f680c",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/tower/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/tower/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1138,17 +1138,17 @@
     "name": "Villa",
     "description": "The land belongs to the Vinciguerra, a dangerous crime family known for their smuggling activities. The house is their retreat, where they lead a lavish lifestyle and collect rare art pieces. Now we catch the villa in a snapshot of time: Vinciguerras are burning documents and transporting their holdings before the big raid. But they’ve got wind of Operation Para Bellum and fled, leaving everything in disarray with vital information ready for the taking.",
     "cover": {
-      "src": "https://maps.gametactic.eu/r6/maps/villa/cover.jpg",
+      "src": "https://static.gametactic.eu/r6/maps/villa/cover.jpg",
       "width": 480,
       "height": 270,
       "format": "jpg"
     },
     "views": [
       {
-        "id": "4cc56a8b-12a0-4a25-bce1-7a380a3474a1",
+        "id": "3ad0c815-4966-48f4-a737-929a550496fe",
         "name": "Basement",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/villa/basement.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/villa/basement.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1157,10 +1157,10 @@
         "height": 900
       },
       {
-        "id": "8d4f7fcf-418c-40ab-971b-5b4143cbca62",
+        "id": "ab682645-0e06-4402-9f3f-edcae20e6f74",
         "name": "Floor 2",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/villa/floor2.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/villa/floor2.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1169,10 +1169,10 @@
         "height": 900
       },
       {
-        "id": "cb3117d3-9a83-400d-bb2d-03ee4b2fb44e",
+        "id": "9cd9bf1a-3726-4c83-bed3-97babd4a6ef5",
         "name": "Floor 3",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/villa/floor3.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/villa/floor3.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"
@@ -1181,10 +1181,10 @@
         "height": 900
       },
       {
-        "id": "afe5c5b6-6c7e-465e-9dab-4ec96be5a0f1",
+        "id": "cd847dc1-bde7-4612-a4f4-5700b2b12012",
         "name": "Roof",
         "image": {
-          "src": "https://maps.gametactic.eu/r6/maps/villa/roof.jpg",
+          "src": "https://static.gametactic.eu/r6/maps/villa/roof.jpg",
           "width": 1600,
           "height": 900,
           "format": "jpg"

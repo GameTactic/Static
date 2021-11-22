@@ -1,51 +1,51 @@
 {
   "wot": {
-    "maps": "https://maps.gametactic.eu/wot/maps/data.json",
-    "entities": "https://maps.gametactic.eu/wot/entities/data.json",
-    "icons": "https://maps.gametactic.eu/wot/entities/data.json",
+    "maps": "https://static.gametactic.eu/wot/maps/data.json",
+    "entities": "https://static.gametactic.eu/wot/entities/data.json",
+    "icons": "https://static.gametactic.eu/wot/entities/data.json",
     "data": {
       "acronym": "WOT",
-      "cover": "https://maps.gametactic.eu/wot/cover.png",
-      "coverSVG": "https://maps.gametactic.eu/wot/cover.svg",
+      "cover": "https://static.gametactic.eu/wot/cover.png",
+      "coverSVG": "https://static.gametactic.eu/wot/cover.svg",
       "game": "wot",
       "name": "World of Tanks"
     },
     "disabled": false
   },
   "wows": {
-    "maps": "https://maps.gametactic.eu/wows/maps/data.json",
-    "entities": "https://maps.gametactic.eu/wows/entities/data.json",
-    "icons": "https://maps.gametactic.eu/wows/entities/data.json",
+    "maps": "https://static.gametactic.eu/wows/maps/data.json",
+    "entities": "https://static.gametactic.eu/wows/entities/data.json",
+    "icons": "https://static.gametactic.eu/wows/entities/data.json",
     "data": {
       "acronym": "WOWS",
-      "cover": "https://maps.gametactic.eu/wows/cover.png",
-      "coverSVG": "https://maps.gametactic.eu/wows/cover.svg",
+      "cover": "https://static.gametactic.eu/wows/cover.png",
+      "coverSVG": "https://static.gametactic.eu/wows/cover.svg",
       "game": "wows",
       "name": "World of Warships"
     },
     "disabled": false
   },
   "csgo": {
-    "maps": "https://maps.gametactic.eu/csgo/maps/data.json",
-    "entities": "https://maps.gametactic.eu/csgo/entities/data.json",
-    "icons": "https://maps.gametactic.eu/csgo/entities/data.json",
+    "maps": "https://static.gametactic.eu/csgo/maps/data.json",
+    "entities": "https://static.gametactic.eu/csgo/entities/data.json",
+    "icons": "https://static.gametactic.eu/csgo/entities/data.json",
     "data": {
       "acronym": "CSGO",
-      "cover": "https://maps.gametactic.eu/csgo/cover.png",
-      "coverSVG": "https://maps.gametactic.eu/csgo/cover.svg",
+      "cover": "https://static.gametactic.eu/csgo/cover.png",
+      "coverSVG": "https://static.gametactic.eu/csgo/cover.svg",
       "game": "csgo",
       "name": "Counter-Strike: Global Offensive"
     },
     "disabled": false
   },
   "r6": {
-    "maps": "https://maps.gametactic.eu/r6/maps/data.json",
-    "entities": "https://maps.gametactic.eu/r6/entities/data.json",
-    "icons": "https://maps.gametactic.eu/r6/entities/data.json",
+    "maps": "https://static.gametactic.eu/r6/maps/data.json",
+    "entities": "https://static.gametactic.eu/r6/entities/data.json",
+    "icons": "https://static.gametactic.eu/r6/entities/data.json",
     "data": {
       "acronym": "R6",
-      "cover": "https://maps.gametactic.eu/r6/cover.png",
-      "coverSVG": "https://maps.gametactic.eu/r6/cover.svg",
+      "cover": "https://static.gametactic.eu/r6/cover.png",
+      "coverSVG": "https://static.gametactic.eu/r6/cover.svg",
       "game": "r6",
       "name": "Tom Clancy's Rainbow Six Siege"
     },

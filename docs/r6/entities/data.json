@@ -23,9 +23,12 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker",
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Green Recruit",
@@ -51,9 +54,12 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker",
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Orange Recruit",
@@ -79,9 +85,12 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker",
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Red Recruit",
@@ -107,9 +116,12 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker",
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Yellow Recruit",
@@ -135,9 +147,12 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker",
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Ash",
@@ -163,9 +178,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Bandit",
@@ -191,9 +208,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Blitz",
@@ -219,9 +238,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Castle",
@@ -247,9 +268,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Doc",
@@ -275,9 +298,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Fuze",
@@ -303,9 +328,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Glaz",
@@ -331,9 +358,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Iq",
@@ -359,9 +388,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Jager",
@@ -387,9 +418,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Kapkan",
@@ -415,9 +448,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Montagne",
@@ -443,9 +478,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Mute",
@@ -471,9 +508,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Pulse",
@@ -499,9 +538,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Rook",
@@ -527,9 +568,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Sledge",
@@ -555,9 +598,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Smoke",
@@ -583,9 +628,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Tachanka",
@@ -611,9 +658,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Thatcher",
@@ -639,9 +688,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Thermite",
@@ -667,9 +718,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Twitch",
@@ -695,9 +748,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Blackbeard",
@@ -723,9 +778,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Buck",
@@ -751,9 +808,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Capitao",
@@ -779,9 +838,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Caveria",
@@ -807,9 +868,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Echo",
@@ -835,9 +898,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Frost",
@@ -863,9 +928,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Hibana",
@@ -891,9 +958,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Valkyrie",
@@ -919,9 +988,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Dokkkaebi",
@@ -947,9 +1018,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Ela",
@@ -975,9 +1048,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Jackal",
@@ -1003,9 +1078,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Lesion",
@@ -1031,9 +1108,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Mira",
@@ -1059,9 +1138,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Vigil",
@@ -1087,9 +1168,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Ying",
@@ -1115,9 +1198,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Zofia",
@@ -1143,9 +1228,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Alibi",
@@ -1171,9 +1258,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Clash",
@@ -1199,9 +1288,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Finka",
@@ -1227,9 +1318,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Kaid",
@@ -1255,9 +1348,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Lion",
@@ -1283,9 +1378,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Maestro",
@@ -1311,9 +1408,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Maverick",
@@ -1339,9 +1438,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Nomad",
@@ -1367,16 +1468,18 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Amaru",
     "icon": {
       "src": "https://static.gametactic.eu/r6/entities/amaru/icon.png",
-      "width": 97,
-      "height": 97,
+      "width": 201,
+      "height": 201,
       "format": "png"
     },
     "permissions": {
@@ -1390,14 +1493,16 @@
     "caption": "Azucena Rocío Quispe, codenamed Amaru, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege. She was introduced in the Operation Ember Rise expansion alongside Goyo.",
     "picture": {
       "src": "https://static.gametactic.eu/r6/entities/amaru/picture.png",
-      "width": 97,
-      "height": 97,
+      "width": 201,
+      "height": 201,
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 97,
-    "height": 97
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Goyo",
@@ -1423,9 +1528,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Gridlock",
@@ -1451,9 +1558,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Kali",
@@ -1479,9 +1588,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Mozzie",
@@ -1507,9 +1618,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Nokk",
@@ -1535,9 +1648,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Wamai",
@@ -1563,9 +1678,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Warden",
@@ -1591,9 +1708,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Ace",
@@ -1619,9 +1738,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Aruni",
@@ -1647,9 +1768,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Iana",
@@ -1675,9 +1798,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Melusi",
@@ -1703,9 +1828,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Oryx",
@@ -1731,9 +1858,11 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Zero",
@@ -1759,8 +1888,10 @@
       "format": "png"
     },
     "isDefault": true,
-    "categories": [],
-    "width": 201,
-    "height": 201
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
   }
 ]

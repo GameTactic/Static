@@ -34,7 +34,15 @@
       "cover": "https://static.gametactic.eu/csgo/cover.png",
       "coverSVG": "https://static.gametactic.eu/csgo/cover.svg",
       "game": "csgo",
-      "name": "Counter-Strike: Global Offensive"
+      "name": "Counter-Strike: Global Offensive",
+      "categories": {
+        "map": [
+          "Bomb Defuse",
+          "Hostage Rescue"
+        ],
+        "entity": [],
+        "icon": []
+      }
     },
     "disabled": false
   },
@@ -47,7 +55,18 @@
       "cover": "https://static.gametactic.eu/r6/cover.png",
       "coverSVG": "https://static.gametactic.eu/r6/cover.svg",
       "game": "r6",
-      "name": "Tom Clancy's Rainbow Six Siege"
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "categories": {
+        "map": [],
+        "entity": [
+          "Attacker",
+          "Defender"
+        ],
+        "icon": [
+          "Attacker",
+          "Defender"
+        ]
+      }
     },
     "disabled": false
   }

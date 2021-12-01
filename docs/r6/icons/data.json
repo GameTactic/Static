@@ -24,10 +24,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Attackers"
+      "Attacker"
     ],
-    "width": 170,
-    "height": 263
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Claymore",
@@ -54,10 +54,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Attackers"
+      "Attacker"
     ],
-    "width": 265,
-    "height": 253
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Flash",
@@ -84,10 +84,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Attackers"
+      "Attacker"
     ],
-    "width": 155,
-    "height": 283
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Frag",
@@ -114,10 +114,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Attackers"
+      "Attacker"
     ],
-    "width": 175,
-    "height": 206
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Smoke",
@@ -144,10 +144,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Attackers"
+      "Attacker"
     ],
-    "width": 150,
-    "height": 269
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Barbed Wire",
@@ -174,10 +174,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Defenders"
+      "Defender"
     ],
-    "width": 230,
-    "height": 206
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Bulletproof Cam",
@@ -204,10 +204,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Defenders"
+      "Defender"
     ],
-    "width": 339,
-    "height": 231
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Deployable Shield",
@@ -234,10 +234,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Defenders"
+      "Defender"
     ],
-    "width": 237,
-    "height": 268
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Impact",
@@ -264,10 +264,10 @@
     },
     "isDefault": false,
     "categories": [
-      "Defenders"
+      "Defender"
     ],
-    "width": 214,
-    "height": 201
+    "width": 64,
+    "height": 64
   },
   {
     "label": "Nitro",
@@ -294,9 +294,9 @@
     },
     "isDefault": false,
     "categories": [
-      "Defenders"
+      "Defender"
     ],
-    "width": 130,
-    "height": 280
+    "width": 64,
+    "height": 64
   }
 ]

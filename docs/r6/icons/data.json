@@ -26,8 +26,8 @@
     "categories": [
       "Attacker"
     ],
-    "width": 64,
-    "height": 64
+    "width": 31.026615969581748,
+    "height": 48
   },
   {
     "label": "Claymore",
@@ -56,8 +56,8 @@
     "categories": [
       "Attacker"
     ],
-    "width": 64,
-    "height": 64
+    "width": 48,
+    "height": 45.82641509433962
   },
   {
     "label": "Flash",
@@ -86,8 +86,8 @@
     "categories": [
       "Attacker"
     ],
-    "width": 64,
-    "height": 64
+    "width": 26.28975265017668,
+    "height": 48
   },
   {
     "label": "Frag",
@@ -116,8 +116,8 @@
     "categories": [
       "Attacker"
     ],
-    "width": 64,
-    "height": 64
+    "width": 40.77669902912621,
+    "height": 48
   },
   {
     "label": "Smoke",
@@ -146,8 +146,8 @@
     "categories": [
       "Attacker"
     ],
-    "width": 64,
-    "height": 64
+    "width": 26.765799256505577,
+    "height": 48
   },
   {
     "label": "Barbed Wire",
@@ -176,8 +176,8 @@
     "categories": [
       "Defender"
     ],
-    "width": 64,
-    "height": 64
+    "width": 48,
+    "height": 42.99130434782609
   },
   {
     "label": "Bulletproof Cam",
@@ -206,8 +206,8 @@
     "categories": [
       "Defender"
     ],
-    "width": 64,
-    "height": 64
+    "width": 48,
+    "height": 32.70796460176991
   },
   {
     "label": "Deployable Shield",
@@ -236,8 +236,8 @@
     "categories": [
       "Defender"
     ],
-    "width": 64,
-    "height": 64
+    "width": 42.44776119402985,
+    "height": 48
   },
   {
     "label": "Impact",
@@ -266,8 +266,8 @@
     "categories": [
       "Defender"
     ],
-    "width": 64,
-    "height": 64
+    "width": 48,
+    "height": 45.084112149532714
   },
   {
     "label": "Nitro",
@@ -296,7 +296,7 @@
     "categories": [
       "Defender"
     ],
-    "width": 64,
-    "height": 64
+    "width": 22.285714285714285,
+    "height": 48
   }
 ]

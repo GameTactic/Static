@@ -177,7 +177,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -207,7 +207,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -237,7 +237,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -267,7 +267,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -297,7 +297,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -327,7 +327,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -357,7 +357,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -387,7 +387,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -417,7 +417,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -447,7 +447,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -477,7 +477,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -507,7 +507,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -537,7 +537,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -567,7 +567,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -597,7 +597,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -627,7 +627,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -657,7 +657,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -687,7 +687,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -717,7 +717,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -747,7 +747,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -777,7 +777,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -807,7 +807,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -837,7 +837,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -867,7 +867,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -897,7 +897,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -927,7 +927,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -957,7 +957,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -987,7 +987,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1017,7 +1017,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1047,7 +1047,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1077,7 +1077,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1107,7 +1107,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1137,7 +1137,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1167,7 +1167,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1197,7 +1197,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1227,7 +1227,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1257,7 +1257,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1287,7 +1287,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1317,7 +1317,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1347,7 +1347,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1377,7 +1377,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1407,7 +1407,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1437,7 +1437,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1467,7 +1467,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1497,7 +1497,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1527,7 +1527,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1557,7 +1557,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1587,7 +1587,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1617,7 +1617,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1647,7 +1647,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1677,7 +1677,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1707,7 +1707,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1737,7 +1737,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1767,7 +1767,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1797,7 +1797,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],
@@ -1827,7 +1827,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1857,7 +1857,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Defender"
     ],
@@ -1887,7 +1887,7 @@
       "height": 201,
       "format": "png"
     },
-    "isDefault": true,
+    "isDefault": false,
     "categories": [
       "Attacker"
     ],

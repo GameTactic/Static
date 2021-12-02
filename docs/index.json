@@ -2,7 +2,7 @@
   "wot": {
     "maps": "https://static.gametactic.eu/wot/maps/data.json",
     "entities": "https://static.gametactic.eu/wot/entities/data.json",
-    "icons": "https://static.gametactic.eu/wot/entities/data.json",
+    "icons": "https://static.gametactic.eu/wot/icons/data.json",
     "data": {
       "acronym": "WOT",
       "cover": "https://static.gametactic.eu/wot/cover.png",
@@ -15,7 +15,7 @@
   "wows": {
     "maps": "https://static.gametactic.eu/wows/maps/data.json",
     "entities": "https://static.gametactic.eu/wows/entities/data.json",
-    "icons": "https://static.gametactic.eu/wows/entities/data.json",
+    "icons": "https://static.gametactic.eu/wows/icons/data.json",
     "data": {
       "acronym": "WOWS",
       "cover": "https://static.gametactic.eu/wows/cover.png",
@@ -28,7 +28,7 @@
   "csgo": {
     "maps": "https://static.gametactic.eu/csgo/maps/data.json",
     "entities": "https://static.gametactic.eu/csgo/entities/data.json",
-    "icons": "https://static.gametactic.eu/csgo/entities/data.json",
+    "icons": "https://static.gametactic.eu/csgo/icons/data.json",
     "data": {
       "acronym": "CSGO",
       "cover": "https://static.gametactic.eu/csgo/cover.png",
@@ -49,7 +49,7 @@
   "r6": {
     "maps": "https://static.gametactic.eu/r6/maps/data.json",
     "entities": "https://static.gametactic.eu/r6/entities/data.json",
-    "icons": "https://static.gametactic.eu/r6/entities/data.json",
+    "icons": "https://static.gametactic.eu/r6/icons/data.json",
     "data": {
       "acronym": "R6",
       "cover": "https://static.gametactic.eu/r6/cover.png",

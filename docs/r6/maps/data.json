@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "dc3e203e-f2a0-4f52-944f-055d86f8d63c",
+        "id": "1b730961-a10a-4c29-99e9-18d319ad07b1",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/basement.png",
@@ -22,7 +22,7 @@
         "height": 1440
       },
       {
-        "id": "0bec295f-eafd-43a6-8781-1ca4e02044a1",
+        "id": "8f81789d-0be8-42a7-8441-dd552f880447",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/ground.png",
@@ -34,7 +34,7 @@
         "height": 1440
       },
       {
-        "id": "fdd8f0a7-5871-4a13-8ee5-79d0f328bd0d",
+        "id": "9d812a1a-6869-4de6-87a9-b2306fc26e11",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/floor2.png",
@@ -46,7 +46,7 @@
         "height": 1440
       },
       {
-        "id": "234c3c0f-9fcc-49cb-9a08-22d1e0b8123f",
+        "id": "254661ec-71ec-40d9-b312-e3a7f456bb24",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/roof.png",
@@ -71,7 +71,7 @@
     },
     "views": [
       {
-        "id": "003d74c6-7c5b-4a03-9bd4-c01489e2ebc9",
+        "id": "0549f84a-2b6a-4eb5-8bc6-631fa8e315cd",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/basement.jpg",
@@ -83,7 +83,7 @@
         "height": 900
       },
       {
-        "id": "88b72489-ba90-4ad9-8b78-80ef8c8644ef",
+        "id": "7db27f7d-91a8-4f35-bc6e-348089c83521",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/ground.jpg",
@@ -95,7 +95,7 @@
         "height": 900
       },
       {
-        "id": "ffb77c90-a3b7-47b1-8c2c-a3ad4a9f6d76",
+        "id": "2cf2e59e-d96f-46dc-9d3c-0317bcda5620",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/floor2.jpg",
@@ -107,7 +107,7 @@
         "height": 900
       },
       {
-        "id": "35c29d32-a628-423e-b328-be89556b5c2d",
+        "id": "caa9ece7-1455-4f5c-872f-43716a4797f5",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/floor3.jpg",
@@ -119,7 +119,7 @@
         "height": 900
       },
       {
-        "id": "f625afc9-46d1-41d9-b86b-015c6350c236",
+        "id": "5e84fd15-a9c1-45fc-985e-30148a36322b",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/roof.jpg",
@@ -144,7 +144,7 @@
     },
     "views": [
       {
-        "id": "e3a5967e-f66e-47e1-826c-a16ffa47f05f",
+        "id": "a5d332e7-4e1f-4d10-a0b2-3e3e16fe9a53",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/border/ground.jpg",
@@ -156,7 +156,7 @@
         "height": 900
       },
       {
-        "id": "bf41afb5-24c7-42fa-8784-7713ab63a30b",
+        "id": "c0bdb31c-392f-478f-9f4f-c32b8b81fc04",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/border/floor2.jpg",
@@ -168,7 +168,7 @@
         "height": 900
       },
       {
-        "id": "491450de-4105-4039-9ae6-9a41e5f4ee52",
+        "id": "899036c8-320d-4099-b8bb-96b04d0f2da0",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/border/roof.jpg",
@@ -193,7 +193,7 @@
     },
     "views": [
       {
-        "id": "7f1978e1-9eac-470b-ba96-632f4a3335e2",
+        "id": "4b173ce4-3600-4b9a-a689-73229f576cfd",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/basement.jpg",
@@ -205,7 +205,7 @@
         "height": 900
       },
       {
-        "id": "e8198d35-67a7-4015-8e25-43c89ad57de6",
+        "id": "f91eb6a8-20e9-466d-a853-39d21d21dc29",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/ground.jpg",
@@ -217,7 +217,7 @@
         "height": 900
       },
       {
-        "id": "66b71651-06de-47de-86d8-00301871269f",
+        "id": "528da711-9627-4d4e-ac2e-71d427529b93",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/floor2.jpg",
@@ -229,7 +229,7 @@
         "height": 900
       },
       {
-        "id": "7b6d9014-3dc3-441f-a4ab-110bf5080f98",
+        "id": "60fa0af3-79d8-45a1-a6c8-b9ad98388527",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/roof.jpg",
@@ -254,7 +254,7 @@
     },
     "views": [
       {
-        "id": "138ee2b2-cf74-4551-b977-b1ff1927f49a",
+        "id": "6b6e5f65-27fe-405c-a4cb-d178ee0c2bca",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/basement.png",
@@ -266,7 +266,7 @@
         "height": 1440
       },
       {
-        "id": "1d88aa45-a8ca-463b-bfd1-6c53f5697cf5",
+        "id": "4b362ca6-49d2-49a4-bceb-94535fa021cc",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/ground.png",
@@ -278,7 +278,7 @@
         "height": 1440
       },
       {
-        "id": "53cda064-3cb3-444a-a479-943dca6bf27d",
+        "id": "6abb7669-3d32-44f8-ad6f-f69ef37d4abd",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/floor2.png",
@@ -290,7 +290,7 @@
         "height": 1440
       },
       {
-        "id": "ab49f85a-3801-4015-9543-a0f7986b1249",
+        "id": "32f7b4ff-156a-41d1-b02c-f222ac024356",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/roof.png",
@@ -315,7 +315,7 @@
     },
     "views": [
       {
-        "id": "b6b3cb9c-8fed-4f07-80d9-93137f707201",
+        "id": "691d092b-71f6-49b9-a6dc-30d684bc5149",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/coastline/floor1.jpg",
@@ -327,7 +327,7 @@
         "height": 1440
       },
       {
-        "id": "9f60d508-979c-4ec3-af0a-ef915a6c3027",
+        "id": "e8be678d-f655-4891-b4a7-8d8036048f28",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/coastline/floor2.jpg",
@@ -339,7 +339,7 @@
         "height": 1440
       },
       {
-        "id": "869205d2-e346-4898-9c60-143444ab0e6b",
+        "id": "1d63cc5b-8cff-4a56-9b05-fb2232587159",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/coastline/roof.jpg",
@@ -364,7 +364,7 @@
     },
     "views": [
       {
-        "id": "7db26c4c-f6ec-4089-8038-962409203665",
+        "id": "a8ac6f72-71b6-4cb7-9f1e-8bd78253d5e2",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/basement.jpg",
@@ -376,7 +376,7 @@
         "height": 900
       },
       {
-        "id": "c71b062f-5ac2-4650-a2ae-e35056fe6d11",
+        "id": "4b9b03ab-65d8-4bc0-a1fd-c82a3c7d1fe2",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/ground.jpg",
@@ -388,7 +388,7 @@
         "height": 900
       },
       {
-        "id": "a34f7f5c-76c6-407f-b77f-8f78a5ff7299",
+        "id": "9e1ea8d2-eddf-4956-a655-a98fca0a584f",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/floor2.jpg",
@@ -400,7 +400,7 @@
         "height": 900
       },
       {
-        "id": "8a353e60-5551-41f8-8655-a3f91bc9ad5a",
+        "id": "667e72b2-2053-4316-bb3f-3b2f99a36440",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/roof.jpg",
@@ -425,7 +425,7 @@
     },
     "views": [
       {
-        "id": "d697ef62-fc33-4195-a17f-eaebcb0092c7",
+        "id": "b0b4d026-f339-43b0-b44f-84f5d50f3863",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/basement.jpg",
@@ -437,7 +437,7 @@
         "height": 900
       },
       {
-        "id": "89851983-d7d7-4ba7-8f60-53abb8076ccf",
+        "id": "71bd2030-700b-4c63-9746-343506a575fb",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/ground.jpg",
@@ -449,7 +449,7 @@
         "height": 900
       },
       {
-        "id": "251b4c38-4706-4ee4-b3bf-bbf7b97a00dd",
+        "id": "95df2a11-d44f-4eaf-80b5-1223ce71b112",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/floor2.jpg",
@@ -461,7 +461,7 @@
         "height": 900
       },
       {
-        "id": "bc405e82-54be-4352-8593-05a006107655",
+        "id": "0544935e-7f4c-4217-b975-fe8f47908cf6",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/floor3.jpg",
@@ -473,7 +473,7 @@
         "height": 900
       },
       {
-        "id": "13158458-4702-4e54-9cad-cf7ae986470d",
+        "id": "b02dff25-9e3f-4844-8050-d9fe3fe80c1a",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/roof.jpg",
@@ -498,7 +498,7 @@
     },
     "views": [
       {
-        "id": "0c919d7c-b2c6-480e-aeff-d826528efcf5",
+        "id": "1e6da2ee-851e-44ae-b383-9203c80af238",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/fortress/floor1.jpg",
@@ -510,7 +510,7 @@
         "height": 900
       },
       {
-        "id": "81763134-3dd6-4a54-a048-5254034678af",
+        "id": "bae8f2f0-adb2-4bd4-9655-93a500f6206e",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/fortress/floor2.jpg",
@@ -522,7 +522,7 @@
         "height": 900
       },
       {
-        "id": "454b981c-3e6d-4def-81e3-018790f19c9a",
+        "id": "bfbdf5b2-bd02-4937-ba01-4d027f76c95d",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/fortress/roof.jpg",
@@ -547,7 +547,7 @@
     },
     "views": [
       {
-        "id": "f3fda36c-520f-4d87-8981-d80c8d55ffd2",
+        "id": "b7d2d222-9200-424c-b8ce-ad1546a9a17c",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/basement.jpg",
@@ -559,7 +559,7 @@
         "height": 900
       },
       {
-        "id": "ce051895-3f57-4fac-a5c5-4c42b27ab57c",
+        "id": "a69b4885-9555-4fa2-ab4d-31ca123846eb",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/ground.jpg",
@@ -571,7 +571,7 @@
         "height": 900
       },
       {
-        "id": "9197d425-88aa-4b60-9174-763713f39a27",
+        "id": "280abecf-e5e4-46be-9a1a-245e16146cb2",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/floor2.jpg",
@@ -583,7 +583,7 @@
         "height": 900
       },
       {
-        "id": "7c5bc1bd-4797-49ee-91e4-65bfa3ef8ef5",
+        "id": "5117e8eb-150d-4427-8314-25e0762d57d2",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/floor3.jpg",
@@ -595,7 +595,7 @@
         "height": 900
       },
       {
-        "id": "5add8a94-06d3-4d0e-ac61-298df288174d",
+        "id": "98141f95-1812-473b-bfa4-ab0a268beb7a",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/roof.jpg",
@@ -620,7 +620,7 @@
     },
     "views": [
       {
-        "id": "40670646-896b-4d08-a30d-203ea75c263a",
+        "id": "5f6b76e0-6fac-4a77-9cbf-e067db275197",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/basement.jpg",
@@ -632,7 +632,7 @@
         "height": 900
       },
       {
-        "id": "6f3ff351-3e33-46b7-8429-fd2b585c780c",
+        "id": "f69f6a0e-273d-4a25-a418-eae3948ab401",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/ground.jpg",
@@ -644,7 +644,7 @@
         "height": 900
       },
       {
-        "id": "6ad0de05-241e-4bd9-a817-47ee625dc89f",
+        "id": "ce0d6d2c-5bb2-41a8-ab01-4da36113d507",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/floor2.jpg",
@@ -656,7 +656,7 @@
         "height": 900
       },
       {
-        "id": "d3a5d6a6-279d-4141-98cf-8aec9da30255",
+        "id": "d2eff9de-70f4-4f84-849a-ff57237235ef",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/roof.jpg",
@@ -681,7 +681,7 @@
     },
     "views": [
       {
-        "id": "a44e50bb-f2ae-4fce-b9e4-8ad8e60ada8a",
+        "id": "d49ecd28-7d8e-4267-91f7-d2a8c559c799",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/basement.jpg",
@@ -693,7 +693,7 @@
         "height": 900
       },
       {
-        "id": "d5284e63-4ec2-4ae1-b1d6-84c534ca5ba3",
+        "id": "21323be7-7606-48f2-b80a-faffab26edb9",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/ground.jpg",
@@ -705,7 +705,7 @@
         "height": 900
       },
       {
-        "id": "8e792e40-a5a6-42b7-84cc-dbaca04bbd52",
+        "id": "ba956d24-4159-49af-994e-b720cadc2dad",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/floor2.jpg",
@@ -717,7 +717,7 @@
         "height": 900
       },
       {
-        "id": "fb11e7ca-1f41-4014-b4cf-8523038a213c",
+        "id": "06fc8242-efce-488b-be69-cc7ce5de7342",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/roof.jpg",
@@ -742,7 +742,7 @@
     },
     "views": [
       {
-        "id": "624b4ddf-faa5-4465-bb0c-05f98977a867",
+        "id": "611ee17c-dfa5-48ad-b354-668fa6247608",
         "name": "Groundfloor",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/groundfloor.jpg",
@@ -754,7 +754,7 @@
         "height": 900
       },
       {
-        "id": "c41dfaea-8e28-4555-9e57-3a5073777512",
+        "id": "aeef2afa-9254-4c03-ba83-85f86163a7a2",
         "name": "Groundfloor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/groundfloor2.jpg",
@@ -766,7 +766,7 @@
         "height": 900
       },
       {
-        "id": "5cf08f62-19d7-4773-b6ee-3a6e88e5e7a5",
+        "id": "83e7d857-c2c0-4edf-a2c6-843792e2832b",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/floor1.jpg",
@@ -778,7 +778,7 @@
         "height": 900
       },
       {
-        "id": "f49a21d4-8bf6-435d-ac49-1b2ed0069fde",
+        "id": "41cf5873-37db-4850-bbe3-b038fc2320fe",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/floor2.jpg",
@@ -790,7 +790,7 @@
         "height": 900
       },
       {
-        "id": "81017f25-bef5-4bc8-92d4-d722617c302f",
+        "id": "835482f9-9c6e-46a1-a7b1-72542838749f",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/roof.jpg",
@@ -815,7 +815,7 @@
     },
     "views": [
       {
-        "id": "3fa1c26a-09df-45ba-a365-187f66e35e86",
+        "id": "5ef2687c-0963-40f0-ad44-9ae7a1e9914a",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/ground.jpg",
@@ -827,7 +827,7 @@
         "height": 900
       },
       {
-        "id": "eda14561-1128-44af-84b6-f162a43f4cbf",
+        "id": "fe858ca8-2891-4298-bb0e-b71f5ad65dd2",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/floor2.jpg",
@@ -839,7 +839,7 @@
         "height": 900
       },
       {
-        "id": "15924a76-a2d4-4f53-bed0-9a65ed941f32",
+        "id": "13eb2467-7a87-42ff-b263-176dcc2fbe82",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/floor3.jpg",
@@ -851,7 +851,7 @@
         "height": 900
       },
       {
-        "id": "67ef8a3b-eb21-4f1f-a6f0-f874d25dd945",
+        "id": "8a045091-590d-41af-9f91-1e75d1d9d682",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/basement.jpg",
@@ -863,7 +863,7 @@
         "height": 900
       },
       {
-        "id": "a942e1eb-da84-46cf-b9e6-f5bdf1fa88f4",
+        "id": "2760e94f-a24d-43de-a288-c5cfb496db4a",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/roof.jpg",
@@ -888,7 +888,7 @@
     },
     "views": [
       {
-        "id": "8a4a21e9-4ede-4c99-88be-e8a7d84255cb",
+        "id": "b11c8570-d9b3-435b-95d9-cd074b18c6e4",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/outback/floor1.jpg",
@@ -900,7 +900,7 @@
         "height": 900
       },
       {
-        "id": "dca20a4f-0196-49ab-9b8b-2e020308b1cc",
+        "id": "3b1a6930-b090-46f1-b9af-83c173d69179",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/outback/floor2.jpg",
@@ -912,7 +912,7 @@
         "height": 900
       },
       {
-        "id": "9ef83773-7fed-4960-be3c-a17199fcdfcc",
+        "id": "9cf13f98-ad53-4530-9f42-5e7899c12c2d",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/outback/roof.jpg",
@@ -937,7 +937,7 @@
     },
     "views": [
       {
-        "id": "c38ffbcc-d61f-48ac-b1d8-ac867bc30d73",
+        "id": "5fd0f35d-db3d-432b-b4cb-c4c9c69475e2",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor1.jpg",
@@ -949,7 +949,7 @@
         "height": 900
       },
       {
-        "id": "a7970c74-e283-49e1-97a3-bdc0ea2011b9",
+        "id": "63f3f1d2-4451-41c7-a4a5-699d00ed522e",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor2.jpg",
@@ -961,7 +961,7 @@
         "height": 900
       },
       {
-        "id": "b5587358-6537-48b0-8cbc-77098d264c58",
+        "id": "dc6167fe-fb30-4910-be6a-da8dee2f9bba",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor3.jpg",
@@ -973,7 +973,7 @@
         "height": 900
       },
       {
-        "id": "6d7d1097-a4dc-4787-9673-759da42b0bd3",
+        "id": "af954852-a0a9-49ab-9b76-0f64e98773a9",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/roof.jpg",
@@ -998,7 +998,7 @@
     },
     "views": [
       {
-        "id": "620e298c-8da0-4d08-bc8f-89d48b27fa47",
+        "id": "8e3e2c25-9731-4fd4-b163-cc2df5a2f6b9",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/skyscraper/floor1.jpg",
@@ -1010,7 +1010,7 @@
         "height": 900
       },
       {
-        "id": "a1a72af0-1269-490d-8931-60b954c5c7c3",
+        "id": "54da3f8e-2d72-446f-8207-334a017f04f6",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/skyscraper/floor2.jpg",
@@ -1022,7 +1022,7 @@
         "height": 900
       },
       {
-        "id": "18e68327-226a-4a5a-9e67-bef7ebbc31cf",
+        "id": "003bc6a8-2c89-4c78-9a41-eaf3eb33bb48",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/skyscraper/roof.jpg",
@@ -1047,7 +1047,7 @@
     },
     "views": [
       {
-        "id": "297506e7-bb4f-4a3f-be76-356fdb947944",
+        "id": "0efcd41f-cc8c-4979-9384-45d816c5b01b",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/themepark/floor1.jpg",
@@ -1059,7 +1059,7 @@
         "height": 900
       },
       {
-        "id": "22639568-844e-4196-be01-204bfff051bb",
+        "id": "cc463677-e612-470b-b8b0-65286ce52a75",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/themepark/floor2.jpg",
@@ -1071,7 +1071,7 @@
         "height": 900
       },
       {
-        "id": "b426304a-8dfa-436c-a64d-b3ab6bc327c9",
+        "id": "a0afd71c-dd36-4405-b431-7d3e8aee4b54",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/themepark/roof.jpg",
@@ -1096,7 +1096,7 @@
     },
     "views": [
       {
-        "id": "be64c49d-6b79-413a-88df-b4353500f82f",
+        "id": "d27951ce-6cfa-4699-9dcd-228520cee9ae",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/tower/floor1.jpg",
@@ -1108,7 +1108,7 @@
         "height": 900
       },
       {
-        "id": "061b9794-2ff3-4672-a238-dcd0a9a86730",
+        "id": "7d95cb94-fb23-4a33-8f7e-4527b4cad8dc",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/tower/floor2.jpg",
@@ -1120,7 +1120,7 @@
         "height": 900
       },
       {
-        "id": "19cbd0ec-8fdb-48cf-9aa1-d69225d6ce2a",
+        "id": "daf46780-380b-4d6f-82b2-817edefee969",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/tower/roof.jpg",
@@ -1145,7 +1145,7 @@
     },
     "views": [
       {
-        "id": "46815fb9-4d28-4142-91b6-8a48bc36349c",
+        "id": "a52aae3f-a742-4120-af96-92cc1b1a4051",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/basement.jpg",
@@ -1157,7 +1157,7 @@
         "height": 900
       },
       {
-        "id": "444e2c24-0792-4c32-a5bb-cf911bfded1a",
+        "id": "05af94fe-8eca-4ddc-84c7-d548b808f91e",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/floor2.jpg",
@@ -1169,7 +1169,7 @@
         "height": 900
       },
       {
-        "id": "d66209de-e992-488d-b748-9cbe6c80438b",
+        "id": "a7b917cb-38b4-4839-b1c5-2ef831ec2695",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/floor3.jpg",
@@ -1181,7 +1181,7 @@
         "height": 900
       },
       {
-        "id": "de313bd9-dfcf-4790-9f5b-115d77a2b914",
+        "id": "8d8015a8-897f-4613-9a79-cd878fb03331",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/roof.jpg",

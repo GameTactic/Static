@@ -180,9 +180,9 @@
     "height": 42.99130434782609
   },
   {
-    "label": "Bulletproof Cam",
+    "label": "Bulletproof Camera",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/bulletproofcam/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/bulletproofcamera/icon.png",
       "width": 339,
       "height": 231,
       "format": "png"
@@ -195,9 +195,9 @@
     "temporary": false,
     "type": "ICON",
     "plugins": [],
-    "caption": "Bulletproof Cam",
+    "caption": "Bulletproof Camera",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/bulletproofcam/picture.png",
+      "src": "https://static.gametactic.eu/r6/icons/bulletproofcamera/picture.png",
       "width": 339,
       "height": 231,
       "format": "png"
@@ -298,5 +298,95 @@
     ],
     "width": 22.285714285714285,
     "height": 48
+  },
+  {
+    "label": "Proximity Alarm",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/icons/proximityalarm/icon.png",
+      "width": 253,
+      "height": 227,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Proximity Alarm",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/icons/proximityalarm/picture.png",
+      "width": 253,
+      "height": 227,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defender"
+    ],
+    "width": 48,
+    "height": 43.06719367588933
+  },
+  {
+    "label": "Concussion",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/icons/concussion/icon.png",
+      "width": 223,
+      "height": 280,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Concussion",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/icons/concussion/picture.png",
+      "width": 223,
+      "height": 280,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attacker"
+    ],
+    "width": 38.22857142857143,
+    "height": 48
+  },
+  {
+    "label": "Hard Breach",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/icons/hardbreach/icon.png",
+      "width": 279,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Hard Breach",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/icons/hardbreach/picture.png",
+      "width": 279,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attacker"
+    ],
+    "width": 48,
+    "height": 44.043010752688176
   }
 ]

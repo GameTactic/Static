@@ -1893,5 +1893,125 @@
     ],
     "width": 64,
     "height": 64
+  },
+  {
+    "label": "Thunderbird",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/entities/thunderbird/icon.png",
+      "width": 200,
+      "height": 200,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Mina \"Thunderbird\" Sky is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the North Star expansion.",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/entities/thunderbird/picture.png",
+      "width": 200,
+      "height": 200,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 64
+  },
+  {
+    "label": "Flores",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/entities/flores/icon.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Santiago \"Flores\" Lucero, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Crimson Heist expansion.",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/entities/flores/picture.png",
+      "width": 201,
+      "height": 201,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 64
+  },
+  {
+    "label": "Thorn",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/entities/thorn/icon.png",
+      "width": 201,
+      "height": 200,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Brianna \"Thorn\" Skehan is a Defending Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the High Calibre expansion.",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/entities/thorn/picture.png",
+      "width": 201,
+      "height": 200,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Defender"
+    ],
+    "width": 64,
+    "height": 63.681592039801
+  },
+  {
+    "label": "Osa",
+    "icon": {
+      "src": "https://static.gametactic.eu/r6/entities/osa/icon.png",
+      "width": 201,
+      "height": 200,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Anja Katarina \"Osa\" Janković, is an Attacking Operator featured in Tom Clancy's Rainbow Six Siege, introduced in the Crystal Guard expansion.",
+    "picture": {
+      "src": "https://static.gametactic.eu/r6/entities/osa/picture.png",
+      "width": 201,
+      "height": 200,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Attacker"
+    ],
+    "width": 64,
+    "height": 63.681592039801
   }
 ]

@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "1b730961-a10a-4c29-99e9-18d319ad07b1",
+        "id": "8c7d6e9f-8c08-47f5-9e18-680ffe7691d6",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/basement.png",
@@ -22,7 +22,7 @@
         "height": 1440
       },
       {
-        "id": "8f81789d-0be8-42a7-8441-dd552f880447",
+        "id": "b7b938d1-1a78-46d1-84d9-fb45f16b9c69",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/ground.png",
@@ -34,7 +34,7 @@
         "height": 1440
       },
       {
-        "id": "9d812a1a-6869-4de6-87a9-b2306fc26e11",
+        "id": "70fa49dc-6020-49ef-b6ad-024a8ad1e10a",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/floor2.png",
@@ -46,7 +46,7 @@
         "height": 1440
       },
       {
-        "id": "254661ec-71ec-40d9-b312-e3a7f456bb24",
+        "id": "17aa2c80-40c5-42e4-b3d4-575d57848f05",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/bank/roof.png",
@@ -58,7 +58,17 @@
         "height": 1440
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Yatch",
@@ -71,7 +81,7 @@
     },
     "views": [
       {
-        "id": "0549f84a-2b6a-4eb5-8bc6-631fa8e315cd",
+        "id": "af1e831b-99c8-47f4-86ef-7bcc8f0e0be0",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/basement.jpg",
@@ -83,7 +93,7 @@
         "height": 900
       },
       {
-        "id": "7db27f7d-91a8-4f35-bc6e-348089c83521",
+        "id": "ceca5e0e-34ed-42f7-93a5-f1f5a87c1f54",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/ground.jpg",
@@ -95,7 +105,7 @@
         "height": 900
       },
       {
-        "id": "2cf2e59e-d96f-46dc-9d3c-0317bcda5620",
+        "id": "cd287a94-a59b-43e5-b520-684108f8af6d",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/floor2.jpg",
@@ -107,7 +117,7 @@
         "height": 900
       },
       {
-        "id": "caa9ece7-1455-4f5c-872f-43716a4797f5",
+        "id": "4dfa547b-a4f4-4f0b-9ee1-c8e04614d400",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/floor3.jpg",
@@ -119,7 +129,7 @@
         "height": 900
       },
       {
-        "id": "5e84fd15-a9c1-45fc-985e-30148a36322b",
+        "id": "faaaf2db-fe2e-4856-90c5-818454bf2282",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/yatch/roof.jpg",
@@ -131,7 +141,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Border",
@@ -144,7 +164,7 @@
     },
     "views": [
       {
-        "id": "a5d332e7-4e1f-4d10-a0b2-3e3e16fe9a53",
+        "id": "770c2fb6-867c-4817-a095-783961e27bf2",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/border/ground.jpg",
@@ -156,7 +176,7 @@
         "height": 900
       },
       {
-        "id": "c0bdb31c-392f-478f-9f4f-c32b8b81fc04",
+        "id": "16f642e4-fdc6-4b74-a9de-3d6b15a9d3cc",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/border/floor2.jpg",
@@ -168,7 +188,7 @@
         "height": 900
       },
       {
-        "id": "899036c8-320d-4099-b8bb-96b04d0f2da0",
+        "id": "e25ecb94-3903-42eb-abb7-ebc9c3838409",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/border/roof.jpg",
@@ -180,7 +200,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Chalet",
@@ -193,7 +223,7 @@
     },
     "views": [
       {
-        "id": "4b173ce4-3600-4b9a-a689-73229f576cfd",
+        "id": "879f2212-d82c-4476-8299-d9cea2ce0887",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/basement.jpg",
@@ -205,7 +235,7 @@
         "height": 900
       },
       {
-        "id": "f91eb6a8-20e9-466d-a853-39d21d21dc29",
+        "id": "c4399727-3872-45e1-9d8f-0ffe755568f1",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/ground.jpg",
@@ -217,7 +247,7 @@
         "height": 900
       },
       {
-        "id": "528da711-9627-4d4e-ac2e-71d427529b93",
+        "id": "98def78c-f3fc-48e8-bd19-6ef72a803f81",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/floor2.jpg",
@@ -229,7 +259,7 @@
         "height": 900
       },
       {
-        "id": "60fa0af3-79d8-45a1-a6c8-b9ad98388527",
+        "id": "9ea970e3-a57e-4216-8f88-502e1237237f",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/chalet/roof.jpg",
@@ -241,7 +271,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Clubhouse",
@@ -254,7 +294,7 @@
     },
     "views": [
       {
-        "id": "6b6e5f65-27fe-405c-a4cb-d178ee0c2bca",
+        "id": "996d46fd-7a7f-4cce-b0b7-4def0130e5ad",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/basement.png",
@@ -266,7 +306,7 @@
         "height": 1440
       },
       {
-        "id": "4b362ca6-49d2-49a4-bceb-94535fa021cc",
+        "id": "2d78d52e-9376-4d65-b11b-8b79fb9bd384",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/ground.png",
@@ -278,7 +318,7 @@
         "height": 1440
       },
       {
-        "id": "6abb7669-3d32-44f8-ad6f-f69ef37d4abd",
+        "id": "6105e1ac-199a-43eb-8306-3d62f82f0a1c",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/floor2.png",
@@ -290,7 +330,7 @@
         "height": 1440
       },
       {
-        "id": "32f7b4ff-156a-41d1-b02c-f222ac024356",
+        "id": "d5d031a8-c629-46bc-a7b8-7ac2021fd8ea",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/clubhouse/roof.png",
@@ -302,7 +342,17 @@
         "height": 1440
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Coastline",
@@ -315,7 +365,7 @@
     },
     "views": [
       {
-        "id": "691d092b-71f6-49b9-a6dc-30d684bc5149",
+        "id": "221404c6-9404-4fcc-821f-76cf7cbb8471",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/coastline/floor1.jpg",
@@ -327,7 +377,7 @@
         "height": 1440
       },
       {
-        "id": "e8be678d-f655-4891-b4a7-8d8036048f28",
+        "id": "41ae7bc2-66e5-40d3-a9a6-3dbfb76f01cc",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/coastline/floor2.jpg",
@@ -339,7 +389,7 @@
         "height": 1440
       },
       {
-        "id": "1d63cc5b-8cff-4a56-9b05-fb2232587159",
+        "id": "9fb1cd81-4320-43b6-840e-c1811bdc46f0",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/coastline/roof.jpg",
@@ -351,7 +401,17 @@
         "height": 1440
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Consulate",
@@ -364,7 +424,7 @@
     },
     "views": [
       {
-        "id": "a8ac6f72-71b6-4cb7-9f1e-8bd78253d5e2",
+        "id": "7d0ad5b4-21c2-4137-85b8-cf0441c42771",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/basement.jpg",
@@ -376,7 +436,7 @@
         "height": 900
       },
       {
-        "id": "4b9b03ab-65d8-4bc0-a1fd-c82a3c7d1fe2",
+        "id": "23bf1950-e197-43d5-ab39-a7c7b4cbbbb5",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/ground.jpg",
@@ -388,7 +448,7 @@
         "height": 900
       },
       {
-        "id": "9e1ea8d2-eddf-4956-a655-a98fca0a584f",
+        "id": "011411ab-4461-48a2-8477-7c1b0e93bad7",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/floor2.jpg",
@@ -400,7 +460,7 @@
         "height": 900
       },
       {
-        "id": "667e72b2-2053-4316-bb3f-3b2f99a36440",
+        "id": "a7b0c49a-3fb1-42fa-8cdc-04c52465210a",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/consulate/roof.jpg",
@@ -412,7 +472,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Favela",
@@ -425,7 +495,7 @@
     },
     "views": [
       {
-        "id": "b0b4d026-f339-43b0-b44f-84f5d50f3863",
+        "id": "b5e9c32c-0e43-4288-99bc-60a97f4bdece",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/basement.jpg",
@@ -437,7 +507,7 @@
         "height": 900
       },
       {
-        "id": "71bd2030-700b-4c63-9746-343506a575fb",
+        "id": "2e15dd6c-9246-4532-a445-6befdd7005e0",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/ground.jpg",
@@ -449,7 +519,7 @@
         "height": 900
       },
       {
-        "id": "95df2a11-d44f-4eaf-80b5-1223ce71b112",
+        "id": "0c42e616-898a-4b89-83b2-13878a226ea6",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/floor2.jpg",
@@ -461,7 +531,7 @@
         "height": 900
       },
       {
-        "id": "0544935e-7f4c-4217-b975-fe8f47908cf6",
+        "id": "d68a33f0-0195-44a6-bb6e-8eb39ba9ef37",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/floor3.jpg",
@@ -473,7 +543,7 @@
         "height": 900
       },
       {
-        "id": "b02dff25-9e3f-4844-8050-d9fe3fe80c1a",
+        "id": "14e48680-9f07-4c55-92d6-6e277f74d930",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/favela/roof.jpg",
@@ -485,7 +555,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Fortress",
@@ -498,7 +578,7 @@
     },
     "views": [
       {
-        "id": "1e6da2ee-851e-44ae-b383-9203c80af238",
+        "id": "3413c4b3-7261-4a4b-9725-5a178f652840",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/fortress/floor1.jpg",
@@ -510,7 +590,7 @@
         "height": 900
       },
       {
-        "id": "bae8f2f0-adb2-4bd4-9655-93a500f6206e",
+        "id": "84e3d62d-3c3b-4a30-943e-e9511a1c41ae",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/fortress/floor2.jpg",
@@ -522,7 +602,7 @@
         "height": 900
       },
       {
-        "id": "bfbdf5b2-bd02-4937-ba01-4d027f76c95d",
+        "id": "42b31247-a305-494b-8d64-31c8e8bab056",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/fortress/roof.jpg",
@@ -534,7 +614,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Hereford base",
@@ -547,7 +637,7 @@
     },
     "views": [
       {
-        "id": "b7d2d222-9200-424c-b8ce-ad1546a9a17c",
+        "id": "b4d8af91-dd9b-4d3e-835f-822831f050fd",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/basement.jpg",
@@ -559,7 +649,7 @@
         "height": 900
       },
       {
-        "id": "a69b4885-9555-4fa2-ab4d-31ca123846eb",
+        "id": "fb0f590a-ae1b-4acd-b137-075718b3c818",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/ground.jpg",
@@ -571,7 +661,7 @@
         "height": 900
       },
       {
-        "id": "280abecf-e5e4-46be-9a1a-245e16146cb2",
+        "id": "57f4011a-bd10-4005-8f4a-94e044ac44b3",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/floor2.jpg",
@@ -583,7 +673,7 @@
         "height": 900
       },
       {
-        "id": "5117e8eb-150d-4427-8314-25e0762d57d2",
+        "id": "73ddc6f7-ea97-456f-a99e-1e7d9cf800c2",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/floor3.jpg",
@@ -595,7 +685,7 @@
         "height": 900
       },
       {
-        "id": "98141f95-1812-473b-bfa4-ab0a268beb7a",
+        "id": "1ddd4024-c222-49bf-8cfb-ff6dc42b3afc",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/herefordbase/roof.jpg",
@@ -607,7 +697,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "House",
@@ -620,7 +720,7 @@
     },
     "views": [
       {
-        "id": "5f6b76e0-6fac-4a77-9cbf-e067db275197",
+        "id": "f8c139e8-c32e-4eb8-99b0-bcc2066c33f1",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/basement.jpg",
@@ -632,7 +732,7 @@
         "height": 900
       },
       {
-        "id": "f69f6a0e-273d-4a25-a418-eae3948ab401",
+        "id": "e5ad842f-182b-40c1-8df3-e1654e4c67b4",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/ground.jpg",
@@ -644,7 +744,7 @@
         "height": 900
       },
       {
-        "id": "ce0d6d2c-5bb2-41a8-ab01-4da36113d507",
+        "id": "92517017-c376-433c-88a5-a8e169c19e82",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/floor2.jpg",
@@ -656,7 +756,7 @@
         "height": 900
       },
       {
-        "id": "d2eff9de-70f4-4f84-849a-ff57237235ef",
+        "id": "bcf34916-e89d-4d71-83d7-f589c00b0e86",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/house/roof.jpg",
@@ -668,7 +768,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Kafe Dostoyevsky",
@@ -681,7 +791,7 @@
     },
     "views": [
       {
-        "id": "d49ecd28-7d8e-4267-91f7-d2a8c559c799",
+        "id": "d55b2ef4-ea26-45eb-a2cb-6b5ecac03d16",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/basement.jpg",
@@ -693,7 +803,7 @@
         "height": 900
       },
       {
-        "id": "21323be7-7606-48f2-b80a-faffab26edb9",
+        "id": "bb3678cf-7134-43ac-a911-00d0908a1f54",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/ground.jpg",
@@ -705,7 +815,7 @@
         "height": 900
       },
       {
-        "id": "ba956d24-4159-49af-994e-b720cadc2dad",
+        "id": "9f145bdc-c5a4-48dd-bec6-7b53c1aef24a",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/floor2.jpg",
@@ -717,7 +827,7 @@
         "height": 900
       },
       {
-        "id": "06fc8242-efce-488b-be69-cc7ce5de7342",
+        "id": "f84a573d-a9eb-46da-a35d-cee912334221",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kafedostoyevsky/roof.jpg",
@@ -729,7 +839,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Kanal",
@@ -742,7 +862,7 @@
     },
     "views": [
       {
-        "id": "611ee17c-dfa5-48ad-b354-668fa6247608",
+        "id": "12df6e50-2688-4099-9359-c5ece48aa300",
         "name": "Groundfloor",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/groundfloor.jpg",
@@ -754,7 +874,7 @@
         "height": 900
       },
       {
-        "id": "aeef2afa-9254-4c03-ba83-85f86163a7a2",
+        "id": "59a50b31-c5ac-412e-9a37-52c6a9b4d95c",
         "name": "Groundfloor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/groundfloor2.jpg",
@@ -766,7 +886,7 @@
         "height": 900
       },
       {
-        "id": "83e7d857-c2c0-4edf-a2c6-843792e2832b",
+        "id": "dda6d2eb-99c2-472d-8987-508c677f3061",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/floor1.jpg",
@@ -778,7 +898,7 @@
         "height": 900
       },
       {
-        "id": "41cf5873-37db-4850-bbe3-b038fc2320fe",
+        "id": "5ce0b4b1-e058-49a0-b368-c965b633a302",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/floor2.jpg",
@@ -790,7 +910,7 @@
         "height": 900
       },
       {
-        "id": "835482f9-9c6e-46a1-a7b1-72542838749f",
+        "id": "dec60d4f-4fe4-4e2f-9945-7c173ed175bd",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/kanal/roof.jpg",
@@ -802,7 +922,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Oregon",
@@ -815,7 +945,7 @@
     },
     "views": [
       {
-        "id": "5ef2687c-0963-40f0-ad44-9ae7a1e9914a",
+        "id": "40a018d5-1164-4bfb-9ac9-d8e97f07e464",
         "name": "Ground",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/ground.jpg",
@@ -827,7 +957,7 @@
         "height": 900
       },
       {
-        "id": "fe858ca8-2891-4298-bb0e-b71f5ad65dd2",
+        "id": "7d3e89a5-51b8-49be-acfd-5593cbb2df39",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/floor2.jpg",
@@ -839,7 +969,7 @@
         "height": 900
       },
       {
-        "id": "13eb2467-7a87-42ff-b263-176dcc2fbe82",
+        "id": "58fa3f8a-ea10-4910-b58a-de25d54793c9",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/floor3.jpg",
@@ -851,7 +981,7 @@
         "height": 900
       },
       {
-        "id": "8a045091-590d-41af-9f91-1e75d1d9d682",
+        "id": "47c6f2b4-fb8a-4525-9579-888ca953d7c7",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/basement.jpg",
@@ -863,7 +993,7 @@
         "height": 900
       },
       {
-        "id": "2760e94f-a24d-43de-a288-c5cfb496db4a",
+        "id": "3f496b15-b54f-4c94-8f35-61ceb6fafa64",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/oregon/roof.jpg",
@@ -875,7 +1005,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Outback",
@@ -888,7 +1028,7 @@
     },
     "views": [
       {
-        "id": "b11c8570-d9b3-435b-95d9-cd074b18c6e4",
+        "id": "0fd8f2fc-420d-4ee2-99a3-5050770e262f",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/outback/floor1.jpg",
@@ -900,7 +1040,7 @@
         "height": 900
       },
       {
-        "id": "3b1a6930-b090-46f1-b9af-83c173d69179",
+        "id": "ec1cd3b2-2caa-4a04-b3de-359bce45b986",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/outback/floor2.jpg",
@@ -912,7 +1052,7 @@
         "height": 900
       },
       {
-        "id": "9cf13f98-ad53-4530-9f42-5e7899c12c2d",
+        "id": "879d2b3d-7f90-4a21-9146-88b4ba4eac6f",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/outback/roof.jpg",
@@ -924,7 +1064,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Presidential Plane",
@@ -937,7 +1087,7 @@
     },
     "views": [
       {
-        "id": "5fd0f35d-db3d-432b-b4cb-c4c9c69475e2",
+        "id": "edf0d28d-f586-4724-9c63-a133a571a8b6",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor1.jpg",
@@ -949,7 +1099,7 @@
         "height": 900
       },
       {
-        "id": "63f3f1d2-4451-41c7-a4a5-699d00ed522e",
+        "id": "733b7358-363b-4f4d-bf8b-9b0bbd5d9295",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor2.jpg",
@@ -961,7 +1111,7 @@
         "height": 900
       },
       {
-        "id": "dc6167fe-fb30-4910-be6a-da8dee2f9bba",
+        "id": "a9bf25c1-4656-4fe9-8642-ba981cc3aedc",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/floor3.jpg",
@@ -973,7 +1123,7 @@
         "height": 900
       },
       {
-        "id": "af954852-a0a9-49ab-9b76-0f64e98773a9",
+        "id": "6cdaf4f6-9cf0-4182-a91b-366ce6b30f89",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/presidentialplane/roof.jpg",
@@ -985,7 +1135,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Skyscraper",
@@ -998,7 +1158,7 @@
     },
     "views": [
       {
-        "id": "8e3e2c25-9731-4fd4-b163-cc2df5a2f6b9",
+        "id": "7c52eec3-31e4-4411-8e49-1359dbef98e5",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/skyscraper/floor1.jpg",
@@ -1010,7 +1170,7 @@
         "height": 900
       },
       {
-        "id": "54da3f8e-2d72-446f-8207-334a017f04f6",
+        "id": "2b81399c-6ba9-42a4-b41d-92f73df43495",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/skyscraper/floor2.jpg",
@@ -1022,7 +1182,7 @@
         "height": 900
       },
       {
-        "id": "003bc6a8-2c89-4c78-9a41-eaf3eb33bb48",
+        "id": "2ac1d50f-314d-40b4-aed2-35346f290816",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/skyscraper/roof.jpg",
@@ -1034,7 +1194,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Theme Park",
@@ -1047,7 +1217,7 @@
     },
     "views": [
       {
-        "id": "0efcd41f-cc8c-4979-9384-45d816c5b01b",
+        "id": "e3740834-79d9-459f-9866-bb979707b92b",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/themepark/floor1.jpg",
@@ -1059,7 +1229,7 @@
         "height": 900
       },
       {
-        "id": "cc463677-e612-470b-b8b0-65286ce52a75",
+        "id": "9fdd984c-6d65-4780-a55c-ee26445f56e1",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/themepark/floor2.jpg",
@@ -1071,7 +1241,7 @@
         "height": 900
       },
       {
-        "id": "a0afd71c-dd36-4405-b431-7d3e8aee4b54",
+        "id": "04be1a1b-e003-4b35-92ca-ba8756cd6de9",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/themepark/roof.jpg",
@@ -1083,7 +1253,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Tower",
@@ -1096,7 +1276,7 @@
     },
     "views": [
       {
-        "id": "d27951ce-6cfa-4699-9dcd-228520cee9ae",
+        "id": "1d26e2c8-14fe-496f-997b-f3509ed891e6",
         "name": "Floor 1",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/tower/floor1.jpg",
@@ -1108,7 +1288,7 @@
         "height": 900
       },
       {
-        "id": "7d95cb94-fb23-4a33-8f7e-4527b4cad8dc",
+        "id": "68197e64-f6fe-46b1-b28a-19e5633e9334",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/tower/floor2.jpg",
@@ -1120,7 +1300,7 @@
         "height": 900
       },
       {
-        "id": "daf46780-380b-4d6f-82b2-817edefee969",
+        "id": "641fc966-b74b-4323-8ddd-a5dcd3a4d6e5",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/tower/roof.jpg",
@@ -1132,7 +1312,17 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   },
   {
     "name": "Villa",
@@ -1145,7 +1335,7 @@
     },
     "views": [
       {
-        "id": "a52aae3f-a742-4120-af96-92cc1b1a4051",
+        "id": "5908f190-e3a4-4ec3-a30b-591a3f236e57",
         "name": "Basement",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/basement.jpg",
@@ -1157,7 +1347,7 @@
         "height": 900
       },
       {
-        "id": "05af94fe-8eca-4ddc-84c7-d548b808f91e",
+        "id": "9ea851bc-3af5-4e5d-be8f-d81a6f13aaba",
         "name": "Floor 2",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/floor2.jpg",
@@ -1169,7 +1359,7 @@
         "height": 900
       },
       {
-        "id": "a7b917cb-38b4-4839-b1c5-2ef831ec2695",
+        "id": "c5ef231b-233b-4954-b992-9514db48754e",
         "name": "Floor 3",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/floor3.jpg",
@@ -1181,7 +1371,7 @@
         "height": 900
       },
       {
-        "id": "8d8015a8-897f-4613-9a79-cd878fb03331",
+        "id": "2cce160a-d246-4f2b-bd65-012ceae8a9b9",
         "name": "Roof",
         "image": {
           "src": "https://static.gametactic.eu/r6/maps/villa/roof.jpg",
@@ -1193,6 +1383,16 @@
         "height": 900
       }
     ],
-    "game": "r6"
+    "game": "r6",
+    "teamConstructors": [
+      {
+        "name": "Attackers",
+        "color": 12615425
+      },
+      {
+        "name": "Defenders",
+        "color": 955384
+      }
+    ]
   }
 ]

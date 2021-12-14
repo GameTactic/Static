@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "0ca53712-e27d-4a7c-8ce0-dd50fee6d4f4",
+        "id": "9a472207-c2d6-47e9-8aed-7df1d2a66d0a",
         "name": "Agency",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/agency/agency.jpg",
@@ -22,7 +22,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Ancient",
@@ -35,7 +45,7 @@
     },
     "views": [
       {
-        "id": "254dc5f5-710f-4389-915a-67db0ed3fdc2",
+        "id": "98ffc09e-d40b-437b-b3e6-6d14307c77d0",
         "name": "Ancient",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/ancient/ancient.png",
@@ -47,7 +57,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Assault",
@@ -60,7 +80,7 @@
     },
     "views": [
       {
-        "id": "60ac7567-3dbb-43f3-8b1c-973f34f0c6a1",
+        "id": "93d0d9c1-a3cb-4db1-aa5d-a547474792ea",
         "name": "Assault",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/assault/assault.png",
@@ -72,7 +92,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Cache",
@@ -85,7 +115,7 @@
     },
     "views": [
       {
-        "id": "fca899fd-5293-462b-b017-4bbe545aab61",
+        "id": "5cff247d-6d6e-4df2-8d3e-f88a97675e19",
         "name": "Cache",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/cache/cache.jpg",
@@ -97,7 +127,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Dust II",
@@ -110,7 +150,7 @@
     },
     "views": [
       {
-        "id": "e38c3d9c-f25e-4246-aaa1-2ff11d44fe2f",
+        "id": "80462109-e123-4917-b04b-639fbb0dabe9",
         "name": "Dust II",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/dustii/dustii.jpg",
@@ -122,7 +162,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Inferno",
@@ -135,7 +185,7 @@
     },
     "views": [
       {
-        "id": "1184cca7-6ebe-4017-86ed-990f2b7a4505",
+        "id": "649da598-7b3e-4895-a117-0432fd60c7c4",
         "name": "Inferno",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/inferno/inferno.jpg",
@@ -147,7 +197,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Italy",
@@ -160,7 +220,7 @@
     },
     "views": [
       {
-        "id": "449d4185-be0c-43c7-9cd6-1004ada00dff",
+        "id": "49813dc5-7312-4a9f-af92-b38114643d46",
         "name": "Italy",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/italy/italy.png",
@@ -172,7 +232,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Militia",
@@ -185,7 +255,7 @@
     },
     "views": [
       {
-        "id": "fbaf56d7-7d21-408e-bac8-e650730302e7",
+        "id": "399512ba-b090-46a7-8aa5-24b0a0651eb9",
         "name": "Upper Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/militia/upperlevel.png",
@@ -197,7 +267,7 @@
         "height": 1024
       },
       {
-        "id": "a4c98159-76bf-4324-96aa-1327739783fa",
+        "id": "a5151c58-dcbc-4b51-b1d3-916b2b1da0f9",
         "name": "Lower Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/militia/lowerlevel.png",
@@ -209,7 +279,17 @@
         "height": 350
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Mirage",
@@ -222,7 +302,7 @@
     },
     "views": [
       {
-        "id": "3bebecb0-89a8-410f-85fa-b1f215b81734",
+        "id": "430dbcd4-1dcb-4a71-aaa1-977d2d1acc8e",
         "name": "Mirage",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/mirage/mirage.jpg",
@@ -234,7 +314,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Nuke",
@@ -247,7 +337,7 @@
     },
     "views": [
       {
-        "id": "dde27ae5-7405-47e9-a028-3b0c84ae0811",
+        "id": "1afaf8e1-12d5-4ff5-ae28-b3f4dc024c68",
         "name": "Upper Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/nuke/upperlevel.jpg",
@@ -259,7 +349,7 @@
         "height": 1024
       },
       {
-        "id": "d0047543-3a51-4b10-a9c2-3e1d8c74c432",
+        "id": "39e61a19-0f59-4660-aae7-3f1b41d786a5",
         "name": "Lower Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/nuke/lowerlevel.jpg",
@@ -271,7 +361,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Office",
@@ -284,7 +384,7 @@
     },
     "views": [
       {
-        "id": "32f7ef68-54ad-4b38-b3c1-3599f5619e60",
+        "id": "695335c5-4703-4c76-b348-c520496fb50f",
         "name": "Office",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/office/office.jpg",
@@ -296,7 +396,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Overpass",
@@ -309,7 +419,7 @@
     },
     "views": [
       {
-        "id": "f533304b-1a5f-4d29-a4b5-c678c3daf228",
+        "id": "93d80e13-90db-4baa-96d2-8c00abde185f",
         "name": "Overpass",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/overpass/overpass.jpg",
@@ -321,7 +431,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Train",
@@ -334,7 +454,7 @@
     },
     "views": [
       {
-        "id": "b0513f6c-36f1-4ff7-afed-b185ea252fa9",
+        "id": "02a59f98-85fb-4472-a222-3897b574ed3f",
         "name": "Train",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/train/train.jpg",
@@ -346,7 +466,17 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   },
   {
     "name": "Vertigo",
@@ -359,7 +489,7 @@
     },
     "views": [
       {
-        "id": "3a25c773-b27d-48ba-8df8-b56b52a29e87",
+        "id": "d3a63c90-5ef0-4aa6-b988-26fcb95b55ce",
         "name": "Upper Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/vertigo/upperlevel.jpg",
@@ -371,7 +501,7 @@
         "height": 1024
       },
       {
-        "id": "c6e57359-cccc-4621-b6b4-06d44992c33a",
+        "id": "f88b8ea0-1fb4-4882-9473-efb6bacbbf18",
         "name": "Lower Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/vertigo/lowerlevel.jpg",
@@ -383,6 +513,16 @@
         "height": 1024
       }
     ],
-    "game": "csgo"
+    "game": "csgo",
+    "teamConstructors": [
+      {
+        "name": "Terrorists",
+        "color": 12686609
+      },
+      {
+        "name": "Counter-Terrorists",
+        "color": 5736616
+      }
+    ]
   }
 ]

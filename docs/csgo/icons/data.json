@@ -76,7 +76,17 @@
     },
     "temporary": false,
     "type": "ICON",
-    "plugins": [],
+    "plugins": [
+      {
+        "name": "range",
+        "radius": 260,
+        "borderFill": 0,
+        "borderOpacity": 0,
+        "fill": 6974058,
+        "fillOpacity": 1,
+        "enabled": true
+      }
+    ],
     "caption": "Smoke",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/smoke/picture.png",
@@ -168,7 +178,17 @@
     },
     "temporary": false,
     "type": "ICON",
-    "plugins": [],
+    "plugins": [
+      {
+        "name": "range",
+        "radius": 260,
+        "borderFill": 0,
+        "borderOpacity": 0,
+        "fill": 12542475,
+        "fillOpacity": 0.5,
+        "enabled": true
+      }
+    ],
     "caption": "Molotov",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/molotov/picture.png",
@@ -228,7 +248,17 @@
     },
     "temporary": false,
     "type": "ICON",
-    "plugins": [],
+    "plugins": [
+      {
+        "name": "range",
+        "radius": 260,
+        "borderFill": 0,
+        "borderOpacity": 0,
+        "fill": 12542475,
+        "fillOpacity": 0.5,
+        "enabled": true
+      }
+    ],
     "caption": "Incendiary",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/incendiary/picture.png",

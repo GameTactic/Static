@@ -40,8 +40,14 @@
           "Bomb Defuse",
           "Hostage Rescue"
         ],
-        "entity": [],
-        "icon": []
+        "entity": [
+          "Terrorist",
+          "Counter-Terrorist"
+        ],
+        "icon": [
+          "Terrorist",
+          "Counter-Terrorist"
+        ]
       }
     },
     "disabled": false

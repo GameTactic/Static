@@ -1,1 +1,246 @@
-[]
+[
+  {
+    "label": "HE Grenade",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/hegrenade/icon.png",
+      "width": 49,
+      "height": 65,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "HE Grenade",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/hegrenade/picture.png",
+      "width": 49,
+      "height": 65,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist",
+      "Terrorist"
+    ],
+    "width": 36.184615384615384,
+    "height": 48
+  },
+  {
+    "label": "Flash",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/flash/icon.png",
+      "width": 55,
+      "height": 65,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Flash",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/flash/picture.png",
+      "width": 55,
+      "height": 65,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist",
+      "Terrorist"
+    ],
+    "width": 40.61538461538461,
+    "height": 48
+  },
+  {
+    "label": "Smoke",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/smoke/icon.png",
+      "width": 30,
+      "height": 65,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Smoke",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/smoke/picture.png",
+      "width": 30,
+      "height": 65,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist",
+      "Terrorist"
+    ],
+    "width": 22.153846153846153,
+    "height": 48
+  },
+  {
+    "label": "Decoy",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/decoy/icon.png",
+      "width": 56,
+      "height": 65,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Decoy",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/decoy/picture.png",
+      "width": 56,
+      "height": 65,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist",
+      "Terrorist"
+    ],
+    "width": 41.353846153846156,
+    "height": 48
+  },
+  {
+    "label": "C4 Explosive",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/c4explosive/icon.png",
+      "width": 65,
+      "height": 57,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "C4 Explosive",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/c4explosive/picture.png",
+      "width": 65,
+      "height": 57,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist"
+    ],
+    "width": 48,
+    "height": 42.09230769230769
+  },
+  {
+    "label": "Molotov",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/molotov/icon.png",
+      "width": 44,
+      "height": 65,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Molotov",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/molotov/picture.png",
+      "width": 44,
+      "height": 65,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist"
+    ],
+    "width": 32.49230769230769,
+    "height": 48
+  },
+  {
+    "label": "Defuse Kit",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/defusekit/icon.png",
+      "width": 65,
+      "height": 57,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Defuse Kit",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/defusekit/picture.png",
+      "width": 65,
+      "height": 57,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist"
+    ],
+    "width": 48,
+    "height": 42.09230769230769
+  },
+  {
+    "label": "Incendiary",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/icons/incendiary/icon.png",
+      "width": 30,
+      "height": 65,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Incendiary",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/icons/incendiary/picture.png",
+      "width": 30,
+      "height": 65,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist"
+    ],
+    "width": 22.153846153846153,
+    "height": 48
+  }
+]

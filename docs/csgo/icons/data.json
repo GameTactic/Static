@@ -3,7 +3,7 @@
     "label": "HE Grenade",
     "icon": {
       "src": "https://static.gametactic.eu/csgo/icons/hegrenade/icon.png",
-      "width": 49,
+      "width": 50,
       "height": 65,
       "format": "png"
     },
@@ -18,7 +18,7 @@
     "caption": "HE Grenade",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/hegrenade/picture.png",
-      "width": 49,
+      "width": 50,
       "height": 65,
       "format": "png"
     },
@@ -27,14 +27,14 @@
       "Counter-Terrorist",
       "Terrorist"
     ],
-    "width": 36.184615384615384,
+    "width": 36.92307692307693,
     "height": 48
   },
   {
     "label": "Flash",
     "icon": {
       "src": "https://static.gametactic.eu/csgo/icons/flash/icon.png",
-      "width": 55,
+      "width": 56,
       "height": 65,
       "format": "png"
     },
@@ -49,7 +49,7 @@
     "caption": "Flash",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/flash/picture.png",
-      "width": 55,
+      "width": 56,
       "height": 65,
       "format": "png"
     },
@@ -58,7 +58,7 @@
       "Counter-Terrorist",
       "Terrorist"
     ],
-    "width": 40.61538461538461,
+    "width": 41.353846153846156,
     "height": 48
   },
   {
@@ -157,7 +157,7 @@
     "label": "Molotov",
     "icon": {
       "src": "https://static.gametactic.eu/csgo/icons/molotov/icon.png",
-      "width": 44,
+      "width": 45,
       "height": 65,
       "format": "png"
     },
@@ -172,7 +172,7 @@
     "caption": "Molotov",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/molotov/picture.png",
-      "width": 44,
+      "width": 45,
       "height": 65,
       "format": "png"
     },
@@ -180,14 +180,14 @@
     "categories": [
       "Terrorist"
     ],
-    "width": 32.49230769230769,
+    "width": 33.230769230769226,
     "height": 48
   },
   {
     "label": "Defuse Kit",
     "icon": {
       "src": "https://static.gametactic.eu/csgo/icons/defusekit/icon.png",
-      "width": 65,
+      "width": 66,
       "height": 57,
       "format": "png"
     },
@@ -202,7 +202,7 @@
     "caption": "Defuse Kit",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/defusekit/picture.png",
-      "width": 65,
+      "width": 66,
       "height": 57,
       "format": "png"
     },
@@ -211,7 +211,7 @@
       "Counter-Terrorist"
     ],
     "width": 48,
-    "height": 42.09230769230769
+    "height": 41.45454545454545
   },
   {
     "label": "Incendiary",

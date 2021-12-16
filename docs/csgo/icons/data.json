@@ -79,11 +79,11 @@
     "plugins": [
       {
         "name": "range",
-        "radius": 260,
+        "radius": 130,
         "borderFill": 0,
         "borderOpacity": 0,
         "fill": 6974058,
-        "fillOpacity": 1,
+        "fillOpacity": 0.5,
         "enabled": true
       }
     ],
@@ -181,7 +181,7 @@
     "plugins": [
       {
         "name": "range",
-        "radius": 260,
+        "radius": 130,
         "borderFill": 0,
         "borderOpacity": 0,
         "fill": 12542475,
@@ -251,11 +251,11 @@
     "plugins": [
       {
         "name": "range",
-        "radius": 260,
+        "radius": 130,
         "borderFill": 0,
         "borderOpacity": 0,
         "fill": 12542475,
-        "fillOpacity": 0.5,
+        "fillOpacity": 0.4,
         "enabled": true
       }
     ],

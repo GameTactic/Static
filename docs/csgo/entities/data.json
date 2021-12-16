@@ -3,8 +3,8 @@
     "label": "Terrorist",
     "icon": {
       "src": "https://static.gametactic.eu/csgo/entities/terrorist/icon.png",
-      "width": 57,
-      "height": 66,
+      "width": 184,
+      "height": 215,
       "format": "png"
     },
     "permissions": {
@@ -18,23 +18,23 @@
     "caption": "Terrorist",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/entities/terrorist/picture.png",
-      "width": 57,
-      "height": 66,
+      "width": 184,
+      "height": 215,
       "format": "png"
     },
     "isDefault": false,
     "categories": [
       "Terrorist"
     ],
-    "width": 55.27272727272727,
+    "width": 54.77209302325581,
     "height": 64
   },
   {
     "label": "Counter-Terrorist",
     "icon": {
       "src": "https://static.gametactic.eu/csgo/entities/counter-terrorist/icon.png",
-      "width": 57,
-      "height": 66,
+      "width": 184,
+      "height": 215,
       "format": "png"
     },
     "permissions": {
@@ -48,15 +48,15 @@
     "caption": "Counter-Terrorist",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/entities/counter-terrorist/picture.png",
-      "width": 57,
-      "height": 66,
+      "width": 184,
+      "height": 215,
       "format": "png"
     },
     "isDefault": false,
     "categories": [
       "Counter-Terrorist"
     ],
-    "width": 55.27272727272727,
+    "width": 54.77209302325581,
     "height": 64
   }
 ]

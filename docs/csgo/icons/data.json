@@ -79,7 +79,7 @@
     "plugins": [
       {
         "name": "range",
-        "radius": 130,
+        "radius": 260,
         "borderFill": 0,
         "borderOpacity": 0,
         "fill": 6974058,
@@ -181,7 +181,7 @@
     "plugins": [
       {
         "name": "range",
-        "radius": 130,
+        "radius": 260,
         "borderFill": 0,
         "borderOpacity": 0,
         "fill": 12542475,
@@ -251,7 +251,7 @@
     "plugins": [
       {
         "name": "range",
-        "radius": 130,
+        "radius": 260,
         "borderFill": 0,
         "borderOpacity": 0,
         "fill": 12542475,

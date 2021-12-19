@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "label": "Aircraft Carrier",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraftcarrier/icon.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Aircraft Carrier",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraftcarrier/picture.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 100,
+    "height": 100
+  },
+  {
+    "label": "Battleship",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/icon.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Battleship",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/picture.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 100,
+    "height": 100
+  },
+  {
+    "label": "Cruiser",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/icon.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Cruiser",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/picture.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 100,
+    "height": 100
+  },
+  {
+    "label": "Destroyer",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/icon.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Destroyer",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/picture.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 100,
+    "height": 100
+  },
+  {
+    "label": "Submarine",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/submarine/icon.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Submarine",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/submarine/picture.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Submarine"
+    ],
+    "width": 100,
+    "height": 100
+  }
+]

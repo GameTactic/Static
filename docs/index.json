@@ -21,7 +21,18 @@
       "cover": "https://static.gametactic.eu/wows/cover.png",
       "coverSVG": "https://static.gametactic.eu/wows/cover.svg",
       "game": "wows",
-      "name": "World of Warships"
+      "name": "World of Warships",
+      "categories": {
+        "entity": [
+          "Aircraft Carrier",
+          "Battleship",
+          "Cruiser",
+          "Destroyer",
+          "Submarine"
+        ],
+        "map": [],
+        "icon": []
+      }
     },
     "disabled": false
   },

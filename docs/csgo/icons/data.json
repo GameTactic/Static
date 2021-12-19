@@ -28,7 +28,8 @@
       "Terrorist"
     ],
     "width": 48.372093023255815,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Flash",
@@ -59,7 +60,8 @@
       "Terrorist"
     ],
     "width": 55.239543726235745,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Smoke",
@@ -100,7 +102,8 @@
       "Terrorist"
     ],
     "width": 29.767441860465116,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Decoy",
@@ -131,7 +134,8 @@
       "Terrorist"
     ],
     "width": 54.82170542635659,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "C4 Explosive",
@@ -161,7 +165,8 @@
       "Terrorist"
     ],
     "width": 64,
-    "height": 56.15810276679842
+    "height": 56.15810276679842,
+    "useTeamTint": false
   },
   {
     "label": "Molotov",
@@ -201,7 +206,8 @@
       "Terrorist"
     ],
     "width": 43.16279069767442,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Defuse Kit",
@@ -231,7 +237,8 @@
       "Counter-Terrorist"
     ],
     "width": 64,
-    "height": 56.092664092664094
+    "height": 56.092664092664094,
+    "useTeamTint": false
   },
   {
     "label": "Incendiary",
@@ -271,6 +278,7 @@
       "Counter-Terrorist"
     ],
     "width": 29.652509652509654,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   }
 ]

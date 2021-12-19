@@ -28,7 +28,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Green Recruit",
@@ -59,7 +60,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Orange Recruit",
@@ -90,7 +92,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Red Recruit",
@@ -121,7 +124,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Yellow Recruit",
@@ -152,7 +156,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Ash",
@@ -182,7 +187,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Bandit",
@@ -212,7 +218,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Blitz",
@@ -242,7 +249,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Castle",
@@ -272,7 +280,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Doc",
@@ -302,7 +311,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Fuze",
@@ -332,7 +342,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Glaz",
@@ -362,7 +373,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Iq",
@@ -392,7 +404,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Jager",
@@ -422,7 +435,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Kapkan",
@@ -452,7 +466,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Montagne",
@@ -482,7 +497,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Mute",
@@ -512,7 +528,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Pulse",
@@ -542,7 +559,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Rook",
@@ -572,7 +590,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Sledge",
@@ -602,7 +621,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Smoke",
@@ -632,7 +652,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Tachanka",
@@ -662,7 +683,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Thatcher",
@@ -692,7 +714,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Thermite",
@@ -722,7 +745,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Twitch",
@@ -752,7 +776,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Blackbeard",
@@ -782,7 +807,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Buck",
@@ -812,7 +838,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Capitao",
@@ -842,7 +869,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Caveria",
@@ -872,7 +900,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Echo",
@@ -902,7 +931,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Frost",
@@ -932,7 +962,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Hibana",
@@ -962,7 +993,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Valkyrie",
@@ -992,7 +1024,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Dokkkaebi",
@@ -1022,7 +1055,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Ela",
@@ -1052,7 +1086,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Jackal",
@@ -1082,7 +1117,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Lesion",
@@ -1112,7 +1148,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Mira",
@@ -1142,7 +1179,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Vigil",
@@ -1172,7 +1210,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Ying",
@@ -1202,7 +1241,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Zofia",
@@ -1232,7 +1272,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Alibi",
@@ -1262,7 +1303,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Clash",
@@ -1292,7 +1334,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Finka",
@@ -1322,7 +1365,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Kaid",
@@ -1352,7 +1396,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Lion",
@@ -1382,7 +1427,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Maestro",
@@ -1412,7 +1458,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Maverick",
@@ -1442,7 +1489,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Nomad",
@@ -1472,7 +1520,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Amaru",
@@ -1502,7 +1551,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Goyo",
@@ -1532,7 +1582,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Gridlock",
@@ -1562,7 +1613,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Kali",
@@ -1592,7 +1644,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Mozzie",
@@ -1622,7 +1675,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Nokk",
@@ -1652,7 +1706,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Wamai",
@@ -1682,7 +1737,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Warden",
@@ -1712,7 +1768,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Ace",
@@ -1742,7 +1799,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Aruni",
@@ -1772,7 +1830,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Iana",
@@ -1802,7 +1861,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Melusi",
@@ -1832,7 +1892,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Oryx",
@@ -1862,7 +1923,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Zero",
@@ -1892,7 +1954,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Thunderbird",
@@ -1922,7 +1985,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Flores",
@@ -1952,7 +2016,8 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 64
+    "height": 64,
+    "useTeamTint": false
   },
   {
     "label": "Thorn",
@@ -1982,7 +2047,8 @@
       "Defender"
     ],
     "width": 64,
-    "height": 63.681592039801
+    "height": 63.681592039801,
+    "useTeamTint": false
   },
   {
     "label": "Osa",
@@ -2012,6 +2078,7 @@
       "Attacker"
     ],
     "width": 64,
-    "height": 63.681592039801
+    "height": 63.681592039801,
+    "useTeamTint": false
   }
 ]

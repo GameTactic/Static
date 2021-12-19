@@ -27,7 +27,8 @@
       "Attacker"
     ],
     "width": 31.026615969581748,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Claymore",
@@ -57,7 +58,8 @@
       "Attacker"
     ],
     "width": 48,
-    "height": 45.82641509433962
+    "height": 45.82641509433962,
+    "useTeamTint": false
   },
   {
     "label": "Flash",
@@ -87,7 +89,8 @@
       "Attacker"
     ],
     "width": 26.28975265017668,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Frag",
@@ -117,7 +120,8 @@
       "Attacker"
     ],
     "width": 40.77669902912621,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Smoke",
@@ -147,7 +151,8 @@
       "Attacker"
     ],
     "width": 26.765799256505577,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Barbed Wire",
@@ -177,7 +182,8 @@
       "Defender"
     ],
     "width": 48,
-    "height": 42.99130434782609
+    "height": 42.99130434782609,
+    "useTeamTint": false
   },
   {
     "label": "Bulletproof Camera",
@@ -207,7 +213,8 @@
       "Defender"
     ],
     "width": 48,
-    "height": 32.70796460176991
+    "height": 32.70796460176991,
+    "useTeamTint": false
   },
   {
     "label": "Deployable Shield",
@@ -237,7 +244,8 @@
       "Defender"
     ],
     "width": 42.44776119402985,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Impact",
@@ -267,7 +275,8 @@
       "Defender"
     ],
     "width": 48,
-    "height": 45.084112149532714
+    "height": 45.084112149532714,
+    "useTeamTint": false
   },
   {
     "label": "Nitro",
@@ -297,7 +306,8 @@
       "Defender"
     ],
     "width": 22.285714285714285,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Proximity Alarm",
@@ -327,7 +337,8 @@
       "Defender"
     ],
     "width": 48,
-    "height": 43.06719367588933
+    "height": 43.06719367588933,
+    "useTeamTint": false
   },
   {
     "label": "Concussion",
@@ -357,7 +368,8 @@
       "Attacker"
     ],
     "width": 38.22857142857143,
-    "height": 48
+    "height": 48,
+    "useTeamTint": false
   },
   {
     "label": "Hard Breach",
@@ -387,6 +399,7 @@
       "Attacker"
     ],
     "width": 48,
-    "height": 44.043010752688176
+    "height": 44.043010752688176,
+    "useTeamTint": false
   }
 ]

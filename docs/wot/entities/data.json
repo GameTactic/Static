@@ -26,8 +26,8 @@
     "categories": [
       "Heavy Tank"
     ],
-    "width": 41.58878504672897,
-    "height": 50,
+    "width": 49.90654205607476,
+    "height": 60,
     "useTeamTint": true
   },
   {
@@ -57,8 +57,8 @@
     "categories": [
       "Medium Tank"
     ],
-    "width": 45.625,
-    "height": 50,
+    "width": 41.0625,
+    "height": 45,
     "useTeamTint": true
   },
   {
@@ -88,8 +88,8 @@
     "categories": [
       "Light Tank"
     ],
-    "width": 40.54054054054054,
-    "height": 50,
+    "width": 32.432432432432435,
+    "height": 40,
     "useTeamTint": true
   },
   {
@@ -119,8 +119,8 @@
     "categories": [
       "Self-propelled Gun"
     ],
-    "width": 49.122807017543856,
-    "height": 50,
+    "width": 29.473684210526315,
+    "height": 30,
     "useTeamTint": true
   },
   {
@@ -150,8 +150,8 @@
     "categories": [
       "Tank Destroyer"
     ],
-    "width": 50,
-    "height": 48.57142857142857,
+    "width": 37.5,
+    "height": 36.42857142857143,
     "useTeamTint": true
   }
 ]

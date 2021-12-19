@@ -1,1 +1,157 @@
-[]
+[
+  {
+    "label": "Heavy Tank",
+    "icon": {
+      "src": "https://static.gametactic.eu/wot/entities/heavytank/icon.png",
+      "width": 89,
+      "height": 107,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Heavy Tank",
+    "picture": {
+      "src": "https://static.gametactic.eu/wot/entities/heavytank/picture.png",
+      "width": 96,
+      "height": 107,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Heavy Tank"
+    ],
+    "width": 41.58878504672897,
+    "height": 50,
+    "useTeamTint": true
+  },
+  {
+    "label": "Medium Tank",
+    "icon": {
+      "src": "https://static.gametactic.eu/wot/entities/mediumtank/icon.png",
+      "width": 73,
+      "height": 80,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Medium Tank",
+    "picture": {
+      "src": "https://static.gametactic.eu/wot/entities/mediumtank/picture.png",
+      "width": 95,
+      "height": 89,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Medium Tank"
+    ],
+    "width": 45.625,
+    "height": 50,
+    "useTeamTint": true
+  },
+  {
+    "label": "Light Tank",
+    "icon": {
+      "src": "https://static.gametactic.eu/wot/entities/lighttank/icon.png",
+      "width": 60,
+      "height": 74,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Light Tank",
+    "picture": {
+      "src": "https://static.gametactic.eu/wot/entities/lighttank/picture.png",
+      "width": 95,
+      "height": 89,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Light Tank"
+    ],
+    "width": 40.54054054054054,
+    "height": 50,
+    "useTeamTint": true
+  },
+  {
+    "label": "Self-propelled Gun",
+    "icon": {
+      "src": "https://static.gametactic.eu/wot/entities/self-propelledgun/icon.png",
+      "width": 56,
+      "height": 57,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Self-propelled Gun",
+    "picture": {
+      "src": "https://static.gametactic.eu/wot/entities/self-propelledgun/picture.png",
+      "width": 96,
+      "height": 89,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Self-propelled Gun"
+    ],
+    "width": 49.122807017543856,
+    "height": 50,
+    "useTeamTint": true
+  },
+  {
+    "label": "Tank Destroyer",
+    "icon": {
+      "src": "https://static.gametactic.eu/wot/entities/tankdestroyer/icon.png",
+      "width": 70,
+      "height": 68,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Tank Destroyer",
+    "picture": {
+      "src": "https://static.gametactic.eu/wot/entities/tankdestroyer/picture.png",
+      "width": 95,
+      "height": 89,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Tank Destroyer"
+    ],
+    "width": 50,
+    "height": 48.57142857142857,
+    "useTeamTint": true
+  }
+]

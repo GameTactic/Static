@@ -8,7 +8,18 @@
       "cover": "https://static.gametactic.eu/wot/cover.png",
       "coverSVG": "https://static.gametactic.eu/wot/cover.svg",
       "game": "wot",
-      "name": "World of Tanks"
+      "name": "World of Tanks",
+      "categories": {
+        "entity": [
+          "Heavy Tank",
+          "Medium Tank",
+          "Light Tank",
+          "Self-propelled Gun",
+          "Tank Destroyer"
+        ],
+        "map": [],
+        "icon": []
+      }
     },
     "disabled": false
   },

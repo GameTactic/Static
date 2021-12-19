@@ -1,7 +1,7 @@
 [
   {
     "name": "Trap",
-    "description": "Agency is a hostage rescue map featured in Operation Bravo, Operation Phoenix, Operation Bloodhound, Operation Hydra and was created by Squad and Rick.",
+    "description": "Trap",
     "cover": {
       "src": "https://static.gametactic.eu/wows/maps/trap/cover.png",
       "width": 678,
@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "2240aec7-6cf3-4297-b36c-a27af85e30c9",
+        "id": "f32e5dbe-9262-42f4-9427-23ee0ea63ccc",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/trap/default.png",

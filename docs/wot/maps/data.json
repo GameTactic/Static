@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "Karelia",
+    "description": "Karelia",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/karelia/cover.png",
+      "width": 492,
+      "height": 490,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "cbf88dc9-9085-4725-9f96-82284d918448",
+        "name": "Plain",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/karelia/plain.png",
+          "width": 492,
+          "height": 490,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  }
+]

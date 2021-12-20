@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "8c86f955-9d08-4ad6-a524-98b919f9cf1a",
+        "id": "0ef9a90b-b0df-4f80-8340-457f39e6f907",
         "name": "Agency",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/agency/agency.jpg",
@@ -45,7 +45,7 @@
     },
     "views": [
       {
-        "id": "7a6dd43a-9142-4fc4-b30d-0d57bc76d7f5",
+        "id": "04f895ca-b8e1-4681-a55e-3cc8409370bb",
         "name": "Ancient",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/ancient/ancient.png",
@@ -80,7 +80,7 @@
     },
     "views": [
       {
-        "id": "8e8e019d-53a6-44af-8239-c6b409b3d40a",
+        "id": "a8c6369f-7a13-49b4-92e0-a57a0a33b5c4",
         "name": "Assault",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/assault/assault.png",
@@ -115,7 +115,7 @@
     },
     "views": [
       {
-        "id": "a815a2a3-8be1-4a0c-86c7-add3d1722bac",
+        "id": "ac5e6bc8-6077-4d7c-955c-7ea94d4b92d1",
         "name": "Cache",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/cache/cache.jpg",
@@ -150,7 +150,7 @@
     },
     "views": [
       {
-        "id": "ef0e4d66-9fc9-4f15-ae5c-755179b16d8e",
+        "id": "0629404d-b6a6-45dd-a380-4b4afba24bbf",
         "name": "Dust II",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/dustii/dustii.jpg",
@@ -185,7 +185,7 @@
     },
     "views": [
       {
-        "id": "215227f0-fbe7-488a-96e2-411f24a3f3bb",
+        "id": "0f69ead5-eb9f-41d0-8745-260c0b59c291",
         "name": "Inferno",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/inferno/inferno.jpg",
@@ -220,7 +220,7 @@
     },
     "views": [
       {
-        "id": "38c0e67b-b613-436b-be3d-d9e6fc5d1853",
+        "id": "75e4ec5b-94fe-4f43-b947-3a78d83cfea2",
         "name": "Italy",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/italy/italy.png",
@@ -255,7 +255,7 @@
     },
     "views": [
       {
-        "id": "618acfe9-b81b-4d2b-840d-6ac93dce8015",
+        "id": "0fdf4e98-2aeb-45ca-9bc8-ade7e42699e4",
         "name": "Upper Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/militia/upperlevel.png",
@@ -267,7 +267,7 @@
         "height": 5324
       },
       {
-        "id": "0bb762e7-778b-4117-95c3-011ec205b420",
+        "id": "1fbaa54e-1daa-4fae-b634-ffd25410fa9e",
         "name": "Lower Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/militia/lowerlevel.png",
@@ -302,7 +302,7 @@
     },
     "views": [
       {
-        "id": "c9e4d182-64ba-4644-b720-e9e7265aa4b2",
+        "id": "a3f4bff0-368a-49f7-9161-4bf7154a34a6",
         "name": "Mirage",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/mirage/mirage.jpg",
@@ -337,7 +337,7 @@
     },
     "views": [
       {
-        "id": "e94c573b-52c1-4f3c-bc13-f30381546014",
+        "id": "cca9cffd-2e58-45d5-aac2-741da63e6950",
         "name": "Upper Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/nuke/upperlevel.jpg",
@@ -349,7 +349,7 @@
         "height": 7168
       },
       {
-        "id": "b5da2ae6-c6b0-43e2-b743-a6144c1bfaa0",
+        "id": "d13ac65b-2d58-4597-9058-d835acca6939",
         "name": "Lower Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/nuke/lowerlevel.jpg",
@@ -384,7 +384,7 @@
     },
     "views": [
       {
-        "id": "3b8749b4-51fa-48b8-aac2-5eda89add959",
+        "id": "e05d712f-3fa7-4b14-a3e8-c15bc9e9b0cd",
         "name": "Office",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/office/office.jpg",
@@ -419,7 +419,7 @@
     },
     "views": [
       {
-        "id": "30e07838-2942-41a0-9de2-fb0d148c6fd3",
+        "id": "8a5128c1-8d33-4908-ac6e-b975e75eef14",
         "name": "Overpass",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/overpass/overpass.jpg",
@@ -454,7 +454,7 @@
     },
     "views": [
       {
-        "id": "09be76c9-6101-4778-884a-a8ddaf355a96",
+        "id": "93f3a8cd-ed0d-4ed0-b0db-ce5a98e5cea6",
         "name": "Train",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/train/train.jpg",
@@ -489,7 +489,7 @@
     },
     "views": [
       {
-        "id": "7a6243fc-b682-4666-b541-03ed0e6d8ed9",
+        "id": "e9b27685-587d-46c8-b772-1a63203bdac3",
         "name": "Upper Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/vertigo/upperlevel.jpg",
@@ -501,7 +501,7 @@
         "height": 4096
       },
       {
-        "id": "9ea32117-9841-4318-9508-bf019674370c",
+        "id": "9041dcb5-2161-49b8-9508-ac3f731c3ac3",
         "name": "Lower Level",
         "image": {
           "src": "https://static.gametactic.eu/csgo/maps/vertigo/lowerlevel.jpg",

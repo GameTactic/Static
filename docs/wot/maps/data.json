@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "445267de-225c-40e3-9ef9-2201992957eb",
+        "id": "e6c675e2-4dd8-499e-8fc0-a3022f0126cc",
         "name": "Plain",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/karelia/plain.png",
@@ -26,11 +26,11 @@
     "teamConstructors": [
       {
         "name": "Allied",
-        "color": 6140207
+        "color": 7193090
       },
       {
         "name": "Enemy",
-        "color": 15149362
+        "color": 16586761
       }
     ]
   }

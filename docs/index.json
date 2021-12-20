@@ -5,8 +5,8 @@
     "icons": "https://static.gametactic.eu/wot/icons/data.json",
     "data": {
       "acronym": "WOT",
-      "cover": "https://static.gametactic.eu/wot/cover.png",
-      "coverSVG": "https://static.gametactic.eu/wot/cover.svg",
+      "cover": "https://static.gametactic.eu/wot/cover.jpg",
+      "logo": "https://static.gametactic.eu/wot/logo.svg",
       "game": "wot",
       "name": "World of Tanks",
       "categories": {
@@ -29,8 +29,8 @@
     "icons": "https://static.gametactic.eu/wows/icons/data.json",
     "data": {
       "acronym": "WOWS",
-      "cover": "https://static.gametactic.eu/wows/cover.png",
-      "coverSVG": "https://static.gametactic.eu/wows/cover.svg",
+      "cover": "https://static.gametactic.eu/wows/cover.jpg",
+      "logo": "https://static.gametactic.eu/wows/logo.svg",
       "game": "wows",
       "name": "World of Warships",
       "categories": {
@@ -53,8 +53,8 @@
     "icons": "https://static.gametactic.eu/csgo/icons/data.json",
     "data": {
       "acronym": "CSGO",
-      "cover": "https://static.gametactic.eu/csgo/cover.png",
-      "coverSVG": "https://static.gametactic.eu/csgo/cover.svg",
+      "cover": "https://static.gametactic.eu/csgo/cover.jpg",
+      "logo": "https://static.gametactic.eu/csgo/logo.svg",
       "game": "csgo",
       "name": "Counter-Strike: Global Offensive",
       "categories": {
@@ -80,8 +80,8 @@
     "icons": "https://static.gametactic.eu/r6/icons/data.json",
     "data": {
       "acronym": "R6",
-      "cover": "https://static.gametactic.eu/r6/cover.png",
-      "coverSVG": "https://static.gametactic.eu/r6/cover.svg",
+      "cover": "https://static.gametactic.eu/r6/cover.jpg",
+      "logo": "https://static.gametactic.eu/r6/logo.svg",
       "game": "r6",
       "name": "Tom Clancy's Rainbow Six Siege",
       "categories": {

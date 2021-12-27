@@ -2,7 +2,7 @@
   {
     "label": "Breach",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/breach/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/breach.png",
       "width": 170,
       "height": 263,
       "format": "png"
@@ -17,7 +17,7 @@
     "plugins": [],
     "caption": "Breach",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/breach/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/breach.png",
       "width": 170,
       "height": 263,
       "format": "png"
@@ -33,7 +33,7 @@
   {
     "label": "Claymore",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/claymore/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/claymore.png",
       "width": 265,
       "height": 253,
       "format": "png"
@@ -48,7 +48,7 @@
     "plugins": [],
     "caption": "Claymore",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/claymore/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/claymore.png",
       "width": 265,
       "height": 253,
       "format": "png"
@@ -64,7 +64,7 @@
   {
     "label": "Flash",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/flash/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/flash.png",
       "width": 155,
       "height": 283,
       "format": "png"
@@ -79,7 +79,7 @@
     "plugins": [],
     "caption": "Flash",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/flash/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/flash.png",
       "width": 155,
       "height": 283,
       "format": "png"
@@ -95,7 +95,7 @@
   {
     "label": "Frag",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/frag/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/frag.png",
       "width": 175,
       "height": 206,
       "format": "png"
@@ -110,7 +110,7 @@
     "plugins": [],
     "caption": "Frag",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/frag/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/frag.png",
       "width": 175,
       "height": 206,
       "format": "png"
@@ -126,7 +126,7 @@
   {
     "label": "Smoke",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/smoke/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/smoke.png",
       "width": 150,
       "height": 269,
       "format": "png"
@@ -141,7 +141,7 @@
     "plugins": [],
     "caption": "Smoke",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/smoke/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/smoke.png",
       "width": 150,
       "height": 269,
       "format": "png"
@@ -157,7 +157,7 @@
   {
     "label": "Barbed Wire",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/barbedwire/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/barbedWire.png",
       "width": 230,
       "height": 206,
       "format": "png"
@@ -172,7 +172,7 @@
     "plugins": [],
     "caption": "Barbed Wire",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/barbedwire/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/barbedWire.png",
       "width": 230,
       "height": 206,
       "format": "png"
@@ -188,7 +188,7 @@
   {
     "label": "Bulletproof Camera",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/bulletproofcamera/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/bulletproofCam.png",
       "width": 339,
       "height": 231,
       "format": "png"
@@ -203,7 +203,7 @@
     "plugins": [],
     "caption": "Bulletproof Camera",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/bulletproofcamera/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/bulletproofCam.png",
       "width": 339,
       "height": 231,
       "format": "png"
@@ -219,7 +219,7 @@
   {
     "label": "Deployable Shield",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/deployableshield/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/deployableShield.png",
       "width": 237,
       "height": 268,
       "format": "png"
@@ -234,7 +234,7 @@
     "plugins": [],
     "caption": "Deployable Shield",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/deployableshield/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/deployableShield.png",
       "width": 237,
       "height": 268,
       "format": "png"
@@ -250,7 +250,7 @@
   {
     "label": "Impact",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/impact/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/impact.png",
       "width": 214,
       "height": 201,
       "format": "png"
@@ -265,7 +265,7 @@
     "plugins": [],
     "caption": "Impact",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/impact/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/impact.png",
       "width": 214,
       "height": 201,
       "format": "png"
@@ -281,7 +281,7 @@
   {
     "label": "Nitro",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/nitro/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/nitro.png",
       "width": 130,
       "height": 280,
       "format": "png"
@@ -296,7 +296,7 @@
     "plugins": [],
     "caption": "Nitro",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/nitro/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/nitro.png",
       "width": 130,
       "height": 280,
       "format": "png"
@@ -312,7 +312,7 @@
   {
     "label": "Proximity Alarm",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/proximityalarm/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/proximityAlarm.png",
       "width": 253,
       "height": 227,
       "format": "png"
@@ -327,7 +327,7 @@
     "plugins": [],
     "caption": "Proximity Alarm",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/proximityalarm/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/def/proximityAlarm.png",
       "width": 253,
       "height": 227,
       "format": "png"
@@ -343,7 +343,7 @@
   {
     "label": "Concussion",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/concussion/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/concussion.png",
       "width": 223,
       "height": 280,
       "format": "png"
@@ -358,7 +358,7 @@
     "plugins": [],
     "caption": "Concussion",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/concussion/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/concussion.png",
       "width": 223,
       "height": 280,
       "format": "png"
@@ -374,7 +374,7 @@
   {
     "label": "Hard Breach",
     "icon": {
-      "src": "https://static.gametactic.eu/r6/icons/hardbreach/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/secondaryHardBreacher.png",
       "width": 279,
       "height": 256,
       "format": "png"
@@ -389,7 +389,7 @@
     "plugins": [],
     "caption": "Hard Breach",
     "picture": {
-      "src": "https://static.gametactic.eu/r6/icons/hardbreach/icon.png",
+      "src": "https://static.gametactic.eu/r6/icons/atk/secondaryHardBreacher.png",
       "width": 279,
       "height": 256,
       "format": "png"

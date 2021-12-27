@@ -3,14 +3,14 @@
     "name": "Karelia",
     "description": "Karelia",
     "cover": {
-      "src": "https://static.gametactic.eu/wot/maps/karelia/cover.png",
+      "src": "https://static.gametactic.eu/wot/maps/karelia/karelia_plain.png",
       "width": 512,
       "height": 512,
       "format": "png"
     },
     "views": [
       {
-        "id": "277cbd91-38d6-4f1f-84d5-6ba0092af625",
+        "id": "57892525-54e6-43dc-9118-421f84c4f5a9",
         "name": "Plain",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/karelia/plain.png",

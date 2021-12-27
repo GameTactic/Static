@@ -2,7 +2,7 @@
   {
     "label": "Aircraft Carrier",
     "icon": {
-      "src": "https://static.gametactic.eu/wows/entities/aircraftcarrier/icon.png",
+      "src": "https://static.gametactic.eu/wows/entities/aircarrier/aircarrier.png",
       "width": 95,
       "height": 51,
       "format": "png"
@@ -17,7 +17,7 @@
     "plugins": [],
     "caption": "Aircraft Carrier",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/aircraftcarrier/picture.png",
+      "src": "https://static.gametactic.eu/wows/entities/aircarrier/aircarrier_premium.png",
       "width": 128,
       "height": 128,
       "format": "png"
@@ -33,7 +33,7 @@
   {
     "label": "Battleship",
     "icon": {
-      "src": "https://static.gametactic.eu/wows/entities/battleship/icon.png",
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
       "width": 100,
       "height": 48,
       "format": "png"
@@ -48,7 +48,7 @@
     "plugins": [],
     "caption": "Battleship",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/battleship/picture.png",
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
       "width": 128,
       "height": 128,
       "format": "png"
@@ -64,7 +64,7 @@
   {
     "label": "Cruiser",
     "icon": {
-      "src": "https://static.gametactic.eu/wows/entities/cruiser/icon.png",
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
       "width": 100,
       "height": 50,
       "format": "png"
@@ -79,7 +79,7 @@
     "plugins": [],
     "caption": "Cruiser",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/cruiser/picture.png",
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
       "width": 128,
       "height": 128,
       "format": "png"
@@ -95,7 +95,7 @@
   {
     "label": "Destroyer",
     "icon": {
-      "src": "https://static.gametactic.eu/wows/entities/destroyer/icon.png",
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
       "width": 100,
       "height": 50,
       "format": "png"
@@ -110,7 +110,7 @@
     "plugins": [],
     "caption": "Destroyer",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/destroyer/picture.png",
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
       "width": 128,
       "height": 128,
       "format": "png"
@@ -126,7 +126,7 @@
   {
     "label": "Submarine",
     "icon": {
-      "src": "https://static.gametactic.eu/wows/entities/submarine/icon.png",
+      "src": "https://static.gametactic.eu/wows/entities/submarine/submarine.png",
       "width": 101,
       "height": 50,
       "format": "png"
@@ -141,7 +141,7 @@
     "plugins": [],
     "caption": "Submarine",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/submarine/picture.png",
+      "src": "https://static.gametactic.eu/wows/entities/submarine/submarine_premium.png",
       "width": 128,
       "height": 128,
       "format": "png"

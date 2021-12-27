@@ -3,14 +3,14 @@
     "name": "Trap",
     "description": "Trap",
     "cover": {
-      "src": "https://static.gametactic.eu/wows/maps/trap/cover.png",
+      "src": "https://static.gametactic.eu/wows/maps/trap/trap.png",
       "width": 1080,
       "height": 1080,
       "format": "png"
     },
     "views": [
       {
-        "id": "f8270161-a6fa-495b-af7f-167ef0ed5ea2",
+        "id": "8bc792ae-6caa-4cc2-8de2-706d71b57332",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/trap/default.png",

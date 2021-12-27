@@ -22,7 +22,7 @@
       "height": 74,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Light Tank"
     ],
@@ -53,7 +53,7 @@
       "height": 80,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Medium Tank"
     ],
@@ -84,7 +84,7 @@
       "height": 107,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Heavy Tank"
     ],
@@ -115,7 +115,7 @@
       "height": 57,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Self-propelled Gun"
     ],
@@ -146,7 +146,7 @@
       "height": 68,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Tank Destroyer"
     ],

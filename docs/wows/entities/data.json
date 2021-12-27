@@ -2,7 +2,7 @@
   {
     "label": "Aircraft Carrier",
     "icon": {
-      "src": "https://static.gametactic.eu/wows/entities/aircarrier/aircarrier.png",
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
       "width": 95,
       "height": 51,
       "format": "png"
@@ -17,12 +17,12 @@
     "plugins": [],
     "caption": "Aircraft Carrier",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/aircarrier/aircarrier_premium.png",
-      "width": 128,
-      "height": 128,
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Aircraft Carrier"
     ],
@@ -48,12 +48,12 @@
     "plugins": [],
     "caption": "Battleship",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
-      "width": 128,
-      "height": 128,
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Battleship"
     ],
@@ -79,12 +79,12 @@
     "plugins": [],
     "caption": "Cruiser",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
-      "width": 128,
-      "height": 128,
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Cruiser"
     ],
@@ -110,12 +110,12 @@
     "plugins": [],
     "caption": "Destroyer",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
-      "width": 128,
-      "height": 128,
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
       "format": "png"
     },
-    "isDefault": false,
+    "isDefault": true,
     "categories": [
       "Destroyer"
     ],
@@ -141,17 +141,3117 @@
     "plugins": [],
     "caption": "Submarine",
     "picture": {
-      "src": "https://static.gametactic.eu/wows/entities/submarine/submarine_premium.png",
+      "src": "https://static.gametactic.eu/wows/entities/submarine/submarine.png",
+      "width": 101,
+      "height": 50,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Submarine"
+    ],
+    "width": 700,
+    "height": 346.53465346534654,
+    "useTeamTint": true
+  },
+  {
+    "label": "Zaō",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Zaō and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
       "width": 128,
       "height": 128,
       "format": "png"
     },
     "isDefault": false,
     "categories": [
-      "Submarine"
+      "Cruiser"
     ],
-    "width": 700,
-    "height": 346.53465346534654,
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Yamato",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Yamato and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Montana",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Montana and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Hakuryū",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Hakuryū, intended for test purposes only.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Midway",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Midway, intended for test purposes only.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Gearing",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Gearing and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Shimakaze",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Shimakaze and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Lappland",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The largest and most powerful destroyers in the Swedish Navy. Their main advantages were their strong AA defenses and extremely rapid-firing main battery artillery.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Grozovoi",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Grozovoi and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Moskva",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Moskva and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Hindenburg",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Hindenburg and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Cyclops",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A heavy cruiser with twelve main battery guns, powerful armor protection, and AA weaponry that was typical for the British Navy in the late 1940s.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Grosser Kurfürst",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Großer Kurfürst and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Conqueror",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Conqueror and is suitable for Clan Battles only",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Connecticut",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A design of a powerful 70,000-ton battleship with modest speed that was armed with 457 mm main battery guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Audacious",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship is a copy of Audacious, intended for test purposes only.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Ragnarok",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The vessel is immeasurably ancient—a relic of days long forgotten. It was built in the shipyards orbiting a world of proud and fearsome warriors. Though the citizens adhered to the Imperial creed and paid their tithes, secret cabals on the planet's surface worshipped Khorne, the Lord of Rage. These cults were strong. They were hated. They were outnumbered. At the appointed hour, they rose up and tried to overthrow their loyalist masters. They failed. They were defeated in a long, bloody war and all, to a man, perished in flames. Their name was erased from history. But the fickle whims of the Warp decreed that their vengeful spirits would forever haunt the vessel Ragnarok, whose hull was being constructed in the docks above the planet's surface. The furious spirits invaded the hull and ensured the vessel served none but the Ruinous Powers. To this day, Ragnarok and all aboard it cry, \"Vengeance! Death! Blood for the Blood God!\"",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Ignis Purgatio",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Originally designed for a Naval mission of the purpose now long forgotten, Ignis Purgatio was lost during the Horus Heresy. After missing for several millennia, the ship was rediscovered on one of the Frontier worlds in the Jericho Reach. Though clearly a warship, it was put to use as a transport by its new, uncouth masters who failed to recognize its true potential. After undergoing intensive repairs and cleansing its quarters of its previous inhabitants, Ignis Purgatio was eventually returned to Imperial Navy service and, since then, it has become an essential component of Battlefleet Solar. Once again, it acts as a fearsome guard dog for humanity and, by proxy, the Emperor Himself.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "DD R-10",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Test ship.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Austin",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A light cruiser project (CL-154) that was developed at the end of World War II. The ship's main armament comprised the latest 127 mm dual-purpose mounts.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Nachi",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Cruiser of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 2nd Myōkō-class cruiser, Nachi. Harnessing an exceptional reconnaissance ability, she can track I-401 even during her silent runs. In combat, she acts as a spotter; calculating data for Myōkō's long-range engagements. Her Mental Model \"Nachi\" acts as \"Treasurer\" under Hiei's \"Student Council of the Fog\". Having a rather placid personality, she is often swayed by her energetic colleague, Ashigara.\nThis warship has been specially designed for World of Warships, and is modelled after Nachi as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Georgia",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A \"high-speed battleship\" project which preceded Iowa-class ships. The main battery comprised 457 mm guns placed in twin turrets, which were developed alongside the project of the ship herself in 1938.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Eastern Dragon",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "In Chinese tradition, dragons are usually depicted as long, scale-covered, snake-like creatures with four legs. Four brothers—the Kings of Dragons—each represent one of the four seas. The name of the Dragon King of the East Sea is Ào Guǎng.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Ship Smasha",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Orks do not navigate the Warp. They need no Astronomican like pesky Umiez. Gork and Mork guide them to WAAAGH! They jump into Warp and then jump out of it, Gunz blazing. But not with this sleek little ship. Where did the Boyz get this one? Was it assembled from parts of some primordial space hulk? Or just found by chance in some forgotten nooks and crannies of the Galaxy? They don’t remember and they don’t care. It has always been there, the only ship you can talk to. You tell it where to go, and you go there. But you must be smart to do so. Not Mekboy smart. Not Weirdboy smart. Real smart.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "AL Yukikaze",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Famously known as the \"Fortune Ship\" for her achievements in the Great War. She's arrogant and believes that all her success is due to her ability. Gets upset when ignored and left alone. There is a rivalry between her and Shigure, although neither is sure why this is the case.\nFrom the game Azur Lane.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Maya",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Cruiser of the \"Fleet of Fog,\" modeled after Takao, the lead ship of the Imperial Japanese Navy's Takao-class series of cruisers. \nThis warship has been specially designed for World of Warships, and is modelled after the same-name ship from \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Cross of Dorn",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This warship is one of the most closely guarded secrets of the Black Templars. Only a few chosen Brothers know of its very existence, as it lays dormant deep in the Reclusiam hangars of the Eternal Crusader, flagship of the Templars’ fleets and Chapter’s Fortress-Monastery. This ship was the gift, reward, and blessing, given by Rogal Dorn to the newborn Chapter and its first High Marshal Sigismund. It is ancient like the time itself, dating back to the early days of the Dark Age of Technology. Looking deceptively small, compared to the gargantuan vessels of Chapter’s fleets, it holds the mysterious and now forbidden powers of that long-forgotten era.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "AL Montpelier",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Brave and energetic like her elder sister, Cleveland. Loves battles and stands up to even the strongest of foes, but is clumsy at everything other than combat. Member of Task Force 18—a group assembled of ships of her type. Admires her sister, Cleveland.\nFrom the game Azur Lane.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Southern Dragon",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "In Chinese tradition, dragons are usually depicted as long, scale-covered, snake-like creatures with four legs. Four brothers—the Kings of Dragons—each represent one of the four seas. The name of the Dragon King of the South Sea is Ào Qin.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "HSF Hiei",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A nautical training ship assigned to Yokosuka Girls' Marine High School. Despite the ship's long history, she is not inferior to modern ships due to frequent remodeling.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Ragnar",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A large post-war destroyer with cruiser-caliber guns and strong AA armament.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Sevastopol",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A large artillery ship (Project 69I) with technical characteristics close to high-speed \"small battleships.\" The ship's main battery is represented by German-built 380 mm guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Salem",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Des Moines-class heavy cruiser. Her main battery mounts were equipped with an auto-loading mechanism, which provided her with the greatest firepower among ships of her type. The cruiser's advantages included advanced radar equipment, powerful AA artillery, and reliable horizontal armor protection.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Neustrashimy",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The first destroyer of the Soviet Navy designed and built after World War II (Project 41). A number of innovative solutions were used in the ship's design, including the most advanced torpedo tubes and the latest artillery mounts, which served both as dual-purpose main battery and AA defense.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Black",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the numerous and very successful Fletcher-class destroyers which boasted a sufficiently high speed, powerful dual-purpose artillery, efficient AA defenses, and decent torpedo armament.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Haguro",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Cruiser of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 4th Myōkō-class cruiser, Haguro. Equipped with multiple thruster modules, she uses exceptional speed and agility to overwhelm her opponents. Her Mental Model \"Haguro\" is known for her sharp tongue and lazy personality. Haguro acts as one of the \"Secretaries\" in the \"Student Council of the Fog\", along with Ashigara.\nThis warship has been specially designed for World of Warships, and is modelled after Haguro as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "AL Sov. Rossiya",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Sovetskaya Rossiya, the pride of the Northern Parliament—one of the biggest and mightiest battleships at sea. She was designed and built during the Great War as part of the overall strategic plans.\nFrom the game Azur Lane",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "HSF Harekaze",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Kagerō-class training ship of the Yokosuka Girls Maritime High School. She is operated by the main character Akeno Misaki. The ship mounts experimental modules that allow her to travel at higher speeds than her sister ships at the cost of stability. In the series, reduced personnel by automation allows for a single class of 30 students to operate the ship.\nFrom the series \"High School Fleet\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Takao",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Cruiser of the \"Fleet of Fog\". Modelled after Takao, the lead ship of the Imperial Japanese Navy's Takao-class cruisers. She loses a duel against I-401 while patrolling the Kumano Sea area. After her defeat, she decides to leave the \"Fleet of Fog\" to join the \"Blue Steel\" led by Gunzo Chihaya. Takao's Mental Model has a great deal of curiosity, which led her to unwittingly collect a lot of information about humanity.\nThis warship has been specially designed for World of Warships, and is modelled after Takao as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Hiei",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Battleship of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 2nd Kongō-class battleship, Hiei. Equipped with the \"Mirroring System\" bestowed by Musashi, she acts as the new flagship of the \"First Oriental Fleet\" after Kongō's departure. Repurposing the Fleet as the \"Student Council of the Fog\", she maintains strict order within the Fleet of Fog as the \"Student Council President\".\nThis warship has been specially designed for World of Warships, and is modelled after Hiei as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- DC\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "AL Littorio",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The second Vittorio Veneto-class warship to be built, and one of the most powerful battleships in the Mediterranean.\nFrom the game Azur Lane ",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Alabama ST",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of a series of the South Dakota-class battleships. Boasted powerful AA defenses and sophisticated surveillance systems. Had a sensible armor layout including an internal main armor belt and a solid horizontal protection.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Ashigara",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Cruiser of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 3rd Myōkō-class cruiser, Ashigara. She is equipped with a specialized harpoon-cannon, replacing the Super-Graviton Cannon unit. Her Mental Model \"Ashigara\" has a warlike personality and does not think matters over carefully. Ashigara acts as one of the \"Secretaries\" in the \"Student Council of the Fog\", along with Haguro.\nThis warship has been specially designed for World of Warships, and is modelled after Ashigara as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Flint",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This ship belonged to a series of cruisers with very powerful dual-purpose guns. The major difference from the lead ship was her short-range AA armament, which had been improved at the expense of fewer main guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Haruna",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Battleship of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 3rd Kongō-class battleship, Haruna. First seen engaging I-401 in combat alongside Kirishima, she was defeated by the superior tactics of Gunzo Chihaya, commander of I-401. Her Mental Model \"Haruna\" always wears a large overcoat and has a keen interest in the human language, \"collecting\" word samples as she hears them.\nThis warship has been specially designed for World of Warships, and is modelled after Haruna as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "California",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Tennessee-class battleship armed with twelve 356 mm guns and possessing quite modest speed characteristics. After Pearl Harbor, she underwent thorough refurbishment, which significantly changed the ship's design and greatly enhanced her AA defenses.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Shinonome",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the first Fubuki-class destroyers, with an incredible striking power from her three 610 mm torpedo launchers. The ship significantly surpassed preceding-class destroyers in terms of artillery firepower. However, her AA defenses were weak, which was characteristic of all Japanese destroyers.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "HSF Admiral Graf Spee",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Deutschland-class training ship of the Wilhelmshaven Maritime High School. The commander of the ship is Thea Kreutzer and the vice commander is Wilhelmina. She has 28 cm guns mounted on a hull with a displacement equivalent to that of a training cruiser, and her diesel propulsion gives her an extensive cruising range. She is valued on distance voyages for her long cruising range. From the series \"High School Fleet\". In the series, her long range is utilized in the foreign exchange voyage.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Kirishima",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Battleship of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 4th Kongō-class battleship, Kirishima. She was first seen engaging I-401, along with Haruna, at the battle in Yokosuka Bay. She was eventually defeated by I-401 due to her \"trump card\" backfiring under her rival's tactics.\nThis warship has been specially designed for World of Warships, and is modelled after Kirishima as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Myōkō",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Cruiser of the \"Fleet of Fog\". Modelled after the lead ship of the Imperial Japanese Navy's Myōkō-class cruiser, Myōkō. Her Mental Model \"Myōkō\" acts as the \"Student Council Vice President\" in Hiei's \"Student Council of the Fog\", and acts as a mediator between other Myōkō-class Mental Models.\nThis warship has been specially designed for World of Warships, and is modelled after Myōkō as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Kongō",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Battleship of the \"Fleet of Fog\". Modelled after the lead ship of the Imperial Japanese Navy's Kongō-class, Kongō. As the flagship of the \"First Oriental Fleet\", her Mental Model \"Kongō\" honors the Admiralty Code above all else. She seeks to eliminate the submarine I-401, who chose to deviate from the Code.\nThis warship has been specially designed for World of Warships, and is modelled after Kongō as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Texas",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The first super-dreadnought in the U.S. Navy. She underwent extensive retrofitting to reinforce her torpedo protection and horizontal armor. During World War II, she received powerful AA armament.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "ARP Yamato",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Heavy Battleship of the \"Fleet of Fog,\" modeled after the lead ship of the Imperial Japanese Navy's Yamato-class series of battleships. \nThis warship has been specially designed for World of Warships, and is modeled after the same-name ship from \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Småland",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the largest and most powerful destroyers in the Swedish Royal Navy, armed with highly effective 120 mm main guns that boasted a high rate of fire. The ship's distinctive feature was her torpedo launchers with different numbers of tubes.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Forrest Sherman",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A series of destroyers built after World War II and designed with the experience gained from the conflict in mind. The ships' armament was primarily aimed at fighting off aerial and underwater attacks.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Smolensk",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Developed after World War II, a project of a small light cruiser (MLK 16 x 130) equipped with sixteen dual-purpose guns in four turret mounts intended to counter enemy light ships.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Kitakami",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A unique \"torpedo cruiser\". Originally designed as a Kuma-class scout cruiser. In 1941, along with one of her sister ships, Kitakami was laid up for major retrofitting to be equipped with an unusually powerful torpedo armament of ten quadruple torpedo tubes.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Gibraltar",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A heavy cruiser armed with 234 mm main battery artillery installed in four-gun turrets.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Puerto Rico",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The project that preceded the creation of the \"large Alaska-class cruisers\". The CA2-D variant was designed with twelve 305 mm main battery guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Incomparable",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "The project of a ship that was enormous for her time—a fast, moderately armored battlecruiser armed with super-powerful 508 mm guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Max Immelmann",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A heavy aircraft carrier project based on the hull of an H-class battleship. A large, well-armored ship.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Gorizia",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A heavy Zara-class cruiser. Ships of this class were designed to confront the weakly protected cruisers that were built after the Washington Naval Treaty of 1922. At the time of their entry into service, they had the best armor among ships of their type. The international displacement-limiting treaties, which were still in force during the ship's construction, were the reason why no torpedo weaponry was mounted on her.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Admiral Makarov",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "In 1945, the German cruiser Nürnberg was ceded to the Soviet Union as war reparations. Subsequently, she was renamed and partially rearmed. During an upgrade that followed, the ship's automatic AA guns and other equipment were changed, but her rapid-fire main guns, which were quite powerful for a ship of her size, were retained.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Alaska B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "An instance of a special type of ship, somewhere between a cruiser and a battleship. Officially classified as a \"large cruiser\", she was armed with 305 mm guns, had a high speed, and powerful AA defenses. On the other hand, she had relatively weak protection for her size.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Pommern B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A large, well-armed ship with powerful armor protection. It was essentially a draft design for an H-class battleship equipped with 380 mm triple main battery turrets.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Jean Bart B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Richelieu-class battleship known for her high speed and powerful anti-torpedo defense. In the process of her completion in the late 1940s, she received the most advanced anti-aircraft artillery systems for that time, which significantly increased the ship's AA defense.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Loyang B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A destroyer specifically built for the U.S. Navy, boasting powerful AA guns and a high speed. She was handed over to the Navy of the Republic of China in 1954. Her armament comprised dual-purpose main guns and quintuple torpedo tubes.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Asashio B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Japanese destroyer Asashio was the ultimate ship of this type in Japan, built after the launch of the Fubuki-class ships. The absence of constraints on displacement allowed naval architects to find a good balance between speed, armament, and hull size. Due to a good overall layout, Asashio served as a prototype for the majority of subsequent Japanese destroyers.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Cossack B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the renowned Tribal-class destroyers, different from her British same-type contemporaries in her large size and emphasis on gunnery over torpedo warfare. At the time of her commissioning, she carried four twin 120 mm mounts as her main battery.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Atago B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Developed from the Myōkō-class cruisers. When commissioned, Atago was one of the most powerful heavy cruisers in the world. The ship surpassed the speed of all Japan's potential rival cruisers. For her time, Atago was well-armored with efficient AA armament, along with powerful artillery and torpedoes.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Tirpitz B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the two mightiest battleships in the German Navy. Akin to the lead ship of her class, Tirpitz had heavy ship armor, powerful artillery and a high speed. Weak horizontal armor protection was the main drawback of her design, but this was largely offset by improving her AA defense.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Massachusetts B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A South Dakota-class battleship. Designed subject to treaty limitations, the ship had well-balanced characteristics in terms of armament, speed, and armor protection. By the end of World War II, the ship had a very powerful AA defense.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Kaga B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Until the early 1940s, she was one of the biggest aircraft carriers of the Imperial Japanese Navy. Initially laid down as a battleship, she was redesigned during construction to become a carrier. The ship had good armor protection for her type, carried quite numerous air group and powerful secondary battery guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Graf Zeppelin B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A high-speed aircraft carrier armed with numerous secondary guns and dual-purpose guns. She had the most powerful propulsion among all German Navy ships. The carrier was never completed because Germany's shipbuilding program priorities changed in the course of World War II.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Saipan B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A high-speed light aircraft carrier based on the Baltimore-class cruiser. Despite relatively small dimensions, the ship carried a rather powerful air group and was armed with numerous AA artillery. The ship boasted very good armor compared to the protection of far larger strike aircraft carriers.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Sims B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A well-armed high-speed destroyer with excellent maneuverability. High rate of fire and excellent aiming speeds for her dual-purpose artillery mounts ensured good firepower and efficient AA defenses for her time.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Boise",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Brooklyn-class light cruiser. Her main battery consisted of fifteen rapid-fire 152 mm guns. In the 1940s, the cruiser carried numerous automatic AA guns.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Scharnhorst B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A German battleship designed for raider operations and fighting cruisers, including battlecruisers. When Scharnhorst was built, she was faster than any ship of her type. The rather small caliber of her main battery guns was her main drawback, but that was offset by her higher rate of fire.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Dunkerque B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A high-speed battlecruiser designed to counter German heavy cruisers. The ship had good torpedo protection, carried numerous dual-purpose guns and had powerful horizontal armor. Her main turrets were placed in the fore end thus making any aft firing scenarios impossible.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Yoshino B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A fast-moving ship armed with 310 mm artillery for her main battery, intended to counter enemy heavy cruisers (Project B-65). This version of the design also featured torpedo armament.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Atlanta B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A relatively small ship for her type featuring powerful AA armament and designed for use in joint operations with destroyers. The ship carried torpedo tubes and numerous dual-purpose rapid-fire artillery.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Bagration",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A design for a 15,000-ton cruiser carrying 180 mm guns that was developed for the Soviet Navy at the end of World War II under a new shipbuilding program. The project was notable for its AA defenses, which were reinforced based on the experience gained during prior combat.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Pyotr Bagration",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A design for a 15,000-ton cruiser carrying 180 mm guns that was developed for the Soviet Navy at the end of World War II under a new shipbuilding program. The project was notable for its AA defenses, which were reinforced based on the experience gained during prior combat.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Rochester",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "An Oregon City-class heavy cruiser with more advanced AA weaponry and a different arrangement for her AA defenses as compared to her direct predecessors—the Baltimore-class ships.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Flandre",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A variant of the Alsace-class battleship project with her main guns placed in triple turrets and differently arranged AA armament.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Constellation",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A battlecruiser built as part of a series of ships under Naval Act 1916 after the end of World War I. One of the largest warships of her time.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "ZF-6",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the unfinished French Le Hardi-class destroyers, captured by Germany in 1940. The project for the ship's completion planned for her armament to be completely replaced with German equipment.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "HSF Harekaze II",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "This Kagero-class nautical training ship, Okikaze, was preserved as a reserve fleet in Yokosuka Girls' Marine High School dock, now operated by using components from the salvaged Harekaze.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Destroyer"
+    ],
+    "width": 725,
+    "height": 362.5,
+    "useTeamTint": true
+  },
+  {
+    "label": "Ochakov",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the versions of a project of a small light cruiser (MLK-8-152). Her main battery artillery consisted of dual-purpose 152 mm mounts developed in the U.S.S.R. in the mid-1940s.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Belfast '43",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the most powerful and largest light cruisers of the 1930s. The ship's main battery comprised twelve 152 mm guns complemented with dual-purpose artillery, torpedo armament, and aircraft-handling equipment.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Congress",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A variant of the \"large cruiser\" project with seven 305 mm guns as her main battery. She was similar to the Alaska-class ships in terms of her other characteristics.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Borodino",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A \"small battleship\" project developed in the early 1950s, with main armament consisting of several heavy guns concentrated at her fore end. Such ships were designed to act in groups and cope with any full-fledged battleship.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Champagne",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A battleship design close to that of the Gascogne class. Her triple turrets and the 406 mm guns mounted in them were developed in France in the second half of the 1930s.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Alabama VL",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of a series of the South Dakota-class battleships. Boasted powerful AA defenses and sophisticated surveillance systems. Had a sensible armor layout including an internal main armor belt and a solid horizontal protection.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Saipan",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier.png",
+      "width": 95,
+      "height": 51,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A high-speed light aircraft carrier based on the Baltimore-class cruiser. Despite relatively small dimensions, the ship carried a rather powerful air group and was armed with numerous AA artillery. The ship boasted very good armor compared to the protection of far larger strike aircraft carriers.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/aircraft_carrier/aircraft_carrier_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Aircraft Carrier"
+    ],
+    "width": 800,
+    "height": 429.4736842105263,
+    "useTeamTint": true
+  },
+  {
+    "label": "Duke of York",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A King George V-class battleship that carried 356 mm main guns, and could run at quite a high speed for a ship of her type. Numerous dual-purpose artillery served as a basis for the ship's AA defenses. A very successful gun fire control system provided for high accuracy of fire of the ship's main battery.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Dido",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A relatively small cruiser designed to provide AA cover for squadrons and interact with destroyers. One of the first ships to carry dual-purpose guns as their main battery.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_reward.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
+    "useTeamTint": true
+  },
+  {
+    "label": "Ise",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A unique hybrid ship that combines the features of a battleship and an aircraft carrier. Initially built as a version of the preceding Fusō class, Ise underwent extensive reconstruction in the 1940s. Some of the ship's main battery turrets were replaced by an aircraft hangar, surmounted by a flight deck.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Repulse",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship.png",
+      "width": 100,
+      "height": 48,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "A Renown-class battlecruiser. A very fast-going ship for her time. The guns she carried were similar to those mounted on Queen Elizabeth-class battleships.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/battleship/battleship_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Battleship"
+    ],
+    "width": 800,
+    "height": 384,
+    "useTeamTint": true
+  },
+  {
+    "label": "Kirov",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser.png",
+      "width": 100,
+      "height": 50,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "One of the first large warships designed and built in the U.S.S.R. (Project 26). Despite her small displacement, she was equipped with very powerful long-range main guns and had a good speed. In contrast to the majority of her contemporaries, she had weak armor.",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/cruiser/cruiser_premium.png",
+      "width": 128,
+      "height": 128,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Cruiser"
+    ],
+    "width": 800,
+    "height": 400,
     "useTeamTint": true
   }
 ]

@@ -17,7 +17,7 @@
     "plugins": [],
     "caption": "HE Grenade",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/hegrenade/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/hegrenade/icon.png",
       "width": 195,
       "height": 258,
       "format": "png"
@@ -49,7 +49,7 @@
     "plugins": [],
     "caption": "Flash",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/flash/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/flash/icon.png",
       "width": 227,
       "height": 263,
       "format": "png"
@@ -91,7 +91,7 @@
     ],
     "caption": "Smoke",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/smoke/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/smoke/icon.png",
       "width": 120,
       "height": 258,
       "format": "png"
@@ -123,7 +123,7 @@
     "plugins": [],
     "caption": "Decoy",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/decoy/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/decoy/icon.png",
       "width": 221,
       "height": 258,
       "format": "png"
@@ -155,7 +155,7 @@
     "plugins": [],
     "caption": "C4 Explosive",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/c4explosive/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/c4explosive/icon.png",
       "width": 253,
       "height": 222,
       "format": "png"
@@ -196,7 +196,7 @@
     ],
     "caption": "Molotov",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/molotov/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/molotov/icon.png",
       "width": 174,
       "height": 258,
       "format": "png"
@@ -227,7 +227,7 @@
     "plugins": [],
     "caption": "Defuse Kit",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/defusekit/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/defusekit/icon.png",
       "width": 259,
       "height": 227,
       "format": "png"
@@ -268,7 +268,7 @@
     ],
     "caption": "Incendiary",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/icons/incendiary/picture.png",
+      "src": "https://static.gametactic.eu/csgo/icons/incendiary/icon.png",
       "width": 120,
       "height": 259,
       "format": "png"

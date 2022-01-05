@@ -1,25 +1,1600 @@
 [
   {
-    "name": "Trap",
-    "description": "Trap",
+    "name": "Ocean",
+    "description": "Somewhere in the Atlantic.",
     "cover": {
-      "src": "https://static.gametactic.eu/wows/maps/trap/trap.png",
-      "width": 1080,
-      "height": 1080,
+      "src": "https://static.gametactic.eu/wows/maps/ocean/ocean.png",
+      "width": 760,
+      "height": 760,
       "format": "png"
     },
     "views": [
       {
-        "id": "8a8fd2d6-90bc-45df-8274-0cd646daa3b9",
+        "id": "9bfaec37-aac5-4cef-9056-61f531194725",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/ocean/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 36000,
+        "height": 36000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "description": "This is a sunny paradise with an active volcano and the most important strategic airfield in the Pacific.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/solomon_islands/solomon_islands.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "1f66b8d7-0d6e-4aaa-a8c5-84c21f7d5611",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/solomonislands/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Archipelago",
+    "description": "Russian islands in the Sea of Okhotsk.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/archipelago/archipelago.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "f69bcdff-d763-4ad1-861b-7967a114e4e1",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/archipelago/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Ring",
+    "description": "A ring of mountainous islands that form a \"safe haven\" in the center of the map.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/ring/ring.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "408ad532-e568-4cce-a124-a5362e2c868c",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/ring/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 36000,
+        "height": 36000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Strait",
+    "description": "A strait between two continents encompassing both large and small islands.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/strait/strait.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "7dbb403b-525f-4bd6-acf6-10cc62852837",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/strait/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 36000,
+        "height": 36000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Big Race",
+    "description": "A large island and a chain of small islands dividing the map into two parts.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/big_race/big_race.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "868d998e-b35b-4b8f-a855-4507b77368f5",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/bigrace/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "New Dawn",
+    "description": "New dawn in an area of combat operations.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/new_dawn/new_dawn.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "24e0b661-423a-4d51-8e04-62bfbb061bd8",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/newdawn/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 36000,
+        "height": 36000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "The Atlantic",
+    "description": "Coastal area of the Atlantic Ocean.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/the_atlantic/the_atlantic.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "40303a77-6798-4b59-92c0-d72214b7bb18",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/theatlantic/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "North",
+    "description": "Cold northern waters. Rough and tough battle.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/north/north.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "56d675f5-b7fe-4217-bfb6-b3b5e11d514a",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/north/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Hotspot",
+    "description": "Tropical waters somewhere in Melanesia.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/hotspot/hotspot.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "34df9cbd-78f8-4060-ae61-6faddf296581",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/hotspot/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Fault Line",
+    "description": "Deep continental fracture hidden beneath the water.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/fault_line/fault_line.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "f6bf2c02-ff10-46d0-81a2-898012ce460f",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/faultline/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Islands of Ice",
+    "description": "A home to whalers and hunters. Glacial icebergs and a severe climate.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/islands_of_ice/islands_of_ice.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "71a5c239-a60c-4b02-9a2e-e6b5c5b466d6",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/islandsof ice/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Trap",
+    "description": "A harbor suitable for navigation and destruction...",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/trap/trap.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "0be4691d-6562-4b65-bce4-04b2140738a7",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/trap/default.png",
-          "width": 1080,
-          "height": 1080,
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Two Brothers",
+    "description": "Two large islands that share the map as siblings.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/two_brothers/two_brothers.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "916e2588-ffbd-41b0-993d-5315e18fff60",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/twobrothers/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Land of Fire",
+    "description": "Southern waters of Latin America: specific region, complex setting.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/land_of_fire/land_of_fire.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "99d1b4d6-95e3-4c47-bf92-a3318ca4c8ca",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/landof fire/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Shards",
+    "description": "Extremely narrow straits combined with large islands.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/shards/shards.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "d81ae09f-c96b-4dbc-bc67-f6dc74526224",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/shards/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Sea of Fortune",
+    "description": "A sea combining a lot of advantageous factors.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/sea_of_fortune/sea_of_fortune.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "230db0b2-d51f-451a-b291-3242cb72c63d",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/seaof fortune/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Tears of the Desert",
+    "description": "Somewhere in the Red Sea.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/tears_of_the_desert/tears_of_the_desert.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "50b90e39-58bc-4094-b110-4720f6f36528",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/tearsof the desert/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Polar",
+    "description": "The Nobel camp in the ice-cold embrace of New Land.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/polar/polar.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "2519cebc-6d4c-46fb-a375-f4be05919818",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/polar/default.png",
+          "width": 760,
+          "height": 760,
           "format": "png"
         },
         "width": 24000,
         "height": 24000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Islands",
+    "description": "Jolly green islands of dear old Britain.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/islands/islands.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "63d747c4-db56-4959-8a87-8f8f4b28174a",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/islands/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 24000,
+        "height": 24000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Northern Lights",
+    "description": "Battles are fought during polar nights as well.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/northern_lights/northern_lights.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "8c468fdb-d8f1-4d7c-9224-b2bf3edfbfda",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/northernlights/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Mountain Range",
+    "description": "A mountain range in the middle of a strait.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/mountain_range/mountain_range.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "acdc9255-1f8b-40a0-b21d-c97027c995b6",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/mountainrange/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Shatter",
+    "description": "North American islands somewhere near Canada.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/shatter/shatter.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "f257113d-8c8a-4ce0-9aa1-c9533c6ebc5d",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/shatter/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Okinawa",
+    "description": "An area of fierce combat during World War II.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/okinawa/okinawa.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "08dcacb3-186d-43f2-8d1e-50b96499daeb",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/okinawa/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Trident",
+    "description": "Treacherous waters where Neptune lies in wait for his prey.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/trident/trident.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "21e7eedc-4990-47bb-b765-55732a95e514",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/trident/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Neighbors",
+    "description": "The maritime border between Britain and France.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/neighbors/neighbors.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "bdf548f5-ff7c-46d6-82b5-9d3643c563c1",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/neighbors/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Warrior's Path",
+    "description": "Heroes walk their own path.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/warrior's_path/warrior's_path.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "8c32ac89-ee19-46d3-a7bd-ad6bc004515a",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/warrior'spath/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Loop",
+    "description": "Islands are located in the shape of a loop. Artful steering helps to gain an advantage.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/loop/loop.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "304fc177-204a-4f20-84a5-72096ea5f308",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/loop/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Estuary",
+    "description": "The mouth of a river flowing into a stormy sea.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/estuary/estuary.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "75e3ebb9-9e89-423f-be3e-5cfc174c5733",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/estuary/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Sleeping Giant",
+    "description": "A combination of various routes amid the islands. A body of water somewhere near China.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/sleeping_giant/sleeping_giant.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "15cd13ca-b0ee-43cb-8cc7-d9971c08c99d",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/sleepinggiant/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 48000,
+        "height": 48000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Haven",
+    "description": "Setting: Scottish rocks, tense gameplay.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/haven/haven.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "c3320772-59d4-4d0e-ab8b-8314fa58598b",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/haven/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "description": "Santorini",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/greece/greece.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "cf5053fd-aa3d-4ec2-8a00-caa7baa63f0d",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/greece/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Crash Zone Alpha",
+    "description": "Crash Zone.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/crash_zone_alpha/crash_zone_alpha.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "6fc51ad7-cb7a-4746-a45b-1b158fca6534",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/crashzone alpha/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Northern Waters",
+    "description": "A Northern archipelago near large islands and a continent.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/northern_waters/northern_waters.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "584c9115-d633-4f16-b8f5-56115b438710",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/northernwaters/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Riposte",
+    "description": "Riposte",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/riposte/riposte.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "42420582-f7a4-49b9-a5f2-10be16d1a2ea",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/riposte/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 42000,
+        "height": 42000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Killer Whale",
+    "description": "An aggressive attack on the Naval Station.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/killer_whale/killer_whale.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "58fa8888-aaff-4bd4-bfa5-ba161776bb9b",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/killerwhale/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Naval Station Newport",
+    "description": "Defend yourself and survive!",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/naval_station_newport/naval_station_newport.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "c55ab5bf-4d99-4d7e-8c55-77d731f644e4",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/navalstation newport/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Labyrinth ",
+    "description": "Across Melanesian waters",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/labyrinth /labyrinth .png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "1635b5ea-803a-41c9-a014-577fbe045fe7",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/labyrinth /default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Dunkirk",
+    "description": "Operation Dynamo",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/dunkirk/dunkirk.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "b7b51de0-95aa-4ed8-9b6f-04012febe369",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/dunkirk/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Rouen Atoll",
+    "description": "Atoll",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/rouen_atoll/rouen_atoll.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "db36c0ff-1f1e-416b-b2a0-bc582946ce4d",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/rouenatoll/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Sunda Islands",
+    "description": "Narai",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/sunda_islands/sunda_islands.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "3cd37a5c-0679-4d8e-8984-55ff557373ce",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/sundaislands/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Hermes",
+    "description": "Hermes",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/hermes/hermes.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "c4aaf824-7f4f-42d8-a39a-0f7903f274d8",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/hermes/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Empress Augusta Bay",
+    "description": "Cherry Blossom",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/empress_augusta_bay/empress_augusta_bay.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "3b567efa-bc9f-425b-9176-dc18b03ec656",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/empressaugusta bay/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Saving Transylvania",
+    "description": "Saving Transylvania.",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/saving_transylvania/saving_transylvania.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "77f65022-7e20-40e0-940a-b0c3cf8779a4",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/savingtransylvania/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Sunray in the Darkness",
+    "description": "Sunray in the Darkness",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/sunray_in_the_darkness/sunray_in_the_darkness.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "c7a0490e-dfcb-4922-b123-c618a01a704f",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/sunrayin the darkness/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
+      }
+    ],
+    "game": "wows",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 1166738
+      },
+      {
+        "name": "Enemy",
+        "color": 15938318
+      }
+    ]
+  },
+  {
+    "name": "Polygon",
+    "description": "Polygon",
+    "cover": {
+      "src": "https://static.gametactic.eu/wows/maps/polygon/polygon.png",
+      "width": 760,
+      "height": 760,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "990cb617-b069-4ff2-b8a9-726e02a1fd9d",
+        "name": "Default",
+        "image": {
+          "src": "https://static.gametactic.eu/wows/maps/polygon/default.png",
+          "width": 760,
+          "height": 760,
+          "format": "png"
+        },
+        "width": 30000,
+        "height": 30000
       }
     ],
     "game": "wows",

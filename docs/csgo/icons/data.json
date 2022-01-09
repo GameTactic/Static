@@ -285,8 +285,8 @@
     "label": "Warning",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/warning.png",
-      "width": 405,
-      "height": 355,
+      "width": 433,
+      "height": 400,
       "format": "png"
     },
     "permissions": {
@@ -300,8 +300,8 @@
     "caption": "Warning",
     "picture": {
       "src": "https://static.gametactic.eu/common/icons/warning.png",
-      "width": 405,
-      "height": 355,
+      "width": 433,
+      "height": 400,
       "format": "png"
     },
     "isDefault": true,
@@ -310,15 +310,15 @@
       "Counter-Terrorist"
     ],
     "width": 100,
-    "height": 87.65432098765432,
+    "height": 92.37875288683603,
     "useTeamTint": false
   },
   {
     "label": "Marker",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/marker.png",
-      "width": 254,
-      "height": 359,
+      "width": 303,
+      "height": 400,
       "format": "png"
     },
     "permissions": {
@@ -332,8 +332,8 @@
     "caption": "Marker",
     "picture": {
       "src": "https://static.gametactic.eu/common/icons/marker.png",
-      "width": 254,
-      "height": 359,
+      "width": 303,
+      "height": 400,
       "format": "png"
     },
     "isDefault": true,
@@ -341,7 +341,7 @@
       "Terrorist",
       "Counter-Terrorist"
     ],
-    "width": 70.75208913649024,
+    "width": 75.75,
     "height": 100,
     "useTeamTint": false
   },
@@ -349,8 +349,8 @@
     "label": "Skull",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/skull.png",
-      "width": 297,
-      "height": 349,
+      "width": 332,
+      "height": 400,
       "format": "png"
     },
     "permissions": {
@@ -364,8 +364,8 @@
     "caption": "Skull",
     "picture": {
       "src": "https://static.gametactic.eu/common/icons/skull.png",
-      "width": 297,
-      "height": 349,
+      "width": 332,
+      "height": 400,
       "format": "png"
     },
     "isDefault": true,
@@ -373,7 +373,7 @@
       "Terrorist",
       "Counter-Terrorist"
     ],
-    "width": 85.10028653295129,
+    "width": 83,
     "height": 100,
     "useTeamTint": false
   }

@@ -3,8 +3,8 @@
     "label": "Warning",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/warning.png",
-      "width": 405,
-      "height": 355,
+      "width": 433,
+      "height": 400,
       "format": "png"
     },
     "permissions": {
@@ -18,22 +18,22 @@
     "caption": "Warning",
     "picture": {
       "src": "https://static.gametactic.eu/common/icons/warning.png",
-      "width": 405,
-      "height": 355,
+      "width": 433,
+      "height": 400,
       "format": "png"
     },
     "isDefault": true,
     "categories": [],
     "width": 1000,
-    "height": 876.5432098765432,
+    "height": 923.7875288683603,
     "useTeamTint": false
   },
   {
     "label": "Marker",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/marker.png",
-      "width": 254,
-      "height": 359,
+      "width": 303,
+      "height": 400,
       "format": "png"
     },
     "permissions": {
@@ -47,13 +47,13 @@
     "caption": "Marker",
     "picture": {
       "src": "https://static.gametactic.eu/common/icons/marker.png",
-      "width": 254,
-      "height": 359,
+      "width": 303,
+      "height": 400,
       "format": "png"
     },
     "isDefault": true,
     "categories": [],
-    "width": 707.5208913649025,
+    "width": 757.5,
     "height": 1000,
     "useTeamTint": false
   },
@@ -61,8 +61,8 @@
     "label": "Skull",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/skull.png",
-      "width": 297,
-      "height": 349,
+      "width": 332,
+      "height": 400,
       "format": "png"
     },
     "permissions": {
@@ -76,13 +76,13 @@
     "caption": "Skull",
     "picture": {
       "src": "https://static.gametactic.eu/common/icons/skull.png",
-      "width": 297,
-      "height": 349,
+      "width": 332,
+      "height": 400,
       "format": "png"
     },
     "isDefault": true,
     "categories": [],
-    "width": 851.0028653295128,
+    "width": 830,
     "height": 1000,
     "useTeamTint": false
   }

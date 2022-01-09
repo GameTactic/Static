@@ -280,5 +280,101 @@
     "width": 29.652509652509654,
     "height": 64,
     "useTeamTint": false
+  },
+  {
+    "label": "Warning",
+    "icon": {
+      "src": "https://static.gametactic.eu/common/icons/warning.png",
+      "width": 405,
+      "height": 355,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Warning",
+    "picture": {
+      "src": "https://static.gametactic.eu/common/icons/warning.png",
+      "width": 405,
+      "height": 355,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 48,
+    "height": 42.074074074074076,
+    "useTeamTint": false
+  },
+  {
+    "label": "Marker",
+    "icon": {
+      "src": "https://static.gametactic.eu/common/icons/marker.png",
+      "width": 254,
+      "height": 359,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Marker",
+    "picture": {
+      "src": "https://static.gametactic.eu/common/icons/marker.png",
+      "width": 254,
+      "height": 359,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 33.96100278551532,
+    "height": 48,
+    "useTeamTint": false
+  },
+  {
+    "label": "Skull",
+    "icon": {
+      "src": "https://static.gametactic.eu/common/icons/skull.png",
+      "width": 297,
+      "height": 349,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Skull",
+    "picture": {
+      "src": "https://static.gametactic.eu/common/icons/skull.png",
+      "width": 297,
+      "height": 349,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 40.84813753581662,
+    "height": 48,
+    "useTeamTint": false
   }
 ]

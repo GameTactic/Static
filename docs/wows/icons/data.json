@@ -24,8 +24,8 @@
     },
     "isDefault": true,
     "categories": [],
-    "width": 48,
-    "height": 42.074074074074076,
+    "width": 1000,
+    "height": 876.5432098765432,
     "useTeamTint": false
   },
   {
@@ -53,8 +53,8 @@
     },
     "isDefault": true,
     "categories": [],
-    "width": 33.96100278551532,
-    "height": 48,
+    "width": 707.5208913649025,
+    "height": 1000,
     "useTeamTint": false
   },
   {
@@ -82,8 +82,8 @@
     },
     "isDefault": true,
     "categories": [],
-    "width": 40.84813753581662,
-    "height": 48,
+    "width": 851.0028653295128,
+    "height": 1000,
     "useTeamTint": false
   }
 ]

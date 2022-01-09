@@ -430,8 +430,8 @@
       "Attacker",
       "Defender"
     ],
-    "width": 48,
-    "height": 42.074074074074076,
+    "width": 64,
+    "height": 56.098765432098766,
     "useTeamTint": false
   },
   {
@@ -462,8 +462,8 @@
       "Attacker",
       "Defender"
     ],
-    "width": 33.96100278551532,
-    "height": 48,
+    "width": 45.28133704735376,
+    "height": 64,
     "useTeamTint": false
   },
   {
@@ -494,8 +494,8 @@
       "Attacker",
       "Defender"
     ],
-    "width": 40.84813753581662,
-    "height": 48,
+    "width": 54.46418338108882,
+    "height": 64,
     "useTeamTint": false
   }
 ]

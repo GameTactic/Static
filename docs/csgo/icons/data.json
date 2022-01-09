@@ -309,8 +309,8 @@
       "Terrorist",
       "Counter-Terrorist"
     ],
-    "width": 48,
-    "height": 42.074074074074076,
+    "width": 100,
+    "height": 87.65432098765432,
     "useTeamTint": false
   },
   {
@@ -341,8 +341,8 @@
       "Terrorist",
       "Counter-Terrorist"
     ],
-    "width": 33.96100278551532,
-    "height": 48,
+    "width": 70.75208913649024,
+    "height": 100,
     "useTeamTint": false
   },
   {
@@ -373,8 +373,8 @@
       "Terrorist",
       "Counter-Terrorist"
     ],
-    "width": 40.84813753581662,
-    "height": 48,
+    "width": 85.10028653295129,
+    "height": 100,
     "useTeamTint": false
   }
 ]

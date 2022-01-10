@@ -3,17 +3,1920 @@
     "name": "Karelia",
     "description": "Karelia",
     "cover": {
-      "src": "https://static.gametactic.eu/wot/maps/karelia/karelia_plain.png",
+      "src": "https://static.gametactic.eu/wot/maps/karelia/cover.png",
       "width": 512,
       "height": 512,
       "format": "png"
     },
     "views": [
       {
-        "id": "c52dd3bd-5f40-4ac8-9737-959119b68914",
-        "name": "Plain",
+        "id": "cdfa8f4a-57f2-42cb-8bb1-4fd27f9fa52c",
+        "name": "Standard battle",
         "image": {
-          "src": "https://static.gametactic.eu/wot/maps/karelia/plain.png",
+          "src": "https://static.gametactic.eu/wot/maps/karelia/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "6ac5e535-0888-4e41-a6d9-44e878bdf509",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/karelia/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "b3089591-8462-4395-a6be-6cbce9dc78a9",
+        "name": "Assault",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/karelia/assault.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Malinovka",
+    "description": "Malinovka",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/malinovka/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "de211f59-25ba-4949-8f03-84667228960f",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/malinovka/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "0bd88d48-899a-4252-9d06-c8d4935b6800",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/malinovka/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Himmelsdorf",
+    "description": "Himmelsdorf",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "15824b19-cc49-4498-ab1f-536f9054b3b1",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": "6a3f743b-a4f2-49e9-8ff7-84e25dbacadd",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": "e03ec602-a70b-4902-8e42-f19d3c88935e",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Prokhorovka",
+    "description": "Prokhorovka",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/prokhorovka/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "c9dc65fd-8ba1-4670-bc6f-4ac3e89fdd1d",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/prokhorovka/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "60ca79f2-63ab-401d-9a1b-e1bec1b07a3f",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/prokhorovka/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "07a111ef-4b62-4caa-a995-6cd22541c7cb",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/prokhorovka/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Lakeville",
+    "description": "Lakeville",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/lakeville/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "ff91b48d-82b3-4e1c-b961-8e426b3d982a",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/lakeville/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": "875e2a5d-c66c-42f3-be15-4d9d2b637d64",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/lakeville/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": "dc687b52-83f9-43e8-a948-714067a00ba7",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/lakeville/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Ensk",
+    "description": "Ensk",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/ensk/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "2e47366d-1413-4e95-87bd-4711985cb0a6",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ensk/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 600,
+        "height": 600
+      },
+      {
+        "id": "ce436fca-0b88-4ed0-9945-8b6bed80b24b",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ensk/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Murovanka",
+    "description": "Murovanka",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/murovanka/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "1ff80f7a-718b-4589-9c73-2a7212a0d200",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/murovanka/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "8b66b2c4-5929-455e-a878-c4d823214cdb",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/murovanka/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "8ad420a9-bb29-4613-b699-b1267011c9c7",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/murovanka/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Erlenberg",
+    "description": "Erlenberg",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/erlenberg/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "75d70a9b-ccde-493a-b0bf-a715facfaabe",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/erlenberg/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "ccb4d9f9-133e-4a99-90a8-c0cf1df8f498",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/erlenberg/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "46754ca6-a123-4861-be1f-05cedca6c980",
+        "name": "Assault",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/erlenberg/assault.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Mines",
+    "description": "Mines",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/mines/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "d05c0efc-f945-458e-81b1-555b33880810",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/mines/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": "865656e8-1b14-4140-815a-c75960b73d32",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/mines/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": "1d1f7e0f-ea45-4d5f-bd90-91db01a7d0a2",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/mines/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Cliff",
+    "description": "Cliff",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/cliff/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "22fe10cb-0500-4558-8b24-ac287013f30c",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/cliff/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "50b479ee-c93a-4404-9f0e-259a7791232d",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/cliff/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "8f9694c6-61a8-4a5c-9191-a3939177a88d",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/cliff/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Abbey",
+    "description": "Abbey",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/abbey/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "3aa3f6e7-d8f4-46e1-b84a-02903ed01953",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/abbey/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Sand River",
+    "description": "Sand River",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/sand_river/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "85af8a89-9afa-49ea-9212-59d39d1dd220",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/sandriver/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "49aae090-0485-4a14-b599-4cdfcb79e313",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/sandriver/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "a6bbc4bb-5e1c-4cb0-8769-71caf4ed4f78",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/sandriver/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Steppes",
+    "description": "Steppes",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/steppes/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "1e82fb96-726f-4ee0-afba-fc4973d3fac5",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/steppes/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "a3c6676c-81e8-4262-ba0c-ed942693a4fe",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/steppes/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "2b53e203-c143-487b-8802-af6266f657a3",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/steppes/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Mountain Pass",
+    "description": "Mountain Pass",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/mountain_pass/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "16adf87c-fefd-4f65-9731-ef844157bc14",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/mountainpass/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Fjords",
+    "description": "Fjords",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/fjords/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "ea15845c-a215-4dc9-ba44-7d84932231bb",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/fjords/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Redshire",
+    "description": "Redshire",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/redshire/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "73da0d9c-1399-4c5e-972a-761ff16c159f",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/redshire/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "0027173d-a22f-4c92-b5d0-06d3fd37746e",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/redshire/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Fisherman's Bay",
+    "description": "Fisherman's Bay",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/fisherman's_bay/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "5ab67a2f-85bf-40bc-be6c-cf3bbb416378",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/fisherman'sbay/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Mannerheim Line",
+    "description": "Mannerheim Line",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/mannerheim_line/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "7236b8de-a7a5-468f-ac76-e096a7e9c08b",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/mannerheimline/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "31424103-9fe0-4c6c-a2a1-393234631179",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/mannerheimline/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Ruinberg",
+    "description": "Ruinberg",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/ruinberg/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "a131d664-1524-48ea-a66c-46671bd82c03",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ruinberg/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 850,
+        "height": 850
+      },
+      {
+        "id": "2da4dbd6-ddce-4ecf-bc2c-536042db77f0",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ruinberg/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 850,
+        "height": 850
+      },
+      {
+        "id": "188153a4-793e-4000-91dd-1a3aebefd098",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ruinberg/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 850,
+        "height": 850
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Siegfried Line",
+    "description": "Siegfried Line",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/siegfried_line/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "b1202030-3d2d-45ea-a9ca-99f5ee63c39a",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/siegfriedline/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "2426c0a5-8bcb-4e28-93ae-8c74c10e104d",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/siegfriedline/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "eb3884e9-0c77-4065-a60c-f02c7a4905b0",
+        "name": "Assault",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/siegfriedline/assault.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "e0ee013d-7ab6-4166-b692-4be79734526f",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/siegfriedline/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Westfield",
+    "description": "Westfield",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/westfield/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "b4cfbd25-6b4d-4283-a33d-b27834ae5e82",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/westfield/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "e3b868b0-0547-42ce-816e-5a300b0dd557",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/westfield/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "El Halluf",
+    "description": "El Halluf",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/el_halluf/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "3f085649-e543-484d-809f-f06bb470c4b7",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/elhalluf/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "2b633b77-1ed4-446e-9994-a75a2db8628e",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/elhalluf/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Airfield",
+    "description": "Airfield",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/airfield/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "865c2d2a-cc28-40bb-83f9-c08726167685",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/airfield/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Widepark",
+    "description": "Widepark",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/widepark/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "1844a4e4-3145-4a05-84ba-b4affcec2a43",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/widepark/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Live Oaks",
+    "description": "Live Oaks",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/live_oaks/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "245e33ce-d91e-4137-b0a8-d4943f24a46f",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/liveoaks/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Highway",
+    "description": "Highway",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/highway/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "2d09da2a-5ef4-4333-98ed-f1d992106aa3",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/highway/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Serene Coast",
+    "description": "Serene Coast",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/serene_coast/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "292eef5b-e686-4b2b-897f-55a1d3de77e2",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/serenecoast/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Empire's Border",
+    "description": "Empire's Border",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/empire's_border/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "4371ab9a-bbc0-485c-b06b-03f0f827536d",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/empire'sborder/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Tundra",
+    "description": "Tundra",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/tundra/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "f5f7a956-b984-4566-80a5-d2e7c2dae3c3",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/tundra/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      },
+      {
+        "id": "29b9188d-d8f2-4d23-b2e2-0e59d73c5aa9",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/tundra/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Pearl River",
+    "description": "Pearl River",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/pearl_river/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "557dae3d-2d35-46d6-9019-7ce210083d1f",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/pearlriver/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "9635a5e3-1a90-4b2c-bf2f-b782ef432cee",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/pearlriver/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Overlord",
+    "description": "Overlord",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/overlord/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "128bbe15-74fd-4140-858b-9ce773bf4c47",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/overlord/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Pilsen",
+    "description": "Pilsen",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/pilsen/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "b4f0df35-eb49-4924-b1dd-1af82e84d2a8",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/pilsen/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "6e554271-3bb5-42eb-878e-60158a443075",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/pilsen/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Paris",
+    "description": "Paris",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/paris/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "87f56a10-5fc5-4cd5-80cd-27e535e88313",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/paris/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Glacier",
+    "description": "Glacier",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/glacier/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "f7279460-1c1d-41c7-b539-7b6bc0b7c894",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/glacier/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Province",
+    "description": "Province",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/province/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "30b5adde-f1e6-4463-b2f8-2ba1ebdebc8d",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/province/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 850,
+        "height": 850
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Studzianki",
+    "description": "Studzianki",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/studzianki/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "bda6e55d-29d5-4406-bc5f-8ef8a37e521d",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/studzianki/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "810a0c09-d339-4a57-a638-6bab1cfed01a",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/studzianki/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Dreamland",
+    "description": "Dreamland",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/dreamland/cover.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "b845030d-5bcd-4b3f-a285-67647bc3678f",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/dreamland/standardbattle.png",
+          "width": 1024,
+          "height": 1024,
+          "format": "png"
+        },
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Ghost Town",
+    "description": "Ghost Town",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/ghost_town/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "08ad3207-4c4f-42c1-b82b-aaf48ec778d0",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ghosttown/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "d92e4f5f-0ab3-4ad3-a405-410bb5202ffe",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ghosttown/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "30f4acb4-47fc-46e6-8750-314d1a3ae850",
+        "name": "Assault",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ghosttown/assault.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "id": "1acc6173-b9f3-422e-a566-d7ecffb1401e",
+        "name": "Attack / Defense",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/ghosttown/attack/defense.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Kharkov",
+    "description": "Kharkov",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/kharkov/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "6147b966-7ed9-4781-8169-51666239ae89",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/kharkov/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Berlin",
+    "description": "Berlin",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/berlin/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "aacc2193-cf18-4400-9ded-313d7f84a7ce",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/berlin/standardbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1050,
+        "height": 1050
+      },
+      {
+        "id": "07dfefb6-9ef1-40a7-b589-96133a808871",
+        "name": "Encounter battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/berlin/encounterbattle.png",
+          "width": 512,
+          "height": 512,
+          "format": "png"
+        },
+        "width": 1050,
+        "height": 1050
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Arzagir 4.04",
+    "description": "Arzagir 4.04",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/arzagir_4.04/cover.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "fa458783-c97d-41ec-9627-2c570437aa58",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/arzagir4.04/standardbattle.png",
+          "width": 1024,
+          "height": 1024,
+          "format": "png"
+        },
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "game": "wot",
+    "teamConstructors": [
+      {
+        "name": "Allied",
+        "color": 7193090
+      },
+      {
+        "name": "Enemy",
+        "color": 16586761
+      }
+    ]
+  },
+  {
+    "name": "Safe Haven",
+    "description": "Safe Haven",
+    "cover": {
+      "src": "https://static.gametactic.eu/wot/maps/safe_haven/cover.png",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    "views": [
+      {
+        "id": "0ee54f0a-2874-4043-a448-a89eda67f89a",
+        "name": "Standard battle",
+        "image": {
+          "src": "https://static.gametactic.eu/wot/maps/safehaven/standardbattle.png",
           "width": 512,
           "height": 512,
           "format": "png"

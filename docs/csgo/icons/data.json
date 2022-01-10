@@ -152,7 +152,17 @@
     },
     "temporary": false,
     "type": "ICON",
-    "plugins": [],
+    "plugins": [
+      {
+        "name": "range",
+        "radius": 400,
+        "borderFill": 0,
+        "borderOpacity": 0,
+        "fill": 15021611,
+        "fillOpacity": 0.1,
+        "enabled": true
+      }
+    ],
     "caption": "C4 Explosive",
     "picture": {
       "src": "https://static.gametactic.eu/csgo/icons/terrorist/c4explosive.png",

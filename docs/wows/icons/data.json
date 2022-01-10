@@ -1,5 +1,160 @@
 [
   {
+    "label": "Cap A",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_a.png",
+      "width": 217,
+      "height": 217,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Cap A",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_a.png",
+      "width": 217,
+      "height": 217,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [],
+    "width": 1800,
+    "height": 1800,
+    "useTeamTint": false
+  },
+  {
+    "label": "Cap B",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_b.png",
+      "width": 218,
+      "height": 217,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Cap B",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_b.png",
+      "width": 218,
+      "height": 217,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [],
+    "width": 1800,
+    "height": 1791.7431192660551,
+    "useTeamTint": false
+  },
+  {
+    "label": "Cap C",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_c.png",
+      "width": 217,
+      "height": 217,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Cap C",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_c.png",
+      "width": 217,
+      "height": 217,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [],
+    "width": 1800,
+    "height": 1800,
+    "useTeamTint": false
+  },
+  {
+    "label": "Cap C",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_c.png",
+      "width": 217,
+      "height": 217,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [],
+    "caption": "Cap C",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/icons/cap_c.png",
+      "width": 217,
+      "height": 217,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [],
+    "width": 1000,
+    "height": 1000,
+    "useTeamTint": false
+  },
+  {
+    "label": "Smoke",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/icons/smoke.png",
+      "width": 226,
+      "height": 204,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ICON",
+    "plugins": [
+      {
+        "name": "range",
+        "radius": 1000,
+        "borderFill": 16777215,
+        "borderOpacity": 0.5,
+        "fill": 0,
+        "fillOpacity": 0.15,
+        "enabled": true
+      }
+    ],
+    "caption": "Smoke",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/icons/smoke.png",
+      "width": 226,
+      "height": 204,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [],
+    "width": 700,
+    "height": 631.858407079646,
+    "useTeamTint": false
+  },
+  {
     "label": "Warning",
     "icon": {
       "src": "https://static.gametactic.eu/common/icons/warning.png",

@@ -1,10 +1,10 @@
 [
   {
-    "label": "Player",
+    "label": "Terrorist",
     "icon": {
-      "src": "https://static.gametactic.eu/csgo/entities/player.png",
-      "width": 184,
-      "height": 215,
+      "src": "https://static.gametactic.eu/csgo/entities/terrorist.png",
+      "width": 219,
+      "height": 256,
       "format": "png"
     },
     "permissions": {
@@ -15,11 +15,73 @@
     "temporary": false,
     "type": "ENTITY",
     "plugins": [],
-    "caption": "Player",
+    "caption": "Terrorist",
     "picture": {
-      "src": "https://static.gametactic.eu/csgo/entities/player.png",
-      "width": 184,
-      "height": 215,
+      "src": "https://static.gametactic.eu/csgo/entities/terrorist.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist"
+    ],
+    "width": 85.546875,
+    "height": 100,
+    "useTeamTint": false
+  },
+  {
+    "label": "Counter-Terrorist",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/entities/counter-terrorist.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Counter-Terrorist",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/entities/counter-terrorist.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Counter-Terrorist"
+    ],
+    "width": 85.546875,
+    "height": 100,
+    "useTeamTint": false
+  },
+  {
+    "label": "Yellow",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/entities/yellow.png",
+      "width": 218,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Yellow",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/entities/yellow.png",
+      "width": 218,
+      "height": 256,
       "format": "png"
     },
     "isDefault": false,
@@ -27,8 +89,136 @@
       "Terrorist",
       "Counter-Terrorist"
     ],
-    "width": 85.5813953488372,
+    "width": 85.15625,
     "height": 100,
-    "useTeamTint": true
+    "useTeamTint": false
+  },
+  {
+    "label": "Blue",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/entities/blue.png",
+      "width": 218,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Blue",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/entities/blue.png",
+      "width": 218,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 85.15625,
+    "height": 100,
+    "useTeamTint": false
+  },
+  {
+    "label": "Green",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/entities/green.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Green",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/entities/green.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 85.546875,
+    "height": 100,
+    "useTeamTint": false
+  },
+  {
+    "label": "Purple",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/entities/purple.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Purple",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/entities/purple.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 85.546875,
+    "height": 100,
+    "useTeamTint": false
+  },
+  {
+    "label": "Orange",
+    "icon": {
+      "src": "https://static.gametactic.eu/csgo/entities/orange.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Orange",
+    "picture": {
+      "src": "https://static.gametactic.eu/csgo/entities/orange.png",
+      "width": 219,
+      "height": 256,
+      "format": "png"
+    },
+    "isDefault": false,
+    "categories": [
+      "Terrorist",
+      "Counter-Terrorist"
+    ],
+    "width": 85.546875,
+    "height": 100,
+    "useTeamTint": false
   }
 ]

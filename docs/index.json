@@ -39,7 +39,8 @@
           "Battleship",
           "Cruiser",
           "Destroyer",
-          "Submarine"
+          "Submarine",
+          "Plane"
         ],
         "map": [],
         "icon": []

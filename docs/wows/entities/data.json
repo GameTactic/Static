@@ -155,6 +155,99 @@
     "useTeamTint": true
   },
   {
+    "label": "Torpedo Bombers",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/planes/torpedo_bombers.png",
+      "width": 57,
+      "height": 81,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Torpedo Bombers",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/planes/torpedo_bombers.png",
+      "width": 57,
+      "height": 81,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Plane"
+    ],
+    "width": 492.5925925925926,
+    "height": 700,
+    "useTeamTint": true
+  },
+  {
+    "label": "Bombers",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/planes/bombers.png",
+      "width": 72,
+      "height": 80,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Bombers",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/planes/bombers.png",
+      "width": 72,
+      "height": 80,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Plane"
+    ],
+    "width": 630,
+    "height": 700,
+    "useTeamTint": true
+  },
+  {
+    "label": "Fighter",
+    "icon": {
+      "src": "https://static.gametactic.eu/wows/entities/planes/fighter.png",
+      "width": 79,
+      "height": 79,
+      "format": "png"
+    },
+    "permissions": {
+      "scale": true,
+      "skew": true,
+      "rotate": true
+    },
+    "temporary": false,
+    "type": "ENTITY",
+    "plugins": [],
+    "caption": "Fighter",
+    "picture": {
+      "src": "https://static.gametactic.eu/wows/entities/planes/fighter.png",
+      "width": 79,
+      "height": 79,
+      "format": "png"
+    },
+    "isDefault": true,
+    "categories": [
+      "Plane"
+    ],
+    "width": 700,
+    "height": 700,
+    "useTeamTint": true
+  },
+  {
     "label": "Lappland",
     "icon": {
       "src": "https://static.gametactic.eu/wows/entities/destroyer/destroyer.png",

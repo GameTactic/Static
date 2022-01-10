@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "320a24c9-1675-4ead-bb29-dacf38215d06",
+        "id": "1db7694e-c3d9-4005-83df-e95d78295736",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/ocean/default.png",
@@ -45,7 +45,7 @@
     },
     "views": [
       {
-        "id": "4989d24c-ddc7-4f59-8482-97493a4eb9ae",
+        "id": "148a0313-ff05-49e4-aeb7-5a4a4282d741",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/solomonislands/default.png",
@@ -80,7 +80,7 @@
     },
     "views": [
       {
-        "id": "71865817-e00d-4130-9244-e6fc04b1b05e",
+        "id": "22aaafa8-a3ab-4723-8d9e-f1ffe1306228",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/archipelago/default.png",
@@ -115,7 +115,7 @@
     },
     "views": [
       {
-        "id": "acc783cf-1519-4372-8498-e26a244507d6",
+        "id": "be4881c7-fdf3-4d94-bfcd-e85b5d3f2210",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/ring/default.png",
@@ -150,7 +150,7 @@
     },
     "views": [
       {
-        "id": "f8b883c1-f177-4ea7-b543-abf5015fe535",
+        "id": "d065bbf0-db7f-4e27-b1b6-b37235d24acf",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/strait/default.png",
@@ -185,7 +185,7 @@
     },
     "views": [
       {
-        "id": "b72b7bf1-dc69-46f2-9fcd-8ca51ad233e0",
+        "id": "672d2195-96f9-481e-8be7-08acfec33988",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/bigrace/default.png",
@@ -220,7 +220,7 @@
     },
     "views": [
       {
-        "id": "3163da8d-3173-474b-a69d-4b0d6d60577c",
+        "id": "d35cd274-92b1-4469-b50a-43a151b957e9",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/newdawn/default.png",
@@ -255,7 +255,7 @@
     },
     "views": [
       {
-        "id": "1facc52f-85ba-464d-b763-53d43b020712",
+        "id": "e1676f99-4b1f-4a1f-b8c7-f01e2ad615a2",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/theatlantic/default.png",
@@ -290,7 +290,7 @@
     },
     "views": [
       {
-        "id": "c178a086-8f68-400c-9190-6be824de91f5",
+        "id": "299480e1-6c22-4165-9d04-08bd27cd3222",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/north/default.png",
@@ -325,7 +325,7 @@
     },
     "views": [
       {
-        "id": "3cf7c2f5-d8e4-4306-a031-ed28e1744509",
+        "id": "1231f4ff-4c6e-420e-b976-6bc9e5cc1899",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/hotspot/default.png",
@@ -360,7 +360,7 @@
     },
     "views": [
       {
-        "id": "6c637b77-e1e2-4a79-ad11-23693c51aa9a",
+        "id": "162e5378-28dd-4409-a5e4-ed4d7ac0cda3",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/faultline/default.png",
@@ -395,7 +395,7 @@
     },
     "views": [
       {
-        "id": "d88d4377-fced-4059-822e-7f71ce0cb3b8",
+        "id": "c51733e1-9776-4ddd-aaaf-2478efcad3c1",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/islandsof ice/default.png",
@@ -430,7 +430,7 @@
     },
     "views": [
       {
-        "id": "894aace9-0bc3-4696-9665-cfa117ec3063",
+        "id": "d6f6ec52-98b5-499a-b778-0702e71a378e",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/trap/default.png",
@@ -465,7 +465,7 @@
     },
     "views": [
       {
-        "id": "71d38b8b-9ab8-4644-8826-b3737c333833",
+        "id": "c66c59fe-2e1d-4a2c-98ba-9433a354ef35",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/twobrothers/default.png",
@@ -500,7 +500,7 @@
     },
     "views": [
       {
-        "id": "0b916a7b-aa42-4386-953d-e9a8db60f5df",
+        "id": "3d3714d5-35d8-443b-a142-deaf44027b7b",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/landof fire/default.png",
@@ -535,7 +535,7 @@
     },
     "views": [
       {
-        "id": "fb25bfdb-3a40-4fe4-8cb2-065ec1abf560",
+        "id": "cf3c51bc-ec02-4735-97aa-93993a7c2cff",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/shards/default.png",
@@ -570,7 +570,7 @@
     },
     "views": [
       {
-        "id": "ef70f901-0a91-4f6f-a522-ee8a76f359c1",
+        "id": "1bb1d8e0-2c6c-4c8f-b1e2-9297293b2ee2",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/seaof fortune/default.png",
@@ -605,7 +605,7 @@
     },
     "views": [
       {
-        "id": "2f07d422-9073-49d0-b384-b0fca030ebda",
+        "id": "611b6a95-b659-49b2-aff7-8050b7c46897",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/tearsof the desert/default.png",
@@ -640,7 +640,7 @@
     },
     "views": [
       {
-        "id": "79a82fb8-6964-428d-8d09-9d725cbf277c",
+        "id": "37c7b023-6ba9-48be-8dcf-38fb9cb6fed5",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/polar/default.png",
@@ -675,7 +675,7 @@
     },
     "views": [
       {
-        "id": "2a330453-8570-4c4d-839a-a5ef2ce52ba7",
+        "id": "f48700a2-f4ba-4b0c-b694-02b1d314caa2",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/islands/default.png",
@@ -710,7 +710,7 @@
     },
     "views": [
       {
-        "id": "e33a7dbb-cd3c-4fa3-bd90-63a42556ba9b",
+        "id": "a4f04f36-4a1f-4f3b-9186-0373d399a3ce",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/northernlights/default.png",
@@ -745,7 +745,7 @@
     },
     "views": [
       {
-        "id": "327d9510-c413-40e8-9177-18618ecbd1cc",
+        "id": "8181f559-bbe9-4ee8-9772-91bc0a46c596",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/mountainrange/default.png",
@@ -780,7 +780,7 @@
     },
     "views": [
       {
-        "id": "9592a110-0d49-4151-9ff4-bf207b80aab7",
+        "id": "a7bcb32f-de5b-4a8d-a25e-04dfa42e3e8a",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/shatter/default.png",
@@ -815,7 +815,7 @@
     },
     "views": [
       {
-        "id": "2475a113-dd20-4d27-a2ea-b5d9a34dadb0",
+        "id": "307994e9-5768-4fd4-ab04-2a00a874852a",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/okinawa/default.png",
@@ -850,7 +850,7 @@
     },
     "views": [
       {
-        "id": "d0cabd74-5ec4-4cba-b423-6ec9d85782ca",
+        "id": "d7e5d19e-9d98-469c-9e62-00f5fa580d90",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/trident/default.png",
@@ -885,7 +885,7 @@
     },
     "views": [
       {
-        "id": "17c0e258-a858-43ed-a8aa-1cc274063c45",
+        "id": "9ae49181-daff-4028-a6ad-3022f327e3d5",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/neighbors/default.png",
@@ -920,7 +920,7 @@
     },
     "views": [
       {
-        "id": "e8daf92c-4e4a-4794-82c2-3c34213913b9",
+        "id": "5a22412d-709b-446f-99ed-d40ac98285c6",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/warrior'spath/default.png",
@@ -955,7 +955,7 @@
     },
     "views": [
       {
-        "id": "f7a9311d-3f00-4d2a-b0ca-ac05b5a70940",
+        "id": "3621c694-1b64-4e9d-812e-0e0eabd3bc98",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/loop/default.png",
@@ -990,7 +990,7 @@
     },
     "views": [
       {
-        "id": "d8b72633-df85-4305-b8c6-8aaac696b7dd",
+        "id": "42644b72-1c9a-4020-b314-db4448495d77",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/estuary/default.png",
@@ -1025,7 +1025,7 @@
     },
     "views": [
       {
-        "id": "70fbf599-2008-428f-ace5-bba140de7e00",
+        "id": "f6270307-4582-4029-9c1a-9bd41490d1e7",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/sleepinggiant/default.png",
@@ -1060,7 +1060,7 @@
     },
     "views": [
       {
-        "id": "4c292f8d-b769-4733-8aa6-0b7b882e93f3",
+        "id": "528f88ae-0b9b-4be9-ae4a-90ae3391b1c7",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/haven/default.png",
@@ -1095,7 +1095,7 @@
     },
     "views": [
       {
-        "id": "3a6c7de6-2605-4d2c-b82e-995c08aa5cc1",
+        "id": "957f68d6-b9fa-44b8-b108-51af1e121f38",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/greece/default.png",
@@ -1130,7 +1130,7 @@
     },
     "views": [
       {
-        "id": "084cf0de-8166-46ef-b0bd-6b81b1c67b13",
+        "id": "39a26309-7f2a-4b04-88c6-349bb0f1fe04",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/crashzone alpha/default.png",
@@ -1165,7 +1165,7 @@
     },
     "views": [
       {
-        "id": "21a26fa0-d3db-44ca-8baa-919b1e12dcb3",
+        "id": "387dab28-71c1-428c-ba71-38b809b684ea",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/northernwaters/default.png",
@@ -1200,7 +1200,7 @@
     },
     "views": [
       {
-        "id": "b96a99ac-db1c-47da-bf0f-81b7ca99bb39",
+        "id": "6554e012-2234-482d-bddc-dd950e08ae13",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/riposte/default.png",
@@ -1235,7 +1235,7 @@
     },
     "views": [
       {
-        "id": "9a7742e4-cf2a-4e21-a866-9ee31d73703f",
+        "id": "adda844d-1f12-46be-bfbb-abbda6a55588",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/killerwhale/default.png",
@@ -1270,7 +1270,7 @@
     },
     "views": [
       {
-        "id": "89fa8c34-0d9a-4efa-91b5-4e9cf5538f2b",
+        "id": "f2e0dea8-6f7b-4892-b787-0f052456e56e",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/navalstation newport/default.png",
@@ -1305,7 +1305,7 @@
     },
     "views": [
       {
-        "id": "6682622b-4e74-46a6-a515-235738d6c3bd",
+        "id": "09e725db-79e0-4e74-abb7-5934bd83aa5f",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/labyrinth /default.png",
@@ -1340,7 +1340,7 @@
     },
     "views": [
       {
-        "id": "ef83ba21-d1ea-446b-96fc-3e610ca4624e",
+        "id": "83ac647f-f963-4b77-a0cb-404ebbfa781c",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/dunkirk/default.png",
@@ -1375,7 +1375,7 @@
     },
     "views": [
       {
-        "id": "a1a4938c-0f43-4bc5-9841-ca891f0939d5",
+        "id": "765c0cf4-a6df-4ac3-a923-91bdd4dc7027",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/rouenatoll/default.png",
@@ -1410,7 +1410,7 @@
     },
     "views": [
       {
-        "id": "c7cd850f-8e6a-4dbd-ae62-78ca27a7ec14",
+        "id": "2012f41f-fc87-4154-b43b-681d33af218b",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/sundaislands/default.png",
@@ -1445,7 +1445,7 @@
     },
     "views": [
       {
-        "id": "dc0224e9-0b84-4f22-b9b4-703766ab550e",
+        "id": "77eb9838-d1a1-47a1-9896-ec8c1703b645",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/hermes/default.png",
@@ -1480,7 +1480,7 @@
     },
     "views": [
       {
-        "id": "6c584580-52e0-467d-824e-a235a07df57b",
+        "id": "3254e2eb-bc5a-40cf-b776-7b79790a79d6",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/empressaugusta bay/default.png",
@@ -1515,7 +1515,7 @@
     },
     "views": [
       {
-        "id": "d4b56c0c-d879-47b6-8df2-7b9878845fee",
+        "id": "f7b0bd19-deab-44fd-9630-556c08a28f38",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/savingtransylvania/default.png",
@@ -1550,7 +1550,7 @@
     },
     "views": [
       {
-        "id": "c85e5a31-87cf-4144-a7e0-cd92b33c1523",
+        "id": "2211ab60-3a10-48ca-b0c9-b5e5428884c7",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/sunrayin the darkness/default.png",
@@ -1585,7 +1585,7 @@
     },
     "views": [
       {
-        "id": "61aa69c7-8e57-48db-af36-2ccefe6cb01d",
+        "id": "ba8273c6-5c08-4004-b581-4f4ffeb6b1af",
         "name": "Default",
         "image": {
           "src": "https://static.gametactic.eu/wows/maps/polygon/default.png",

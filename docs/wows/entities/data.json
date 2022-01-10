@@ -181,8 +181,8 @@
     "categories": [
       "Plane"
     ],
-    "width": 492.5925925925926,
-    "height": 700,
+    "width": 422.22222222222223,
+    "height": 600,
     "useTeamTint": true
   },
   {
@@ -212,8 +212,8 @@
     "categories": [
       "Plane"
     ],
-    "width": 630,
-    "height": 700,
+    "width": 540,
+    "height": 600,
     "useTeamTint": true
   },
   {
@@ -243,8 +243,8 @@
     "categories": [
       "Plane"
     ],
-    "width": 700,
-    "height": 700,
+    "width": 600,
+    "height": 600,
     "useTeamTint": true
   },
   {

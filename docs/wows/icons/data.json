@@ -87,35 +87,6 @@
     "useTeamTint": false
   },
   {
-    "label": "Cap C",
-    "icon": {
-      "src": "https://static.gametactic.eu/wows/icons/cap_c.png",
-      "width": 217,
-      "height": 217,
-      "format": "png"
-    },
-    "permissions": {
-      "scale": true,
-      "skew": true,
-      "rotate": true
-    },
-    "temporary": false,
-    "type": "ICON",
-    "plugins": [],
-    "caption": "Cap C",
-    "picture": {
-      "src": "https://static.gametactic.eu/wows/icons/cap_c.png",
-      "width": 217,
-      "height": 217,
-      "format": "png"
-    },
-    "isDefault": false,
-    "categories": [],
-    "width": 1000,
-    "height": 1000,
-    "useTeamTint": false
-  },
-  {
     "label": "Smoke",
     "icon": {
       "src": "https://static.gametactic.eu/wows/icons/smoke.png",

@@ -10,7 +10,7 @@
     },
     "views": [
       {
-        "id": "029555fd-e910-45e2-9c5b-c497c4ef0b8f",
+        "id": "6bf3007c-d2b7-451c-8cc0-c2b767f88648",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/karelia/standardbattle.png",
@@ -22,7 +22,7 @@
         "height": 1000
       },
       {
-        "id": "564ba94e-1a1e-4cc3-a85d-a2816e2cea57",
+        "id": "7901e5a8-337d-4fe4-8ece-9b79f7bbe806",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/karelia/encounterbattle.png",
@@ -34,7 +34,7 @@
         "height": 1000
       },
       {
-        "id": "b68a81b0-9516-49a8-a53c-425e9e28c7a3",
+        "id": "79d83848-4908-4e3d-b4d8-6d74de2d73b9",
         "name": "Assault",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/karelia/assault.png",
@@ -69,7 +69,7 @@
     },
     "views": [
       {
-        "id": "d9572a30-fdcf-4a97-98be-e563fb835436",
+        "id": "9fd072d9-2fe7-452c-a191-f77d18aa3c6e",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/malinovka/standardbattle.png",
@@ -81,7 +81,7 @@
         "height": 1000
       },
       {
-        "id": "d446bc3f-d083-4557-92b3-dbf4ec4eede7",
+        "id": "fc56f9bd-20a5-4ec6-a741-211e6a0f618f",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/malinovka/encounterbattle.png",
@@ -116,7 +116,7 @@
     },
     "views": [
       {
-        "id": "8366965f-f959-46e0-8ad7-fb6a571fadb7",
+        "id": "fdff5bf7-d9bf-4d8f-a937-5dd45793088e",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/standardbattle.png",
@@ -128,7 +128,7 @@
         "height": 700
       },
       {
-        "id": "8a885f48-0583-46c1-9afe-321761cb544a",
+        "id": "8d4cd7f2-11dd-4d77-8923-d416a7776340",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/encounterbattle.png",
@@ -140,7 +140,7 @@
         "height": 700
       },
       {
-        "id": "81d61108-997e-42e3-a39b-566989d2440d",
+        "id": "28b5115f-e2e2-4dad-bf64-bb03b6d7cbc5",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/himmelsdorf/attack/defense.png",
@@ -175,7 +175,7 @@
     },
     "views": [
       {
-        "id": "db1f9d58-9e83-4624-967e-460e681d8c49",
+        "id": "2862883e-b518-4648-b548-02c842be015f",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/prokhorovka/standardbattle.png",
@@ -187,7 +187,7 @@
         "height": 1000
       },
       {
-        "id": "2c23b99d-f261-4c42-b6b0-d15139df5731",
+        "id": "31c8390b-74b1-42fb-8045-a761799e066f",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/prokhorovka/encounterbattle.png",
@@ -199,7 +199,7 @@
         "height": 1000
       },
       {
-        "id": "1b9cb8e0-13a5-4a05-8ce6-bfbe938cbc42",
+        "id": "8078270b-6610-49cc-896d-7c958008d50f",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/prokhorovka/attack/defense.png",
@@ -234,7 +234,7 @@
     },
     "views": [
       {
-        "id": "333b534c-51a0-4566-88e4-fc5eb900881e",
+        "id": "ee01fd30-89ac-4ec8-a62e-2d9b84079c86",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/lakeville/standardbattle.png",
@@ -246,7 +246,7 @@
         "height": 800
       },
       {
-        "id": "09a3f383-0da5-4b7d-bdf5-ac30c9486400",
+        "id": "88486ebe-35e2-4a82-b2ff-fcb4e576fc43",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/lakeville/encounterbattle.png",
@@ -258,7 +258,7 @@
         "height": 800
       },
       {
-        "id": "1405000f-b292-4034-ad31-bc11d9ec6dac",
+        "id": "ad7df36f-6f7d-496a-8ef3-ac1bd975db7b",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/lakeville/attack/defense.png",
@@ -293,7 +293,7 @@
     },
     "views": [
       {
-        "id": "0ee26d3f-5541-49a5-a4a6-096af2c55363",
+        "id": "7897fa05-411c-4e87-a5ca-4092f0111b9e",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ensk/standardbattle.png",
@@ -305,7 +305,7 @@
         "height": 600
       },
       {
-        "id": "ed90c7b3-9b6a-43d5-9cda-fae15432d0aa",
+        "id": "4794b5af-ba37-49c0-b2ce-0f8ee1438d04",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ensk/encounterbattle.png",
@@ -340,7 +340,7 @@
     },
     "views": [
       {
-        "id": "2c50db93-cb04-40b9-baec-e0ed5c9a9b39",
+        "id": "5a63a59c-a6ac-4219-b41f-d8c9a84ac4e0",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/murovanka/standardbattle.png",
@@ -352,7 +352,7 @@
         "height": 1000
       },
       {
-        "id": "75ded193-85da-4fd8-80c4-4384eafe7772",
+        "id": "5bb8aa5f-34ab-4d3c-9680-f462e76bc11a",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/murovanka/encounterbattle.png",
@@ -364,7 +364,7 @@
         "height": 1000
       },
       {
-        "id": "7beef5b6-a110-4eb7-aee4-0722a68a73f3",
+        "id": "e99b2f95-93ac-4ee9-9503-267164645d3b",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/murovanka/attack/defense.png",
@@ -399,7 +399,7 @@
     },
     "views": [
       {
-        "id": "f35f6b72-3abe-4c69-a4c4-b6b726b9df46",
+        "id": "82731433-7b25-468d-9717-4fc2fa0633ab",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/erlenberg/standardbattle.png",
@@ -411,7 +411,7 @@
         "height": 1000
       },
       {
-        "id": "53cab470-bbf3-43d2-b7cc-d63fde2feba7",
+        "id": "f95a3fc7-9b58-4e4f-ac9b-0673865dfffa",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/erlenberg/encounterbattle.png",
@@ -423,7 +423,7 @@
         "height": 1000
       },
       {
-        "id": "5ce8226b-c2c5-4d18-b549-7b83a3dfad62",
+        "id": "e00635d3-f564-455f-b83d-80fae9d62c18",
         "name": "Assault",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/erlenberg/assault.png",
@@ -458,7 +458,7 @@
     },
     "views": [
       {
-        "id": "d9d08f65-b6f7-4f6c-a713-8206429de0e9",
+        "id": "3834a89b-dd50-4e2d-9a87-252dbd163dc2",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/mines/standardbattle.png",
@@ -470,7 +470,7 @@
         "height": 800
       },
       {
-        "id": "f2e6edf4-4880-436d-8c9d-8d0a1e34dd64",
+        "id": "caa0250a-a049-42bb-8434-634a5c841ad7",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/mines/encounterbattle.png",
@@ -482,7 +482,7 @@
         "height": 800
       },
       {
-        "id": "ec37586d-93d2-47d2-8ad7-67c141ccf5e0",
+        "id": "4712b30d-b46b-42cf-b69e-1881c0436374",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/mines/attack/defense.png",
@@ -517,7 +517,7 @@
     },
     "views": [
       {
-        "id": "3087dc26-18c7-4d70-8ae2-47cc77775461",
+        "id": "30c9b741-8e43-423c-97b5-64c3a385f305",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/cliff/standardbattle.png",
@@ -529,7 +529,7 @@
         "height": 1000
       },
       {
-        "id": "92d32878-b8ae-40e8-a411-ee1b9c4a8c3a",
+        "id": "4ce8e605-c4d6-4348-b71d-8a3a37152799",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/cliff/encounterbattle.png",
@@ -541,7 +541,7 @@
         "height": 1000
       },
       {
-        "id": "c4259ee3-1f41-42cc-b957-6b2dc31d6d77",
+        "id": "b1351c73-2cd8-40db-8849-64cd66c05e49",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/cliff/attack/defense.png",
@@ -576,7 +576,7 @@
     },
     "views": [
       {
-        "id": "8ebb76e5-4139-48c6-89b7-d02835132e56",
+        "id": "2e457dbf-c0fd-415a-8c59-239ace7daee0",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/abbey/standardbattle.png",
@@ -611,7 +611,7 @@
     },
     "views": [
       {
-        "id": "77ec122c-e448-465c-9b3e-db2e46bcb53c",
+        "id": "bc727def-013d-47f7-a8e6-624ffe9b7a35",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/sandriver/standardbattle.png",
@@ -623,7 +623,7 @@
         "height": 1000
       },
       {
-        "id": "2aca19dc-4dcd-4fd6-948c-9e9c237f0d81",
+        "id": "ce2c73fe-2e98-48f3-8fc3-1f4cbed6d9e7",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/sandriver/encounterbattle.png",
@@ -635,7 +635,7 @@
         "height": 1000
       },
       {
-        "id": "0d08187a-4194-4193-8954-e6b89e372473",
+        "id": "d270e62e-79e3-42fc-ba64-313cd6155f52",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/sandriver/attack/defense.png",
@@ -670,7 +670,7 @@
     },
     "views": [
       {
-        "id": "e268feba-c67a-451d-8a10-662d7722fe51",
+        "id": "a5696138-0135-47ad-ad54-c0281546c411",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/steppes/standardbattle.png",
@@ -682,7 +682,7 @@
         "height": 1000
       },
       {
-        "id": "9e6746fe-2541-43cd-a8fe-687cb672c530",
+        "id": "ab54965b-44d3-415f-a8e0-5f4b26f03355",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/steppes/encounterbattle.png",
@@ -694,7 +694,7 @@
         "height": 1000
       },
       {
-        "id": "95d366b9-9d5c-46c6-84d0-dba9188a04ff",
+        "id": "6fee0675-c8e0-4fea-825a-729796f086ac",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/steppes/attack/defense.png",
@@ -729,7 +729,7 @@
     },
     "views": [
       {
-        "id": "0423cb96-066f-4fd5-afd1-aa4770ce866e",
+        "id": "3e7930f7-5854-4748-b291-2058f16a1211",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/mountainpass/standardbattle.png",
@@ -764,7 +764,7 @@
     },
     "views": [
       {
-        "id": "4b2e6e14-46c6-4ac5-b509-5390b544770e",
+        "id": "43bc5134-7705-4d4a-b686-b61403c7eb9f",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/fjords/standardbattle.png",
@@ -799,7 +799,7 @@
     },
     "views": [
       {
-        "id": "c05ff61d-d429-4247-b56f-8fdbff63ee0a",
+        "id": "b9398697-3f45-4000-a08a-a2b9a945c554",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/redshire/standardbattle.png",
@@ -811,7 +811,7 @@
         "height": 1000
       },
       {
-        "id": "2ca9fa0c-4ace-46b9-a096-74861c0ad012",
+        "id": "97e210c4-9eb2-4cc9-9e85-6f5ea2e0cdd8",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/redshire/encounterbattle.png",
@@ -846,7 +846,7 @@
     },
     "views": [
       {
-        "id": "cd4aeece-35c1-42d7-aa23-bb4beb9055e3",
+        "id": "ac4b64f2-51f8-4f99-bd15-9915330c858b",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/fisherman'sbay/standardbattle.png",
@@ -881,7 +881,7 @@
     },
     "views": [
       {
-        "id": "a3ee8689-eb7b-4b9c-9542-eeaa52c53691",
+        "id": "4728f42d-dec5-4a07-a2aa-446436796cce",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/mannerheimline/standardbattle.png",
@@ -893,7 +893,7 @@
         "height": 1000
       },
       {
-        "id": "7afe1272-159c-4905-bf40-6914eb6053dd",
+        "id": "6ffda546-05fa-4f41-99ff-40e9f984fc1e",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/mannerheimline/attack/defense.png",
@@ -928,7 +928,7 @@
     },
     "views": [
       {
-        "id": "3654b816-ae31-4667-a9c5-79c4ba28a097",
+        "id": "6008cede-9289-4fc8-9bbb-fe54236b28be",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ruinberg/standardbattle.png",
@@ -940,7 +940,7 @@
         "height": 850
       },
       {
-        "id": "d9cb536c-a5b0-4dab-b0c5-204903389acd",
+        "id": "6cdf6b34-cac4-4849-a090-f428155d2c72",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ruinberg/encounterbattle.png",
@@ -952,7 +952,7 @@
         "height": 850
       },
       {
-        "id": "65636801-de5b-4166-b251-d23f8049bead",
+        "id": "cdd47799-2303-4ffc-aa18-39870fb7ac8c",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ruinberg/attack/defense.png",
@@ -987,7 +987,7 @@
     },
     "views": [
       {
-        "id": "bebb14ba-09e4-4569-92a0-a34c80819f24",
+        "id": "bfe7bd99-8874-4b43-906d-7e31c3a017e2",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/siegfriedline/standardbattle.png",
@@ -999,7 +999,7 @@
         "height": 1000
       },
       {
-        "id": "c6dadd3e-a333-4e60-a72c-c8a26c566ff3",
+        "id": "c9444e52-9fd2-4d65-8b80-8af8e844ae41",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/siegfriedline/encounterbattle.png",
@@ -1011,7 +1011,7 @@
         "height": 1000
       },
       {
-        "id": "f0a8fcac-7fb9-4852-9112-0c669e7d40b2",
+        "id": "a7643c41-1b2a-43bb-a031-fe7e0912b154",
         "name": "Assault",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/siegfriedline/assault.png",
@@ -1023,7 +1023,7 @@
         "height": 1000
       },
       {
-        "id": "628f0e40-8a2c-479d-a63c-bd476dea808f",
+        "id": "d127c9fa-2633-4fb4-9abd-6ede9dda6e07",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/siegfriedline/attack/defense.png",
@@ -1058,7 +1058,7 @@
     },
     "views": [
       {
-        "id": "689af412-bdaa-47e4-be54-472ea8e81402",
+        "id": "64f7242b-37a4-42fb-9b6e-e6c5ad23e3bf",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/westfield/standardbattle.png",
@@ -1070,7 +1070,7 @@
         "height": 1000
       },
       {
-        "id": "5efd7a55-a9b8-4b73-9967-57203363487d",
+        "id": "b801f4c5-9cdf-4da9-9843-12fab214b7cb",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/westfield/encounterbattle.png",
@@ -1105,7 +1105,7 @@
     },
     "views": [
       {
-        "id": "9eab8e7e-f37b-4ee6-9adb-2890fcc4167a",
+        "id": "4d0239a0-0629-4223-bc7b-ef0cf0ee1ad2",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/elhalluf/standardbattle.png",
@@ -1117,7 +1117,7 @@
         "height": 1000
       },
       {
-        "id": "065ab381-57dc-4619-bc00-cdaa01d3a98e",
+        "id": "434c08a2-c791-4d1f-8940-1aaa06761260",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/elhalluf/encounterbattle.png",
@@ -1152,7 +1152,7 @@
     },
     "views": [
       {
-        "id": "9b575c15-1831-4674-b1f6-e8a06fbbd9d0",
+        "id": "e8cff3f2-6e24-4dcd-a5ca-f47180b1c57d",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/airfield/standardbattle.png",
@@ -1187,7 +1187,7 @@
     },
     "views": [
       {
-        "id": "548b5ae8-04c1-4735-b518-7281efb96b30",
+        "id": "ca9bba50-4e0f-42f4-9f46-a74049310d02",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/widepark/standardbattle.png",
@@ -1222,7 +1222,7 @@
     },
     "views": [
       {
-        "id": "101145db-7f84-4c8e-8401-36b1316925e5",
+        "id": "a9d88257-6fee-4568-a341-94522f9b667b",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/liveoaks/standardbattle.png",
@@ -1257,7 +1257,7 @@
     },
     "views": [
       {
-        "id": "aac056dc-1e20-4834-80df-230c87812b12",
+        "id": "ae93428f-243d-48f7-9194-8dd15268e256",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/highway/standardbattle.png",
@@ -1292,7 +1292,7 @@
     },
     "views": [
       {
-        "id": "c692d86b-d2f2-4ec0-9e4e-6cc0eb354566",
+        "id": "b4255c77-3ba1-4bf7-8549-f3de1c97832a",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/serenecoast/standardbattle.png",
@@ -1327,7 +1327,7 @@
     },
     "views": [
       {
-        "id": "4a7cad0f-09c9-47ae-986d-2ae4bb5608b0",
+        "id": "75c6c3b4-2317-424e-823d-a21ec8abdeb4",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/empire'sborder/standardbattle.png",
@@ -1362,7 +1362,7 @@
     },
     "views": [
       {
-        "id": "28e5e419-9883-4f06-9d22-1c8eb4907c10",
+        "id": "580651c6-ab79-4294-9339-507846ff57aa",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/tundra/standardbattle.png",
@@ -1374,7 +1374,7 @@
         "height": 800
       },
       {
-        "id": "7db39f14-dea6-448d-9d52-414be2c8b9de",
+        "id": "cba81d69-8f8c-4448-834f-667326181a3b",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/tundra/attack/defense.png",
@@ -1409,7 +1409,7 @@
     },
     "views": [
       {
-        "id": "3690fe28-45fc-4662-be55-29b35ab08c6c",
+        "id": "756c00c3-f329-4f12-a9cc-a5d124f8a341",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/pearlriver/standardbattle.png",
@@ -1421,7 +1421,7 @@
         "height": 1000
       },
       {
-        "id": "ab2f111f-d13a-453d-954d-ec3cfcb49826",
+        "id": "f7f08ea6-55cc-4bd7-ba36-720f6efd15b2",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/pearlriver/encounterbattle.png",
@@ -1456,7 +1456,7 @@
     },
     "views": [
       {
-        "id": "d39d8be0-0571-46f1-bca0-ddb183c56a59",
+        "id": "f6ff811c-a569-40e1-8801-6af906fd9e7e",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/overlord/standardbattle.png",
@@ -1491,7 +1491,7 @@
     },
     "views": [
       {
-        "id": "a0ffa2e1-e20f-4fdb-9934-a9fb837a7724",
+        "id": "fc9b3e34-6ce9-4b23-abba-303a71814de6",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/pilsen/standardbattle.png",
@@ -1503,7 +1503,7 @@
         "height": 1000
       },
       {
-        "id": "93ee477e-89c6-4622-9ff9-22821594740f",
+        "id": "01408a12-78aa-488a-95bf-30b9c14e6aaf",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/pilsen/encounterbattle.png",
@@ -1538,7 +1538,7 @@
     },
     "views": [
       {
-        "id": "8e6380a8-218b-4317-9b9a-2e2dd4d50bef",
+        "id": "8c83fe37-e003-4cb5-9f65-4b709bb65dba",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/paris/standardbattle.png",
@@ -1573,7 +1573,7 @@
     },
     "views": [
       {
-        "id": "e298b1bd-0c33-4cc8-ab09-fd7f02850164",
+        "id": "fc870f52-ddcb-414f-a900-42e5a5d4c6a7",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/glacier/standardbattle.png",
@@ -1608,7 +1608,7 @@
     },
     "views": [
       {
-        "id": "2e393b41-cda6-4282-9a1e-0f1a98dce0b2",
+        "id": "71d28b69-ca39-40df-b15c-5eb0876f65f7",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/province/standardbattle.png",
@@ -1643,7 +1643,7 @@
     },
     "views": [
       {
-        "id": "ac3cc7f6-936e-46d3-8611-7bc8442f6760",
+        "id": "e27288e0-8893-47c9-8328-b4bc9cf65401",
         "name": "Grand Battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/nebelburg/grandbattle.png",
@@ -1678,7 +1678,7 @@
     },
     "views": [
       {
-        "id": "fd8b452d-004c-41d2-9e05-7d838164a5b3",
+        "id": "dd277002-e437-4fbe-be33-b6bc0d66bb7c",
         "name": "Grand Battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/klondike/grandbattle.png",
@@ -1713,7 +1713,7 @@
     },
     "views": [
       {
-        "id": "18848451-d63a-4570-80f9-9e6576ddc752",
+        "id": "013e022f-5b8f-4609-a718-915ddd1822d2",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/studzianki/standardbattle.png",
@@ -1725,7 +1725,7 @@
         "height": 1000
       },
       {
-        "id": "e5f4d79f-f955-47ab-9b38-83fc6823bcda",
+        "id": "7d97ce10-ede5-40eb-a35c-81d4c7d95cdc",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/studzianki/encounterbattle.png",
@@ -1760,7 +1760,7 @@
     },
     "views": [
       {
-        "id": "71702b95-f5c2-4f2e-90b5-e89f5f7e3672",
+        "id": "01c686e3-f63a-46d2-b7e1-09cb84a1a835",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/minsk/standardbattle.png",
@@ -1795,7 +1795,7 @@
     },
     "views": [
       {
-        "id": "b37d4634-0019-4fb5-9a65-2d82ebfafee8",
+        "id": "887a22ea-a400-4e2a-a732-c7f1c0094274",
         "name": "Grand Battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/hinterland/grandbattle.png",
@@ -1830,7 +1830,7 @@
     },
     "views": [
       {
-        "id": "3df7d2b0-68e0-4f7e-b807-7f585f3ba5e6",
+        "id": "b61d4e5d-9abc-40f9-b007-a7e00940b2e5",
         "name": "Steel Hunter",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/dreamland/steelhunter.png",
@@ -1865,7 +1865,7 @@
     },
     "views": [
       {
-        "id": "fa9ce487-c421-413f-9c1e-fdb78d174e5a",
+        "id": "4e7c651a-98dd-4057-9e9b-b55de9b49710",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ghosttown/standardbattle.png",
@@ -1877,7 +1877,7 @@
         "height": 1000
       },
       {
-        "id": "fd67231c-ffbc-4f4f-b8bc-83b987058ebc",
+        "id": "2194728f-2a8a-4e93-9b18-535d56e12475",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ghosttown/encounterbattle.png",
@@ -1889,7 +1889,7 @@
         "height": 1000
       },
       {
-        "id": "ea35fc23-917d-48a1-a3a4-c50c6b3bbc25",
+        "id": "daeda7bc-c3c6-46eb-a047-6a60c97d4ff8",
         "name": "Assault",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ghosttown/assault.png",
@@ -1901,7 +1901,7 @@
         "height": 1000
       },
       {
-        "id": "72a2c203-76c6-4645-9bf3-e59e1538da48",
+        "id": "779e7c44-17f5-42c1-9f09-f1b2bce75713",
         "name": "Attack / Defense",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/ghosttown/attack/defense.png",
@@ -1936,7 +1936,7 @@
     },
     "views": [
       {
-        "id": "8bf65546-cdc6-4cc2-ac96-65a380617f78",
+        "id": "0c502132-4ad8-4554-bee8-5eabeeb80557",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/kharkov/standardbattle.png",
@@ -1971,7 +1971,7 @@
     },
     "views": [
       {
-        "id": "7059c2ea-5f92-42ce-9709-fb1f214d8257",
+        "id": "858e4ede-9bc1-4f06-8a56-05ebe24a86fa",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/berlin/standardbattle.png",
@@ -1983,7 +1983,7 @@
         "height": 1050
       },
       {
-        "id": "901133cc-b24d-4a52-a607-1ec4d9fef545",
+        "id": "c1c23554-94b6-4c44-8186-8a967cafa494",
         "name": "Encounter battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/berlin/encounterbattle.png",
@@ -2018,7 +2018,7 @@
     },
     "views": [
       {
-        "id": "a8efc552-e36b-44f8-9d0a-da74fe5e96d5",
+        "id": "2cd89903-e836-4e21-89ab-aed287c9d5a4",
         "name": "Frontline",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/normandie/frontline.png",
@@ -2053,7 +2053,7 @@
     },
     "views": [
       {
-        "id": "15e687a9-24ec-43d8-80d0-5215313f541a",
+        "id": "06f3dcee-8e68-44d9-8f46-3f10981c84eb",
         "name": "Steel Hunter",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/arzagir4.04/steelhunter.png",
@@ -2088,7 +2088,7 @@
     },
     "views": [
       {
-        "id": "3d98b746-ffb0-4878-9405-8a8a5f9e37ae",
+        "id": "65183951-3653-45d3-9f0c-96f39532098f",
         "name": "Standard battle",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/safehaven/standardbattle.png",
@@ -2123,7 +2123,7 @@
     },
     "views": [
       {
-        "id": "c024bfcd-ad96-4931-af15-40117e65525b",
+        "id": "0f129b64-7fc6-4b48-91b4-5d84b594f9fb",
         "name": "Frontline",
         "image": {
           "src": "https://static.gametactic.eu/wot/maps/kraftwerk/frontline.png",

@@ -1,0 +1,947 @@
+[
+    {
+      "label": "Ammo",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Ammo",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Ammo.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "AntiAir",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "AntiAir",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/AntiAir.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "APC",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "APC",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/APC.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "APC_Recon",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "APC_Recon",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/APC_Recon.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "AR",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "AR",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/AR.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "AT",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "AT",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/AT.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "Attack",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Attack",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Attack.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "AttackHelo",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "AttackHelo",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/AttackHelo.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Boat",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Boat",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Boat.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Boat_Logistics",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Boat_Logistics",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Boat_Logistics.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Build",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Build",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Build.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "Defend",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Defend",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Defend.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "FireMission",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "FireMission",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/FireMission.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Fort",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Fort",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Fort.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "Grey_Flag",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Grey_Flag",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Grey_Flag.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "HAT",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "HAT",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/HAT.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Helicopter",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Helicopter",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Helicopter.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "HMG",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "HMG",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/HMG.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Humvee",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Humvee",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Humvee.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "IFV",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "IFV",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/IFV.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Infantry",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Infantry",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Infantry.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": true,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "LAT",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "LAT",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/LAT.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Logistics_Truck",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Logistics_Truck",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Logistics_Truck.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": true,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Mainbase",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Mainbase",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Mainbase.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Marker",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Marker",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Marker.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "Marksman",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Marksman",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Marksman.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Medic",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Medic",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Medic.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "MG",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "MG",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/MG.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Mine",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Mine",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Mine.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Mortar",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Mortar",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Mortar.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Motorcycle",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Motorcycle",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Motorcycle.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Radio",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Radio",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Radio.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": true,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Rallypoint",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Rallypoint",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Rallypoint.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": true,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Rifleman",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Rifleman",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Rifleman.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": true,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "Scout",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Scout",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Scout.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "Shovel",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Shovel",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Shovel.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Squad_Leader",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Squad_Leader",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Squad_Leader.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "label": "tank",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "tank",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/tank.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "TOW",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "TOW",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/TOW.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Tracked Logistics",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Tracked Logistics",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Tracked Logistics.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "TrackedAPC",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "TrackedAPC",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/TrackedAPC.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "TrackedIFV",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "TrackedIFV",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/TrackedIFV.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Tracked_Recon",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Tracked_Recon",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Tracked_Recon.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Transport",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Transport",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Transport.png",
+        "width": 128,
+        "height": 128,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "label": "Waypoint",
+      "permissions": {
+        "scale": true,
+        "skew": true,
+        "rotate": true
+      },
+      "temporary": false,
+      "type": "ICON",
+      "plugins": null,
+      "caption": "Waypoint",
+      "picture": {
+        "src": "https://static.gametactic.eu/squad/icons/Waypoint.png",
+        "width": 100,
+        "height": 100,
+        "format": "png"
+      },
+      "isDefault": false,
+      "width": 100,
+      "height": 100
+    }
+  ]

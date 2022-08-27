@@ -1,0 +1,4297 @@
+[
+  {
+    "name": "albasrah",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/albasrah/squad_albasrah_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "09ba8bf0-e7a3-42dc-9b4b-ae36001cb27c",
+        "name": "AlBasrah AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0591481f-095f-4b07-be47-02eb22a39183",
+        "name": "AlBasrah AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4b9ad9ab-2aa3-49ce-8fd7-92f9c0ecbd0f",
+        "name": "AlBasrah AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c6460f99-f7a4-43ba-9bef-91f2637f09e3",
+        "name": "AlBasrah Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0b731baa-43e3-4d6f-8254-a65c83eb9dbc",
+        "name": "AlBasrah Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "70ec00ff-d374-4e29-8715-70be9e662243",
+        "name": "AlBasrah Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f650b856-df22-4215-a81b-ce0be69ca375",
+        "name": "AlBasrah Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b7193ae9-55eb-408a-9aad-0ad2137ebb39",
+        "name": "AlBasrah Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fab21ece-667b-4d73-adf1-649fb990d731",
+        "name": "AlBasrah Invasion v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Invasion_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8bc9624f-c7d2-45c6-8df4-2ec9544b7192",
+        "name": "AlBasrah Invasion v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Invasion_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "43bb029b-c2c1-43b8-a4f2-de958c1e1f16",
+        "name": "AlBasrah RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ba8cb631-427a-48a0-8321-ca47185a2bc5",
+        "name": "AlBasrah Seed v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Seed_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8e83aac1-64fd-4878-a5d4-8d4edf02e66b",
+        "name": "AlBasrah Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "bd47bbc0-675b-4f14-a7be-a792288db219",
+        "name": "AlBasrah Skirmish v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_Skirmish_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f1a7b67e-ad73-442e-9345-9c9f14397f6f",
+        "name": "AlBasrah TA v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_TA_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b06288f0-d25f-4dda-99f3-929c7f0b65ea",
+        "name": "AlBasrah TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0d06d21d-a274-43af-9913-4b9f0abbbc3c",
+        "name": "AlBasrah TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/albasrah/layers/AlBasrah_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "anvil",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/anvil/squad_anvil_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "5b619ece-6c05-4f08-bfcd-eca58069544a",
+        "name": "Anvil AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e93aba7e-0d2a-490a-950e-7880a4e935e5",
+        "name": "Anvil AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "5250cae0-c983-47bb-83c9-2b12bd80d4b8",
+        "name": "Anvil Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "34034da2-913b-42b9-b7ca-90bf97b6295d",
+        "name": "Anvil Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "33e1af6d-bf87-4080-9c17-cee2a4a1a264",
+        "name": "Anvil RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "098cdbd1-27b7-42a1-ac8f-d8e13ff038ce",
+        "name": "Anvil RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3f707af7-f8bd-4fab-ad25-e1cdf1750e12",
+        "name": "Anvil RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8ecb909c-6922-48d4-92e3-3fd70a619d75",
+        "name": "Anvil RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "10588d1d-5e89-4966-88f6-5c5e5d65a55d",
+        "name": "Anvil Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "53f11326-aab8-4155-ac83-361e6057b8c4",
+        "name": "Anvil TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/anvil/layers/Anvil_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "belaya",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/belaya/squad_belaya_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "9943e761-397e-47bb-8227-0c0581d233a9",
+        "name": "Belaya AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "80e92c1b-701a-486e-b0ac-b047bf02fbfd",
+        "name": "Belaya AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "bd24f8be-d79c-4628-937b-3d37b520eda5",
+        "name": "Belaya AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8b199ad2-9cce-4d19-a1ee-93b419b8d06e",
+        "name": "Belaya Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6ddb5295-c0e7-4069-a0cc-f16fb5eb5df2",
+        "name": "Belaya Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0ce7ae00-91a9-4698-8cc4-9f99bfdebb0d",
+        "name": "Belaya Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1d75815c-ac4a-4cab-865e-21e33a56811c",
+        "name": "Belaya RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e0b2d8e3-05f2-4b3c-90f2-8decb6d1d000",
+        "name": "Belaya RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a4e12670-9b7a-426d-bcc5-e29ac5e7af6c",
+        "name": "Belaya RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6d48e804-b0fc-4412-9967-1889506ad2f1",
+        "name": "Belaya RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fa37ec0f-fdd8-4773-b980-04ed3f8e34d7",
+        "name": "Belaya RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a58d071c-edca-4e6a-b6bd-1ac7d66705ae",
+        "name": "Belaya Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "854f808a-1b6b-4967-9484-25d9355bd0cb",
+        "name": "Belaya TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/belaya/layers/Belaya_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "blackcoast",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/blackcoast/squad_blackcoast_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "ddc842e8-3c37-4bc0-a43c-f692fd79bdd3",
+        "name": "BlackCoast AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1ddcc0e9-943b-40b5-84ec-39ec4e4fd56c",
+        "name": "BlackCoast AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f7b9850e-a178-4399-9b84-2cf0f524543c",
+        "name": "BlackCoast Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2899906e-4f5c-4280-845d-68509be0e0e2",
+        "name": "BlackCoast Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8c67e67d-6e63-42c7-9804-4b84e1b40976",
+        "name": "BlackCoast Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "269d7eb2-3021-4312-a1c6-bb547227a4ec",
+        "name": "BlackCoast RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "170e97eb-ebeb-4bb7-a6ad-8feea9b4d162",
+        "name": "BlackCoast RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b3d5c8f0-d356-4c0b-8c58-78665ea7871e",
+        "name": "BlackCoast RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "735600b5-773d-48ec-96fc-edc7424eebcd",
+        "name": "BlackCoast RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fb2dbec4-72e0-428b-b760-611bef512c23",
+        "name": "BlackCoast Seed v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_Seed_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e6f2acbd-f0fb-4490-bfe8-c021e145f319",
+        "name": "BlackCoast Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/blackcoast/layers/BlackCoast_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "chora",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/chora/squad_chora_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "4cd78e3f-c22b-4f52-8a1a-048262ba09d9",
+        "name": "Chora AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d20c971c-8eaa-4194-b83e-801e980ea59d",
+        "name": "Chora AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2413ab45-926f-42b1-b4ae-5676f7974c56",
+        "name": "Chora AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "5d4f6d74-f902-499c-a64e-3d2443b05f73",
+        "name": "Chora AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "56f91af9-ce6e-4d30-8bb2-c97b1bf81f15",
+        "name": "Chora AAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_AAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4f419e8d-34f3-4ba6-ad65-645492965d87",
+        "name": "Chora Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "54dcd7d0-7395-4afd-9442-e34331d2f23a",
+        "name": "Chora Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c06a2622-0b12-4ccb-a0b1-5c56814e208c",
+        "name": "Chora Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d0300e9f-e250-4dcc-9525-504a3bdf2b82",
+        "name": "Chora RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2b96edea-ffac-4ab1-9fd0-cf2a6370ddc8",
+        "name": "Chora RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e51004f2-530a-4cb3-9051-ce84d897e78f",
+        "name": "Chora RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f6e257ba-7d00-44d8-88d2-d7365f99475d",
+        "name": "Chora RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8daa29be-8d59-40b0-8504-a9f1f1cfee70",
+        "name": "Chora Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c159a906-2e59-4ad2-97c7-8eeeaf07b2a5",
+        "name": "Chora TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/chora/layers/Chora_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "fallujah",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/fallujah/squad_fallujah_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "91a157a5-dd0c-4114-83d8-a97a2d4f59aa",
+        "name": "Fallujah AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b959134e-0f23-4760-a37a-fe179e0aff05",
+        "name": "Fallujah AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0c8e5622-993f-4d97-af96-4937cf83359a",
+        "name": "Fallujah Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e364fc6f-4b12-4749-b3f6-78b38008b98b",
+        "name": "Fallujah Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "03e8615d-41af-4c2d-b0ac-eaed1c687c49",
+        "name": "Fallujah Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6f6bef7a-3d23-46e4-98ac-abe5ba2bb04e",
+        "name": "Fallujah Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2ba85cad-bb7c-466b-a096-39f7ef708bc2",
+        "name": "Fallujah Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ed554b5c-814b-4aee-ba75-48fb6f30be5f",
+        "name": "Fallujah Invasion v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Invasion_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1d28c579-3157-4ca5-8b86-5c3e6c052d2f",
+        "name": "Fallujah RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "65706e64-141b-48e0-a1e1-07341eaea39c",
+        "name": "Fallujah RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "115635c5-5f31-4204-a637-9e8747823d2f",
+        "name": "Fallujah RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b82502dc-a3af-4f18-887d-8845de8c9ee2",
+        "name": "Fallujah RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4f4e5ed9-1d7e-4459-ba59-de6e702f49e6",
+        "name": "Fallujah RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e87b863f-2ec4-4400-86bb-a69e1cd2a984",
+        "name": "Fallujah RAAS v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_RAAS_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "defaa561-bac7-4972-a31b-f6e7478f5b90",
+        "name": "Fallujah Seed v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Seed_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c6439e45-0f3d-4277-ae15-6986cfc2f2e7",
+        "name": "Fallujah Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ceeec0bd-cbc5-48cb-8f8b-0eee5e8ea4d8",
+        "name": "Fallujah Skirmish v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_Skirmish_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "07497310-d81a-404c-83ca-d5250e56147a",
+        "name": "Fallujah TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a68add7c-1fbe-4945-a022-6655c339e070",
+        "name": "Fallujah TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/fallujah/layers/Fallujah_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "foolsroad",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/foolsroad/squad_foolsroad_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "f9239817-6e36-4492-a8c0-bc60a2b4a77c",
+        "name": "FoolsRoad AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d535646d-4db7-4dae-9828-b7ec60eece1f",
+        "name": "FoolsRoad AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "04004a8d-d718-4cb3-a3fd-6c1ef8c1ae02",
+        "name": "FoolsRoad Destruction v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_Destruction_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6abe3065-4bd9-44a6-9603-9b1c1e04bc6e",
+        "name": "FoolsRoad Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "37d10b4a-1a3a-4fe0-b97a-b95fe9ac1f82",
+        "name": "FoolsRoad RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d47629f5-f7cd-44f3-b746-fd674a1f6cfb",
+        "name": "FoolsRoad RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "295e0d34-1f20-45ea-a972-6a12d78b5526",
+        "name": "FoolsRoad RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8073f13c-08c5-4449-8414-f18b9a4488b0",
+        "name": "FoolsRoad RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "94fe9c77-a527-4b61-b226-1a80045d47c4",
+        "name": "FoolsRoad RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "de5f19cf-55ca-4b58-8a13-c7c1a236e3e8",
+        "name": "FoolsRoad Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7c0306ef-b53f-4a5b-98c6-5371142744c9",
+        "name": "FoolsRoad Skirmish v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_Skirmish_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b0b51ebb-cc05-42b8-955d-da6983162401",
+        "name": "FoolsRoad TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/foolsroad/layers/FoolsRoad_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "goosebay",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/goosebay/squad_goosebay_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "6c0e90de-bb7b-47d8-84c1-8eba3c23c5c9",
+        "name": "GooseBay AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "56c43590-5783-462d-9959-c8567b172672",
+        "name": "GooseBay AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fd76013f-59ac-4d51-ba79-350b1f09268b",
+        "name": "GooseBay Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8e42bc48-d2f5-4057-b4d4-f77600282e26",
+        "name": "GooseBay Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3e709f9f-2c8a-42ad-9312-26f92e8a1716",
+        "name": "GooseBay Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "328e294a-b4d4-4e4e-9bc3-37c8d52e8241",
+        "name": "GooseBay Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "64536abd-f499-4bed-877e-04f4213ec4b3",
+        "name": "GooseBay RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "557207cf-0731-455e-afee-6d80b9548f6c",
+        "name": "GooseBay RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "05b6d82b-083e-4798-89f6-a3e998483b0e",
+        "name": "GooseBay RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6f04dab7-357b-476f-b4ef-f820358c2dce",
+        "name": "GooseBay Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/goosebay/layers/GooseBay_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "gorodok",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/gorodok/squad_gorodok_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "bb683e4a-bd04-4ecb-9b13-9f4f81f92167",
+        "name": "Gorodok AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c55aa66e-6ee3-4c9b-964a-974044884f0e",
+        "name": "Gorodok AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6032916e-828b-46cf-994f-8a31ac04af09",
+        "name": "Gorodok AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e89a871d-eecb-49c2-8481-d385dbb7372a",
+        "name": "Gorodok AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "24c53b94-9858-4300-9851-4afefb2db9e8",
+        "name": "Gorodok Destruction v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_Destruction_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d9baaa14-d571-4e65-80f8-ff619babdc0f",
+        "name": "Gorodok Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ee7c52e0-c3c7-4dae-81d1-ca8fe3a1fdcf",
+        "name": "Gorodok Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0cec949b-bd1d-4284-be3b-28dd39b610e0",
+        "name": "Gorodok Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c056dd8a-16c8-489d-afec-4911f8bec9ef",
+        "name": "Gorodok Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e031a43a-04d3-4404-bbfa-ecc20cd23d4b",
+        "name": "Gorodok RAAS v01",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v01.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b4f0771b-59b1-4e5d-bacb-2120c0292e14",
+        "name": "Gorodok RAAS v02",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v02.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d2d1ad91-2266-4f1d-a50e-ceae7afa169b",
+        "name": "Gorodok RAAS v03",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v03.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "46a5ea3c-f732-40b1-bebd-2ceead3e2867",
+        "name": "Gorodok RAAS v04",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v04.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fd2f1c9f-36af-4e05-b2e1-89d4f51f5858",
+        "name": "Gorodok RAAS v05",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v05.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e88480a9-5998-4102-bddd-59f4579a0b20",
+        "name": "Gorodok RAAS v06",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v06.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "391c641a-20f0-4586-b28b-88c7fa6eaa59",
+        "name": "Gorodok RAAS v07",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v07.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c50041af-3270-4a56-bf4c-9269ec451bb8",
+        "name": "Gorodok RAAS v08",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v08.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "100cc477-ecb1-4bcd-9c71-a1e1fdce9e2f",
+        "name": "Gorodok RAAS v09",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v09.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "22371d7f-d729-41cd-bf4d-ec9dd0ec114d",
+        "name": "Gorodok RAAS v10",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v10.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7fa6605d-cd61-4f6d-bbc7-8e4df510d216",
+        "name": "Gorodok RAAS v11",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_RAAS_v11.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9513fdc5-59e8-466f-8e5a-73fe1ea9e001",
+        "name": "Gorodok Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "302b0861-23f0-403d-bd6b-4bc4bdcad14b",
+        "name": "Gorodok TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "28fb4c3d-c6e5-4ea8-9155-dd32c696643d",
+        "name": "Gorodok TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/gorodok/layers/Gorodok_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "jensensrange",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/jensensrange/squad_jensensrange_base.jpg",
+      "width": 1916,
+      "height": 1916,
+      "format": "jpg"
+    },
+    "views": []
+  },
+  {
+    "name": "kamdesh",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/kamdesh/squad_kamdesh_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "ba59c794-8bcc-4332-806b-ea10e35341b0",
+        "name": "Kamdesh AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "bb4fb317-d880-4bef-8cd4-224dcaa45d7c",
+        "name": "Kamdesh Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "26d55223-9131-4f74-a5f9-49d3528d0b55",
+        "name": "Kamdesh Insurgency v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Insurgency_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7fe99b8a-80e1-4cdb-a99a-02d755dafb15",
+        "name": "Kamdesh Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8515f091-40f3-4e45-bf1c-6610d086e214",
+        "name": "Kamdesh Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e51d0279-3386-4f25-9f4b-7ca7c7a2fdda",
+        "name": "Kamdesh Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "af903692-0918-408a-900c-cc38c1f4c385",
+        "name": "Kamdesh Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "825c7bff-7425-451c-bec3-6e60902dc590",
+        "name": "Kamdesh Invasion v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "51762503-1052-407f-83fe-b67ade7d21c7",
+        "name": "Kamdesh Invasion v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9a7b2407-c2f9-40d7-9683-63e323d0079e",
+        "name": "Kamdesh Invasion v7",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Invasion_v7.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3855f74a-d495-477e-97b1-9580621d5cea",
+        "name": "Kamdesh RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e2b7f6c9-f689-431a-a489-5ad33918c25c",
+        "name": "Kamdesh RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c7f20a12-cc26-480f-9af8-b744bc9e5026",
+        "name": "Kamdesh RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1fec26e6-dcbb-423b-867d-473b67df3bc6",
+        "name": "Kamdesh RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ae5ea642-15a7-4e05-8b43-c797b19119f5",
+        "name": "Kamdesh RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1137f5ab-62fc-46d0-a603-578f7703d3b8",
+        "name": "Kamdesh RAAS v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2dacb30e-a94f-4e49-ba95-b140709df8e5",
+        "name": "Kamdesh RAAS v7",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_RAAS_v7.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "aab24f60-e429-4b46-97d9-3a54dc12aed9",
+        "name": "Kamdesh Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "65403f07-f407-4b5d-9c89-705152ab1ddd",
+        "name": "Kamdesh TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3aa32ac7-0419-4e36-aa6f-710f15b64c22",
+        "name": "Kamdesh TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4e3a19f8-3f11-4c6c-8f02-83e20d0a01c0",
+        "name": "Kamdesh TC v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_TC_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4816669c-fb9f-4e48-bb0d-99c80dddf59b",
+        "name": "Kamdesh TC v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kamdesh/layers/Kamdesh_TC_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "kohat",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/kohat/squad_kohat_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "b81351d1-4458-4ea9-8e16-c14734675951",
+        "name": "Kohat AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "013dff1c-ab26-4e8d-b79e-ac5d86f03c54",
+        "name": "Kohat AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c0a27939-7acb-43ea-80c1-9a892d33f2ec",
+        "name": "Kohat AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fa0f74bb-5b3f-436f-910e-587372b720a3",
+        "name": "Kohat Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f563bfe6-6f3f-452f-b2a1-e3a947e996b3",
+        "name": "Kohat Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3b8a0532-9ec7-488e-b88e-253fd84b3282",
+        "name": "Kohat Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d148402c-28cb-47a4-b40b-5386df5a30e1",
+        "name": "Kohat Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0f7f5a3d-08f2-474d-afe1-649ad460d62b",
+        "name": "Kohat RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7d2ef999-3e15-420c-8e08-e406dea0cbe9",
+        "name": "Kohat RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2095680d-2f65-4804-877a-bd9e304483bc",
+        "name": "Kohat RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6dd0cae4-6fe3-4e08-b75a-01dd6f34828a",
+        "name": "Kohat RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "25f89823-7fe6-4989-a7b4-ffc0ac69c675",
+        "name": "Kohat RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7263c53e-e0b0-4cbb-abce-52156f36ee6d",
+        "name": "Kohat RAAS v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "208c3f09-3fa4-419c-8fb7-de6ef23eb9a2",
+        "name": "Kohat RAAS v7",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v7.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "226e0bd3-0dc2-4d03-9933-70995a80393d",
+        "name": "Kohat RAAS v8",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v8.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f15c0f66-c3ef-4218-a138-755b11221637",
+        "name": "Kohat RAAS v9",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_RAAS_v9.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fae86d09-600b-47ed-97b9-6690ffb45fc9",
+        "name": "Kohat Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "04414c82-9534-404b-82ed-7b059cde1ab8",
+        "name": "Kohat TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kohat/layers/Kohat_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "kokan",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/kokan/squad_kokan_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "89366e64-a37d-4afe-b074-17fce436f95d",
+        "name": "Kokan AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c89209c4-4336-44af-bf8d-ec1ee4d10b0f",
+        "name": "Kokan AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f7af1416-d2cf-4c90-a090-0c6813584e98",
+        "name": "Kokan AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "bec864e1-9429-4203-b73a-051b20bcdf80",
+        "name": "Kokan Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6e6cbd5f-e6ef-4f14-9f52-7c8a797e9bfc",
+        "name": "Kokan Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "85ea3886-ccb9-4dce-9219-ec74f59f8cd4",
+        "name": "Kokan RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3092fff2-e7f6-4bf9-99a8-5844b3a1c986",
+        "name": "Kokan RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a605b5f9-93ed-470e-bdb0-25dbdc71d2d5",
+        "name": "Kokan RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "612ac765-77e7-4cf5-9a45-5519fef84c52",
+        "name": "Kokan RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "68fd3ecc-7e9b-47c4-8709-ca1f8014bb2e",
+        "name": "Kokan Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "de0862ea-404a-4fe9-bf05-ef3694b83b60",
+        "name": "Kokan TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/kokan/layers/Kokan_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "lashkarvalley",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/squad_lashkarvalley_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "f207fff6-ca4d-4901-8344-5189d04c0d64",
+        "name": "LashkarValley AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "01e47f5d-8df4-4a17-a446-d20f5a0bd50e",
+        "name": "LashkarValley AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3f0ecfe4-5cdc-432f-992b-c9197a56f0c9",
+        "name": "LashkarValley AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "93fa25ce-d867-475f-a84c-47df51c54cfc",
+        "name": "LashkarValley AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7ddf2b6d-2fa7-45d0-926d-6820219f4b39",
+        "name": "LashkarValley Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f72d06da-9e32-4eb3-8250-9f67cf246fdd",
+        "name": "LashkarValley Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "390719a5-70f1-4a59-bd5e-92e0f84c7972",
+        "name": "LashkarValley Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d61580c6-c2e9-462d-9d83-93f3cf4ac2f1",
+        "name": "LashkarValley Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8c9b60f6-9fcf-4e3f-8f9a-6db679f929aa",
+        "name": "LashkarValley RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "bb997dd6-8366-4069-9ced-0e2ad036f78d",
+        "name": "LashkarValley RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e0b41c18-572b-4a51-8695-177f84e668ec",
+        "name": "LashkarValley RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "35fef851-4173-458d-ae97-cf5b16378628",
+        "name": "LashkarValley RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2821eecd-4990-4b60-95ec-7fce3ca82c55",
+        "name": "LashkarValley RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "11c2fe80-b8af-4f5e-adfa-f95b78e36a7a",
+        "name": "LashkarValley Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "165b13b2-13b8-47a2-b8e0-1de6fc9c398a",
+        "name": "LashkarValley TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "bf539216-ca81-45d8-a1cb-f45e28838e23",
+        "name": "LashkarValley TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4754ee06-8a77-4cbe-8d5f-fcce1e042312",
+        "name": "LashkarValley TC v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_TC_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "be11710d-1884-4db9-8743-cde59c4d72bb",
+        "name": "LashkarValley TC v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_TC_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "abb9ce9d-0ccd-47ca-a306-7838f71720e7",
+        "name": "LashkarValley TC v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/lashkarvalley/layers/LashkarValley_TC_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "logarvalley",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/logarvalley/squad_logarvalley_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "04ce51a4-129d-493a-a9d0-65ec362d4663",
+        "name": "Logar AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "24734252-9957-4824-9463-9d40a373f69a",
+        "name": "Logar AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "97bd1c26-08f1-4e56-9ab6-35806853f2e3",
+        "name": "Logar AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8669e51a-036c-4614-a996-14e32d9bd8e8",
+        "name": "Logar Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f178ab92-a932-4059-8c99-ce92f0f69c7d",
+        "name": "Logar RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c3c7dbe2-317d-4cf2-b73d-d71f09158eaa",
+        "name": "Logar RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "cd775b2e-0c92-41cd-9012-8b5ed6e26548",
+        "name": "Logar Seed v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_Seed_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "29d9fbb7-41a2-4b10-867a-816acde94975",
+        "name": "Logar Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ce7e19e1-4888-43fc-a3e5-8d6b0ded4440",
+        "name": "Logar TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/logarvalley/layers/Logar_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "manic",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/manic/squad_manic_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "922c2739-af66-4971-ba55-f54bfc00271e",
+        "name": "Manic AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "77cd3609-da5f-49bf-bfd8-4e7b385740f3",
+        "name": "Manic AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "11399bb2-bdd0-4e7f-9982-db26a8e45907",
+        "name": "Manic Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "96cf4d8e-1abb-4055-b519-e92d71088099",
+        "name": "Manic Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9b424bbf-cb34-4a2c-9a71-eb2acd29f2f0",
+        "name": "Manic RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6094e730-d043-4eb9-b6c1-d33126763a07",
+        "name": "Manic RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ac6540aa-0dd6-4299-9074-684bd4632bb7",
+        "name": "Manic RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "63543e86-b10f-4b3a-b8db-666ddd57f51d",
+        "name": "Manic RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "220a0f3a-c588-4a1c-86f7-af3563e108f0",
+        "name": "Manic Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e84b5163-3d71-4f9d-8f24-61b6ecc029a5",
+        "name": "Manic Skirmish v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_Skirmish_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c3c8d57d-7384-4870-b47c-07bc161f923c",
+        "name": "Manic TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/manic/layers/Manic_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "mestia",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/mestia/squad_mestia_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "4d0fb98f-1c46-42b7-826c-7715fc8f8f7a",
+        "name": "Mestia AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "50f87af4-840c-48c5-9992-744eb1315d00",
+        "name": "Mestia AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "084c4981-7fa9-4883-bdd8-b80c8ba0ee56",
+        "name": "Mestia Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0b00dce0-1f47-4129-ac46-7395773906c7",
+        "name": "Mestia Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fdeefcd1-8c39-4e92-aae3-fcedeb225674",
+        "name": "Mestia RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a2183db3-1c23-4403-8379-186b262e9ceb",
+        "name": "Mestia RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3a120463-34bc-4975-bcb3-2faa17aac7f7",
+        "name": "Mestia Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9a3b8f03-22c9-4a9d-b636-a1cb5f8b6286",
+        "name": "Mestia TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mestia/layers/Mestia_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "mutaha",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/mutaha/squad_mutaha_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "ce0e4370-7fa3-4f58-9cc4-0770f3122540",
+        "name": "Mutaha AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a91b6eef-0371-4ec2-b136-4b3ce010f4eb",
+        "name": "Mutaha AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "83b2b6a3-13fa-4329-b766-574062337d36",
+        "name": "Mutaha AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "38cd10f6-ee25-46d3-8a2b-fcb05b476f49",
+        "name": "Mutaha AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ea205dd3-6662-467f-9dba-3c19053f6c30",
+        "name": "Mutaha Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a38e9053-6bfa-4b28-871d-6d73e35fca12",
+        "name": "Mutaha Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "caaaa40e-9ed9-4a74-918f-4112c44996c2",
+        "name": "Mutaha Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "052a2084-2e7f-4de3-b6ab-ec0ae77b3160",
+        "name": "Mutaha Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "08fc0490-9974-45d4-9ac8-68419a117815",
+        "name": "Mutaha RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f72c9ba2-0d1e-4453-b705-7887c486bd57",
+        "name": "Mutaha RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "91ca3a29-c90d-458c-96a8-d1f6c55b979a",
+        "name": "Mutaha RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ede6d58e-ccfb-4223-a34d-3b634c4832dd",
+        "name": "Mutaha RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1f1d13f0-4603-43e5-9e1e-6dc7bf17e580",
+        "name": "Mutaha RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e254566b-088a-4afa-9100-f69e72529268",
+        "name": "Mutaha RAAS v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_RAAS_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6993b4d5-328f-4dae-9667-1434ef142f31",
+        "name": "Mutaha Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "49112431-dc33-4ea7-acd2-90047c6ace36",
+        "name": "Mutaha TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ea69333c-19ab-4ed9-a603-95c5ef079024",
+        "name": "Mutaha TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/mutaha/layers/Mutaha_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "narva",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/narva/squad_narva_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "f60869dd-7bf6-4b95-bfd5-5f3793dc63c9",
+        "name": "Narva AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3712eafe-1bd2-4150-9c6a-9d293f3dd999",
+        "name": "Narva AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2d172268-26b4-44fc-883d-9ad56c0631e9",
+        "name": "Narva AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1913c7f3-d301-44a5-a7d0-61a3ad3f4762",
+        "name": "Narva AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "86ea2224-e1d6-4433-9b4d-ea8987a90f44",
+        "name": "Narva Destruction v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_Destruction_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9b848069-dd01-480a-b68a-ba5e03a7b109",
+        "name": "Narva Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "ae48bccb-f80a-489d-961d-5154eb7b6b6b",
+        "name": "Narva Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0f62ac79-c66b-434d-b8e4-8b12f36a8890",
+        "name": "Narva Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f173b121-2825-4a1f-ac4d-523d71175ab1",
+        "name": "Narva Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9b92ba38-676d-4474-a437-1766aee5d4dc",
+        "name": "Narva RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b379def5-703e-4b1e-9e8c-ed2eff4100d9",
+        "name": "Narva RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "85e4f47c-818a-4cfe-9de7-78a01cdb475f",
+        "name": "Narva RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8c4b80ed-c590-4052-bb64-3175ad54cbd2",
+        "name": "Narva RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "04b2f549-3c37-4811-a350-894a9b4f7ab3",
+        "name": "Narva Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "6cfa40c3-a242-4a80-ba93-55841a395cd2",
+        "name": "Narva TA v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_TA_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0d680254-676a-4cbb-89ba-6c6ad55b6947",
+        "name": "Narva TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "a3d65f77-762c-45bb-b738-e823ecb12b7c",
+        "name": "Narva TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/narva/layers/Narva_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "skorpo",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/skorpo/squad_skorpo_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "e801d207-0839-4aa0-8199-ff28bdbeed34",
+        "name": "Skorpo AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "5c6ca47a-4052-48d1-bcd1-9a48a9295f2f",
+        "name": "Skorpo Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0a709f05-a808-4185-ae40-63a223bdea10",
+        "name": "Skorpo Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "2a75f504-a342-4fd8-8228-0f9efa987a1b",
+        "name": "Skorpo RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "db061bb4-94c1-44e6-a6ff-69e43848d6e5",
+        "name": "Skorpo RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7e0ea680-442f-4498-a6f5-af892191dd18",
+        "name": "Skorpo RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d6e092ff-0a9e-413b-865c-852bbd6ccc3e",
+        "name": "Skorpo RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e0b145ae-75a0-4923-9167-d49d94aa5c12",
+        "name": "Skorpo RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0975acc6-84bc-4bbc-a61b-df0d3a7e544c",
+        "name": "Skorpo Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fd3954c7-2449-40ce-8131-2afdc9e5ed69",
+        "name": "Skorpo TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "38a24dfc-88f6-4888-b3ca-f58bb3f270be",
+        "name": "Skorpo TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8c1edd92-2af3-4424-a613-76a4b8796ac7",
+        "name": "Skorpo TC v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/skorpo/layers/Skorpo_TC_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "sumari",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/sumari/squad_sumari_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "a10c408a-ab4d-4e00-b8b8-63e30d2c0ded",
+        "name": "Sumari AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d119af52-c98d-4b0a-9e66-5eef82763e37",
+        "name": "Sumari AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d6b651cf-b4f5-4a27-a726-b3ea594a2626",
+        "name": "Sumari AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "56c33625-8523-4d47-8931-60e6ee5e96bd",
+        "name": "Sumari AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "5f12c50c-21f9-42de-abcd-db10fe2b9ec6",
+        "name": "Sumari AAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_AAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "34f5901c-c2b0-4fb9-ac99-c48b271e932f",
+        "name": "Sumari Insurgency v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_Insurgency_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d55cb415-d65d-4825-a94f-bacec676dde0",
+        "name": "Sumari Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8cf222dc-801e-448e-88e2-994c02ca9a99",
+        "name": "Sumari RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "24628ff7-e234-440c-a2b5-f9bcfd737dfa",
+        "name": "Sumari RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "12bdf8ec-e518-403d-b858-aa3a40bc9349",
+        "name": "Sumari Seed v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_Seed_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7ed28d41-de40-4b06-b5ff-41ffe8713fe7",
+        "name": "Sumari Seed v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_Seed_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0bca7e04-b07b-4bc4-8a44-a5f1c19942e5",
+        "name": "Sumari Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "45975b44-0f2b-4afe-90c8-6178fbe0464b",
+        "name": "Sumari TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/sumari/layers/Sumari_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "talil",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/talil/squad_talil_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "32c58679-93e6-4ba1-a7e2-27cb3171d9f3",
+        "name": "Tallil AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "e9f9085a-eea0-450e-bb96-2c92c0e52665",
+        "name": "Tallil AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "fce41e30-8a74-4656-a73e-f144de8b1f58",
+        "name": "Tallil Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "54d6ab94-8086-479f-987b-4c1a88992b79",
+        "name": "Tallil Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "96d0f952-c2b0-48cd-96bf-12abd964e3c5",
+        "name": "Tallil Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d038bdca-8cd5-4436-b5f5-5946fca9beb6",
+        "name": "Tallil Invasion v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Invasion_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3165c519-8beb-4e3c-8298-4437d764ff4d",
+        "name": "Tallil RAAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9c1fb56c-1daa-4bcf-a60b-0dc1d836cda0",
+        "name": "Tallil RAAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "0d4e4c69-f650-47fe-a86d-8d8c2a1e014c",
+        "name": "Tallil RAAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "cb9d5d5f-7188-4616-a7bc-9fadc2e93419",
+        "name": "Tallil RAAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "64f790ea-9633-4ef4-9404-28c5a81fe385",
+        "name": "Tallil RAAS v5",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v5.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3dc6cee3-e736-47f5-9bc1-2daebb1bc6d5",
+        "name": "Tallil RAAS v6",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v6.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d243451a-a019-44be-8f64-0a9beba6d195",
+        "name": "Tallil RAAS v7",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_RAAS_v7.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "dae09cc4-1e7a-4fb5-9e8d-236b6d79e3f2",
+        "name": "Tallil Seed v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Seed_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1602a25a-7bba-4eb2-84b7-41c34484842b",
+        "name": "Tallil Seed v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Seed_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f5368b9a-2060-4316-85e3-6d115f9b8315",
+        "name": "Tallil Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7f208b95-854d-44b3-aae1-769671cbc418",
+        "name": "Tallil Skirmish v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Skirmish_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "80fd4f4a-e4c6-4d89-a872-e599612e81c0",
+        "name": "Tallil Skirmish v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Skirmish_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "121a7216-4e63-4948-abb5-27842da87e4d",
+        "name": "Tallil Tanks v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Tanks_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "78bc4ad0-25df-4d87-a9fa-ffded24106ca",
+        "name": "Tallil Tanks v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_Tanks_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "c18feb27-72fb-4728-a1dc-e162e6164aa5",
+        "name": "Tallil TA v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_TA_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "27383958-01d7-49b4-8475-7fe15f7d5f12",
+        "name": "Tallil TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/talil/layers/Tallil_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  },
+  {
+    "name": "yehorivka",
+    "description": null,
+    "cover": {
+      "src": "https://static.gametactic.eu/squad/maps/yehorivka/squad_yehorivka_base.jpg",
+      "width": 4096,
+      "height": 4096,
+      "format": "jpg"
+    },
+    "views": [
+      {
+        "id": "6ed14c6f-e6c9-4956-ad48-85b9d9af0e2b",
+        "name": "Yehorivka AAS v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_AAS_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1e01d287-90d8-42a8-b557-fc70b6714db1",
+        "name": "Yehorivka AAS v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_AAS_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "d1b0fa45-9f1a-49f2-888b-5efd6c506a57",
+        "name": "Yehorivka AAS v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_AAS_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "3dd9c4f8-fe9a-4196-991a-5b33e2ee5e44",
+        "name": "Yehorivka AAS v4",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_AAS_v4.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "518fae00-c338-464d-bfa5-26bcd1c921b7",
+        "name": "Yehorivka Destruction v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Destruction_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "028815d3-4cdd-485c-a3d7-c4fe33fae32b",
+        "name": "Yehorivka Invasion v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Invasion_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "77a81dd4-ffd3-46da-95b7-52816d973aa0",
+        "name": "Yehorivka Invasion v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Invasion_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "68da9838-3f99-4361-89fa-1800cbdcb838",
+        "name": "Yehorivka Invasion v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Invasion_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "05af4748-a608-4dce-bc39-08851422460f",
+        "name": "Yehorivka RAAS v01",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v01.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "62197c8f-3eb0-45df-9837-2da12872aa49",
+        "name": "Yehorivka RAAS v02",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v02.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4ff13327-6504-4552-9215-9cd25e40745a",
+        "name": "Yehorivka RAAS v03",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v03.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "591f9544-0d7a-4fa1-b1e6-90a694608c48",
+        "name": "Yehorivka RAAS v04",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v04.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "4c5bb933-62c9-4e33-8863-afea2ace82db",
+        "name": "Yehorivka RAAS v05",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v05.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "81e33b7a-0634-4f1c-83ea-e4b982bff0bc",
+        "name": "Yehorivka RAAS v06",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v06.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "5fd73ca3-27d0-44b8-bb12-58b8e3534204",
+        "name": "Yehorivka RAAS v07",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v07.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "1b6b9131-a739-4dcc-90ce-8c5384bdf47d",
+        "name": "Yehorivka RAAS v08",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v08.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "23727df1-1abb-47de-a959-1887ea2d8b61",
+        "name": "Yehorivka RAAS v09",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v09.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f1fd3f16-819a-4685-8426-65b30bbe98ac",
+        "name": "Yehorivka RAAS v10",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v10.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "8ccdc07a-c234-4818-bc90-d5d9872c3687",
+        "name": "Yehorivka RAAS v11",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v11.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "5a0b3b29-06f0-441f-b597-0e213ed38be7",
+        "name": "Yehorivka RAAS v12",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_RAAS_v12.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "7395c466-ba53-407f-838d-dfc0302e25da",
+        "name": "Yehorivka Skirmish v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Skirmish_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "81b313d1-4847-4c18-9e6e-e6d9a07453e9",
+        "name": "Yehorivka Skirmish v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Skirmish_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "62520dc0-0241-4b2d-9c95-3ab0a883bb8a",
+        "name": "Yehorivka Skirmish v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_Skirmish_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "f7790105-1d44-4993-9bf7-a60c241aae2a",
+        "name": "Yehorivka TA v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_TA_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "b1a91835-50f5-4a57-a4ef-f901b83aeb9b",
+        "name": "Yehorivka TC v1",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_TC_v1.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "57354f05-da9d-4005-830d-4b41d89a8495",
+        "name": "Yehorivka TC v2",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_TC_v2.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      },
+      {
+        "id": "9436b478-d60f-46ce-b584-508e71ebefa0",
+        "name": "Yehorivka TC v3",
+        "image": {
+          "src": "https://static.gametactic.eu/squad/maps/yehorivka/layers/Yehorivka_TC_v3.jpg",
+          "width": 1916,
+          "height": 1916,
+          "format": "jpg"
+        },
+        "width": 1916,
+        "height": 1916
+      }
+    ]
+  }
+]
